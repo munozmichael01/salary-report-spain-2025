@@ -1,0 +1,374 @@
+CountryName,RegionName,CityName,TitleId,JobTitleName,N,P25,P50,P75,P90,Mean,IQR
+Spain,Barcelona,Barcelona,591,Receptionist,228,18.688,"21.233,99","22.961,59","23.854,4","20.373,61","4273,59"
+Spain,Barcelona,Barcelona,669,Waiter,182,"17.115,84","21.213,9","23.363,16","23.966,24","19.411,67","6247,33"
+Spain,Madrid,Madrid,591,Receptionist,142,"17.242,71","19.955,1","23.391,3","25.119,77","19.602,9","6148,58"
+Spain,Barcelona,Barcelona,221,Cook,130,19.007,"22.013,16","23.528,98","24.391,03","19.845,14","4521,99"
+Spain,Madrid,Madrid,669,Waiter,104,"14.261,86","18.208,43","22.340,33","24.216,62","18.214,98","8078,47"
+Spain,Madrid,Madrid,221,Cook,76,"17.901,44","20.536,11","23.581,62","26.094,61","20.514,33","5680,18"
+Spain,Barcelona,Barcelona,561,Housekeeping Staff,69,"13.585,66","16.222,5","18.864,6","20.633,83","15.992,44","5278,94"
+Spain,Valencia,València,591,Receptionist,60,"12.896,99","16.437,02","18.258,08","26.400,25","16.465,53","5361,09"
+Spain,Barcelona,Barcelona,243,Kitchen Assistant,56,"19.361,15","20.692,06","22.204,99","24.516,24","20.130,87","2843,84"
+Spain,Barcelona,Barcelona,494,Maintenance Technician,54,"18.491,33","23.218,47","24.811,7","24.958,37","21.140,35","6320,37"
+Spain,Barcelona,Barcelona,668,Waiter Assistant,54,"11.254,6","16.994,09","21.035,69","22.933,59","17.063,13","9781,09"
+Spain,Barcelona,Barcelona,552,Chambermaid,53,"13.746,56","18.683,15","20.634,33","21.345,3","16.753,47","6887,77"
+Spain,Islas Baleares,Palma de Mallorca,669,Waiter,52,"17.701,43","20.800,4","24.954,65","27.257,33","19.474,4","7253,23"
+Spain,Madrid,Madrid,243,Kitchen Assistant,43,"13.588,18","20.183,48","22.876,62","24.047,84","18.347,49","9288,44"
+Spain,Barcelona,Barcelona,572,Bellboy,41,"10.563,15","15.816,32","21.094,4","21.557,46","14.578,44","10.531,25"
+Spain,Madrid,Madrid,572,Bellboy,40,"16.124,47","18.741,05","22.343,79","23.572,24","18.616,75","6219,32"
+Spain,Madrid,Madrid,552,Chambermaid,38,"13.560,89","14.975,44","18.344,93","21.000,26","15.710,7","4784,04"
+Spain,Islas Baleares,Palma de Mallorca,591,Receptionist,37,"17.098,73","20.721,36","25.391,21","29.987,87","21.140,38","8292,47"
+Spain,Barcelona,Barcelona,584,Hotel Receptionist,37,"21.757,9","22.954,08","23.873,1","23.837,9","20.944,27","2115,2"
+Spain,Barcelona,Barcelona,589,Night Receptionist,36,"18.338,46","22.252,69","23.509,65","27.479,67","21.394,53","5171,19"
+Spain,Valencia,València,669,Waiter,34,"13.994,08","17.784,85","24.298,28","27.117,99","17.415,29","10.304,21"
+Spain,Islas Baleares,Palma de Mallorca,221,Cook,34,"14.128,71","20.074,91","24.895,57","25.611,79","17.864,27","10.766,86"
+Spain,Madrid,Madrid,668,Waiter Assistant,33,"15.361,3","18.566,17","22.409,48","24.293,03","18.193,08","7048,18"
+Spain,Valencia,València,221,Cook,32,"17.383,52","18.682,53","19.993,29",20.300,"17.703,88","2609,77"
+Spain,Islas Baleares,Palma de Mallorca,552,Chambermaid,31,"16.167,06","18.718,97","21.814,11","24.622,89","17.819,96","5647,06"
+Spain,Madrid,Madrid,494,Maintenance Technician,30,"15.378,44","19.560,2","21.294,84","24.033,09",18.797,"5916,4"
+Spain,Madrid,Madrid,590,Reception Assistant,30,"13.349,64","19.541,85","22.333,43","25.571,4","17.881,11","8983,79"
+Spain,Málaga,Málaga,591,Receptionist,28,"19.010,6","21.465,65","25.295,09","29.185,8","21.981,14","6284,49"
+Spain,Barcelona,Barcelona,587,Night Auditor,27,"23.156,8",25.846,29.285,"29.222,22","25.440,63","6128,2"
+Spain,Sevilla,Sevilla,591,Receptionist,26,"16.704,48","17.537,54","19.280,17","24.133,33","19.238,35","2575,69"
+Spain,Islas Baleares,Palma de Mallorca,652,Head Waiter,25,"23.284,29","26.093,2","29.420,19","31.717,33","26.653,12","6135,9"
+Spain,Madrid,Madrid,257,Chef de Partie,25,"21.517,45","28.799,7","31.927,08","34.043,31","25.588,29","10.409,63"
+Spain,Islas Baleares,Palma de Mallorca,257,Chef de Partie,24,"20.092,96","22.249,24","29.026,43","32.991,04","23.619,83","8933,47"
+Spain,Barcelona,Barcelona,226,Dishwasher,24,"16.110,85","20.293,33","21.195,04",21.824,"17.368,68","5084,19"
+Spain,Islas Baleares,Palma de Mallorca,494,Maintenance Technician,24,"15.980,73","22.876,45","23.494,01","25.440,74","19.811,83","7513,28"
+Spain,Sevilla,Sevilla,669,Waiter,23,"14.028,62","18.010,95","20.584,63","21.354,17",15.776,"6556,01"
+Spain,Barcelona,Barcelona,657,Bartender,23,"20.766,55","22.821,59","24.293,31","25.416,41","21.776,62","3526,76"
+Spain,Sevilla,Sevilla,221,Cook,22,"11.062,43","13.839,82","17.362,5",18.750,"13.837,45","6300,07"
+Spain,Barcelona,Barcelona,218,Chef,22,"21.731,77","28.608,24","33.021,55","37.864,5","27.809,09","11.289,78"
+Spain,Santa Cruz de Tenerife,Adeje,552,Chambermaid,22,"1549,94","13.856,56","19.013,7","21.188,71","11.034,29","17.463,75"
+Spain,Barcelona,Barcelona,257,Chef de Partie,21,"7401,75","24.750,64","24.319,73","32.297,59","18.196,08","16.917,98"
+Spain,Vizcaya,Bilbao,591,Receptionist,21,"13.632,98","17.804,36","20.953,33","22.595,38","17.315,62","7320,35"
+Spain,Islas Baleares,Alcúdia,552,Chambermaid,21,"9032,62","13.240,36","13.194,72","20.298,37",10.832,"4162,1"
+Spain,Madrid,Madrid,561,Housekeeping Staff,20,"1123,83","7547,3","16.231,5","19.780,76","10.542,64","15.107,67"
+Spain,Valencia,València,552,Chambermaid,20,"12.512,91","17.261,02","18.797,46","19.711,85","15.461,35","6284,55"
+Spain,Málaga,Marbella,221,Cook,20,"17.244,54","22.022,81","24.569,44","25.921,27","18.173,1","7324,91"
+Spain,Alicante,Benidorm,591,Receptionist,19,"15.788,66","17.759,74","18.186,54","18.846,87","17.299,82","2397,88"
+Spain,Madrid,Madrid,584,Hotel Receptionist,19,"14.959,64","18.411,54","22.993,19","25.495,47","19.368,42","8033,55"
+Spain,Madrid,Madrid,113,Travel Agent,19,"9890,06","19.215,45","21.628,48","23.306,15","16.016,47","11.738,42"
+Spain,Madrid,Madrid,589,Night Receptionist,19,"16.670,32","21.244,13","25.185,31","29.356,44","21.448,32",8515
+Spain,Barcelona,Barcelona,113,Travel Agent,18,"17.897,22","20.443,06","21.719,73","24.662,5","20.983,33","3822,5"
+Spain,Barcelona,Barcelona,652,Head Waiter,18,"24.461,84","25.809,04","27.797,52","29.486,77","26.509,11","3335,68"
+Spain,Santa Cruz de Tenerife,Adeje,177,GEX - Guest Experience Assistant,18,"20.643,55","20.907,65","22.988,22","24.793,42",22.000,"2344,67"
+Spain,Madrid,Madrid,489,Maintenance Manager,17,"24.014,19","25.065,38","31.135,89","35.432,25","26.755,78","7121,7"
+Spain,Madrid,Madrid,551,Assistant Executive Housekeeper,17,"17.103,51","20.963,58","27.786,07","28.427,74","21.401,18","10.682,56"
+Spain,Santa Cruz de Tenerife,Costa Adeje,243,Kitchen Assistant,17,"23,33","968,59","14.178,43","18.625,14","6701,76","14.155,1"
+Spain,Valencia,València,494,Maintenance Technician,17,"14.602,82","15.651,95","17.916,16","20.875,22","17.047,06","3313,34"
+Spain,Barcelona,Barcelona,577,Concierge,17,"10.873,07","10.941,85","15.022,78","19.899,68","13.282,35","4149,71"
+Spain,Islas Baleares,Llucmajor,552,Chambermaid,17,"13.937,55","15.426,97","15.943,07","16.459,1","13.819,06","2005,52"
+Spain,Málaga,Málaga,669,Waiter,17,"15.658,58","19.733,33","23.167,12","25.049,92","19.694,12","7508,54"
+Spain,Málaga,Marbella,669,Waiter,17,"13.932,34","20.582,52","25.822,34","26.809,41","16.815,41",11.890
+Spain,Barcelona,Barcelona,1,Accountant,17,"18.071,18","20.112,11","22.980,55",25.000,"18.883,29","4909,37"
+Spain,Barcelona,Barcelona,580,Front Office Manager,16,"20.193,83","23.905,25","26.835,56","28.311,4",23.215,"6641,73"
+Spain,Barcelona,Barcelona,653,Host/Hostess,16,"18.469,39",22.960,"24.066,89","24.638,85","19.955,13","5597,5"
+Spain,Málaga,Marbella,552,Chambermaid,16,"19.112,81","21.218,8","23.777,68",24.250,20.350,"4664,87"
+Spain,Madrid,Madrid,657,Bartender,15,"11.940,53","19.086,96","23.708,95","25.845,09","17.759,8","11.768,42"
+Spain,Alicante,Alicante/Alacant,584,Hotel Receptionist,15,"10.814,39","11.255,16",12.760,"16.448,43","12.610,13","1945,61"
+Spain,Barcelona,Barcelona,293,Sales Agent,15,"13.355,2","17.576,67","23.354,79","27.097,72","19.394,4","9999,59"
+Spain,Madrid,Madrid,652,Head Waiter,15,"25.969,96","27.154,5","33.143,5","33.420,83",27.631,"7173,54"
+Spain,Sevilla,Sevilla,552,Chambermaid,15,"15.562,5",16.920,18.000,18.000,"15.445,57","2437,5"
+Spain,Islas Baleares,Palma de Mallorca,243,Kitchen Assistant,15,18.600,21.310,"23.212,22","24.482,5","21.894,67","4612,22"
+Spain,Málaga,Marbella,591,Receptionist,14,11.848,"19.248,63","20.757,87","23.142,67","16.467,43","8909,87"
+Spain,Barcelona,Barcelona,551,Assistant Executive Housekeeper,14,"19.761,84","22.307,14","22.998,15","24.585,13","19.163,69","3236,3"
+Spain,Alicante,Alicante/Alacant,591,Receptionist,14,"17.432,6","19.555,38","20.088,67","20.299,74","18.570,29","2656,07"
+Spain,A Coruña,Santiago de Compostela,221,Cook,14,"13.251,46","13.316,38","13.486,98","14.654,32","13.407,54","235,52"
+Spain,Madrid,Madrid,286,Rental Sales Consultant,14,"16.432,12","16.667,11","17.486,13","18.236,92","17.373,43","1054,01"
+Spain,Barcelona,Barcelona,119,Reservation Agent,14,"17.946,25","18.895,83","21.110,6","21.891,86","19.886,36","3164,35"
+Spain,Tarragona,Salou,552,Chambermaid,14,"13.646,06","13.779,7","14.930,75","16.387,75","14.834,57","1284,69"
+Spain,Madrid,Madrid,293,Sales Agent,13,"14.857,54","18.478,38","20.142,63","20.777,78",17.048,"5285,09"
+Spain,Las Palmas,Yaiza,177,GEX - Guest Experience Assistant,13,21.000,"21.233,33","22.238,89","22.616,67","21.461,54","1238,89"
+Spain,Santa Cruz de Tenerife,Costa Adeje,669,Waiter,13,"13.537,08","18.389,52","20.738,89","21.597,22","16.968,31","7201,81"
+Spain,Islas Baleares,Palma de Mallorca,218,Chef,13,30.000,"30.150,1","30.074,97","30.788,89","28.369,23","74,97"
+Spain,Islas Baleares,Palma de Mallorca,668,Waiter Assistant,13,"15.166,67","19.055,06","22.534,5","23.326,67","17.671,38","7367,83"
+Spain,Islas Baleares,Ibiza,221,Cook,13,"19.311,22",21.660,"21.630,08","22.195,83",20.324,"2318,85"
+Spain,Las Palmas,San Bartolomé de Tirajana,552,Chambermaid,12,19.200,"19.267,78","20.506,59","20.576,23","19.533,33","1306,59"
+Spain,Málaga,Málaga,286,Rental Sales Consultant,12,16.404,"16.797,68","18.638,24","18.596,96","18.439,73","2234,24"
+Spain,Girona,Sant Feliu de Guíxols,552,Chambermaid,12,15.876,15.876,15.876,15.876,15.876,0
+Spain,Pontevedra,Vigo,221,Cook,12,13.608,13.608,13.608,13.608,12.574,0
+Spain,Madrid,Madrid,226,Dishwasher,12,14.940,"16.503,33","19.232,5","19.211,76","16.964,75","4292,5"
+Spain,Madrid,Madrid,587,Night Auditor,12,18.000,"21.020,83",25.118,"28.038,66","22.166,67",7118
+Spain,Barcelona,Barcelona,597,Intern in Reception,12,"3297,44","5137,5",6200,6200,4500,"2902,56"
+Spain,Islas Baleares,Palma de Mallorca,460,Airport Guide,12,"20.808,4","21.400,08",22.296,22.296,"21.032,33","1487,6"
+Spain,Málaga,Fuengirola,591,Receptionist,12,20.500,"21.583,33","22.724,44","23.838,89","22.054,69","2224,44"
+Spain,Barcelona,Barcelona,181,GEX - Guest Experience Coordinator,12,23.000,"23.333,33","23.833,28","23.907,59","23.416,67","833,28"
+Spain,Islas Baleares,Islas Baleares,552,Chambermaid,12,16.800,"18.321,11","19.561,94","19.561,94","17.583,33","2761,94"
+Spain,Islas Baleares,Ibiza,591,Receptionist,12,"22.266,67","24.080,1","25.501,61","25.501,61","22.670,08","3234,94"
+Spain,Vizcaya,Bilbao,669,Waiter,11,"16.583,7","19.766,67",21.600,21.600,"19.221,82","5016,3"
+Spain,Alicante,Benidorm,552,Chambermaid,11,"14.854,22","15.643,17","16.423,23","16.859,14","16.340,36","1569,01"
+Spain,Madrid,Madrid,650,Food and Beverage Manager,11,"23.041,67","25.820,83","26.666,67","31.574,07","29.181,82",3625
+Spain,Las Palmas,Maspalomas,221,Cook,11,"21.300,93","22.343,86","23.054,08","23.054,08","21.176,84","1753,15"
+Spain,Valencia,València,572,Bellboy,11,"16.083,33",18.000,"18.222,22","18.222,22",16.000,"2138,89"
+Spain,Pontevedra,Vigo,669,Waiter,11,15.600,15.600,15.600,15.600,15.600,0
+Spain,Islas Baleares,Menorca,552,Chambermaid,11,"11.418,67","13.096,8",13.584,13.584,"12.065,45","2165,33"
+Spain,Madrid,Madrid,119,Reservation Agent,11,18.000,18.125,"19.862,27","20.427,21","18.990,91","1862,27"
+Spain,Barcelona,Barcelona,286,Rental Sales Consultant,11,18.180,18.180,18.180,18.180,"18.147,27",0
+Spain,Alicante,Dehesa de Campoamor,552,Chambermaid,11,15.876,15.876,15.876,15.876,15.876,0
+Spain,Barcelona,Barcelona,590,Reception Assistant,11,"11.496,7","16.078,89","18.130,83","18.611,67","13.658,18","6634,13"
+Spain,Alicante,Benidorm,669,Waiter,11,"8555,85",16.200,"18.366,67","19.575,31","11.351,13","9810,82"
+Spain,Madrid,Madrid,653,Host/Hostess,10,"15.228,75",24.708,30.000,30.000,21.380,"14.771,25"
+Spain,Santa Cruz de Tenerife,Costa Adeje,221,Cook,10,"17.753,44","22.333,33",23.500,"23.333,33","19.813,85","5746,56"
+Spain,Granada,Granada,591,Receptionist,10,14.400,16.800,"21.291,11","22.793,09",18.736,"6891,11"
+Spain,Girona,Palamós,552,Chambermaid,10,14.400,14.400,14.400,14.400,14.400,0
+Spain,Valencia,Oliva,226,Dishwasher,10,"14.413,6","14.413,6","14.413,6","14.413,6","14.413,6",0
+Spain,A Coruña,Santiago de Compostela,668,Waiter Assistant,10,"92,16","92,16","92,16","92,16","92,16",0
+Spain,Barcelona,Barcelona,493,Maintenance Officer,10,"22.681,88",24.000,25.875,"25.775,28","24.760,67","3193,13"
+Spain,Málaga,Málaga,552,Chambermaid,10,13.713,15.600,"15.866,67","15.866,67","15.056,4","2153,67"
+Spain,Sevilla,Sevilla,652,Head Waiter,10,20.000,"20.833,33","22.305,65","22.224,77",21.600,"2305,65"
+Spain,Vizcaya,Bilbao,221,Cook,10,"17.934,38",21.600,22.000,22.000,19.430,"4065,63"
+Spain,Barcelona,Barcelona,661,Restaurant Manager,10,27.375,31.500,33.000,"35.687,5","27.422,65",5625
+Spain,Islas Baleares,Ibiza,494,Maintenance Technician,10,20.400,"21.350,62","23.105,42","24.070,79",22.520,"2705,42"
+Spain,Las Palmas,Mogán,552,Chambermaid,10,"16.796,12","22.006,8",23.516,23.516,"18.957,2","6719,88"
+Spain,Murcia,La Manga,221,Cook,10,13.608,13.608,"13.660,8",13.652,"13.687,2","52,8"
+Spain,Islas Baleares,Palmanova,669,Waiter,10,15.900,16.800,20.385,20.385,"18.616,8",4485
+Spain,Barcelona,Barcelona,192,Call Center Agent,10,"19.481,67",21.000,22.000,22.000,20.060,"2518,33"
+Spain,Islas Baleares,Calviá,221,Cook,10,20.000,"22.333,33","24.656,71","24.656,71","19.226,5","4656,71"
+Spain,Barcelona,Barcelona,632,Bakery Attendant,10,18.000,"20.579,94","21.519,17","22.577,79","19.859,2","3519,17"
+Spain,Málaga,Málaga,221,Cook,10,22.000,"23.349,15","23.484,39","23.484,39","20.773,4","1484,39"
+Spain,Islas Baleares,Calviá,669,Waiter,10,"23.030,56",25.000,"25.444,44","25.444,44",23.580,"2413,89"
+Spain,Sevilla,Sevilla,494,Maintenance Technician,9,16.200,17.400,"18.427,78","18.427,78","17.644,44","2227,78"
+Spain,Alicante,Alicante/Alacant,669,Waiter,9,"14.887,89","20.702,4",28.800,28.800,"20.564,12","13.912,11"
+Spain,Madrid,Madrid,248,Pastry Chef,9,"19.666,67","21.166,67","26.022,92","25.979,17",23.200,"6356,25"
+Spain,Tarragona,Tarragona,591,Receptionist,9,"17.866,67","18.222,22","19.178,4","19.178,4",19.400,"1311,73"
+Spain,Barcelona,Barcelona,89,Valet Parking,9,"19.379,88","20.901,5","20.950,75","20.950,75","19.601,56","1570,88"
+Spain,Sevilla,Sevilla,243,Kitchen Assistant,9,"14.244,44",15.200,"16.070,37","16.070,37","15.622,22","1825,93"
+Spain,Barcelona,Barcelona,557,Executive Housekeeper,9,"23.913,89",25.000,"25.916,67","25.896,3","24.777,78","2002,78"
+Spain,Madrid,Madrid,254,Sous Chef,9,"20.888,89","30.555,56",34.875,33.000,"25.333,33","13.986,11"
+Spain,Barcelona,L'Hospitalet de Llobregat,591,Receptionist,9,15.400,"18.833,33","20.465,28","20.465,28","18.133,33","5065,28"
+Spain,Málaga,Málaga,119,Reservation Agent,9,18.000,"18.283,33","18.279,17","18.279,17",18.200,"279,17"
+Spain,Valencia,València,584,Hotel Receptionist,9,"14.017,5","14.583,33","15.492,36","15.492,36",15.000,"1474,86"
+Spain,Barcelona,Barcelona,650,Food and Beverage Manager,9,"24.888,89","25.388,89",27.000,27.000,"28.186,67","2111,11"
+Spain,Islas Baleares,Calviá,552,Chambermaid,9,"14.867,56","19.392,71","20.512,89","20.512,89","17.467,56","5645,33"
+Spain,Girona,Sant Feliu de Guíxols,551,Assistant Executive Housekeeper,9,15.876,15.876,15.876,15.876,15.876,0
+Spain,Guipúzcoa,Donostia/San Sebastián,552,Chambermaid,9,"9075,9","14.838,89","16.617,5","16.383,33","11.988,89","7541,6"
+Spain,Las Palmas,Las Palmas de Gran Canaria,552,Chambermaid,9,"13.466,67","14.905,11","17.814,22","17.928,9","16.036,89","4347,55"
+Spain,Alicante,Benidorm,589,Night Receptionist,9,"9804,98",14.400,"16.166,67","16.068,52","13.668,4","6361,68"
+Spain,Santa Cruz de Tenerife,Santa Cruz de Tenerife,669,Waiter,8,"18.666,67",22.000,22.030,22.030,"18.908,75","3363,33"
+Spain,Cádiz,El Puerto de Santa María,669,Waiter,8,15.600,15.600,15.600,15.600,15.600,0
+Spain,Santa Cruz de Tenerife,Adeje,669,Waiter,8,"19.041,67","20.933,33",22.000,22.000,18.725,"2958,33"
+Spain,Madrid,Madrid,218,Chef,8,"19.441,67",25.000,"28.955,56","28.955,56",25.125,"9513,89"
+Spain,La Rioja,Haro,552,Chambermaid,8,"13.011,65","13.261,2","13.261,2","13.261,2","13.065,9","249,55"
+Spain,Madrid,Madrid,570,Assistant Head of Reception,8,15.975,18.550,25.500,25.500,21.525,9525
+Spain,Madrid,Madrid,577,Concierge,8,18.000,"20.481,71","23.475,73","23.475,73","19.992,2","5475,73"
+Spain,Murcia,La Manga,552,Chambermaid,8,10.800,10.800,10.800,10.800,10.800,0
+Spain,Las Palmas,Playa Blanca,257,Chef de Partie,8,26.888,27.499,27.499,27.499,"26.811,63",611
+Spain,Las Palmas,Playa Blanca,221,Cook,8,"23.440,6","24.134,01","24.318,36","24.318,36","23.744,9","877,76"
+Spain,Zaragoza,Zaragoza,113,Travel Agent,8,12.000,12.000,12.000,12.000,12.000,0
+Spain,Girona,Girona,591,Receptionist,8,17.200,18.000,"18.333,33","18.333,33",17.775,"1133,33"
+Spain,Málaga,Málaga,243,Kitchen Assistant,8,16.200,21.000,23.468,23.468,"17.926,5",7268
+Spain,Las Palmas,San Bartolomé de Tirajana,669,Waiter,8,18.000,18.400,18.800,18.800,"16.652,94",800
+Spain,Barcelona,Barcelona,647,Food and Beverage Assistant,8,"5300,26",6320,6880,6880,10.420,"1579,74"
+Spain,Murcia,La Manga,561,Housekeeping Staff,8,13.674,13.674,13.674,13.674,13.674,0
+Spain,Barcelona,L'Hospitalet de Llobregat,669,Waiter,8,"427,18",833,"7492,55","7492,55","8361,87","7065,37"
+Spain,Málaga,Málaga,494,Maintenance Technician,8,"19.911,11",20.400,"20.911,11","20.911,11",21.450,1000
+Spain,Barcelona,Barcelona,532,Marketing Director,8,"27.796,59","34.277,78",35.000,35.000,30.875,"7203,41"
+Spain,Islas Baleares,Can Picafort,669,Waiter,8,19.200,19.600,"20.193,06","20.193,06",19.950,"993,06"
+Spain,Islas Baleares,Palmanova,221,Cook,8,18.000,"18.194,44","18.388,89","18.388,89",18.875,"388,89"
+Spain,Islas Baleares,Alcúdia,221,Cook,8,21.450,25.200,"28.066,67","28.066,67","21.352,38","6616,67"
+Spain,Málaga,Torremolinos,552,Chambermaid,8,10.800,11.100,"13.533,33","13.533,33",13.050,"2733,33"
+Spain,Alicante,Dénia,552,Chambermaid,8,13.588,"13.801,22","14.858,45","14.858,45",15.024,"1270,45"
+Spain,Málaga,Benalmádena,552,Chambermaid,8,"11.901,25",16.800,16.800,16.800,"12.601,25","4898,75"
+Spain,Tarragona,L'Hospitalet de l'Infant,561,Housekeeping Staff,8,13.608,13.608,13.608,13.608,13.608,0
+Spain,Islas Baleares,Can Picafort,221,Cook,8,19.800,20.400,"21.966,67","21.966,67",21.525,"2166,67"
+Spain,Girona,L'Escala,561,Housekeeping Staff,8,6000,"6933,33","9009,37","9009,37","7802,21","3009,37"
+Spain,Islas Baleares,Palma de Mallorca,664,Restaurant Section Head,8,19.800,26.000,"27.983,33","27.088,89",21.775,"8183,33"
+Spain,Valencia,València,243,Kitchen Assistant,8,"14.133,33",15.600,17.040,16.960,14.380,"2906,67"
+Spain,Girona,Lloret de Mar,580,Front Office Manager,8,"12.175,67",19.200,"24.093,33","24.093,33","15.946,08","11.917,67"
+Spain,Alicante,Benidorm,221,Cook,8,"18.888,89",19.000,"19.319,44","19.302,47",19.125,"430,56"
+Spain,Valencia,València,257,Chef de Partie,7,"31.866,67",33.600,33.600,33.600,"29.142,86","1733,33"
+Spain,Lleida,Lleida,591,Receptionist,7,16.800,16.800,"18.242,71","18.242,71","16.530,36","1442,71"
+Spain,Alicante,Benidorm,668,Waiter Assistant,7,"16.305,56","17.044,44",17.200,17.200,16.000,"894,44"
+Spain,Madrid,Madrid,486,Facilities Technician,7,"20.888,89",22.000,22.000,22.000,"20.428,57","1111,11"
+Spain,Girona,L'Escala,560,Cleaning Manager,7,"25.632,65","26.265,72",26.399,26.399,"25.370,86","766,35"
+Spain,Granada,Granada,552,Chambermaid,7,"12.037,5",15.200,18.000,18.000,"13.028,57","5962,5"
+Spain,Las Palmas,Puerto del Carmen,591,Receptionist,7,"18.383,33",20.000,21.600,21.600,19.400,"3216,67"
+Spain,Las Palmas,Playa Blanca,669,Waiter,7,"23.418,7","24.078,45","24.318,36","24.318,36","23.610,78","899,66"
+Spain,Tarragona,Salou,159,Tourist Animator,7,16.200,16.200,16.200,16.200,16.200,0
+Spain,Las Palmas,Yaiza,489,Maintenance Manager,7,24.000,24.000,"24.333,33","24.333,33","24.857,14","333,33"
+Spain,Santa Cruz de Tenerife,Costa Adeje,552,Chambermaid,7,"18.367,5",20.628,20.814,20.814,"18.797,14","2446,5"
+Spain,Islas Baleares,Palma de Mallorca,251,Pizzaiolo,7,24.666,25.480,25.776,25.776,"24.807,43",1110
+Spain,Madrid,Madrid,165,Customer Service Advisor,7,22,22,"22,03","22,03","22,07","0,03"
+Spain,Alicante,Benidorm,580,Front Office Manager,7,21.000,22.000,"21.583,33","21.583,33","22.475,17","583,33"
+Spain,Barcelona,Barcelona,489,Maintenance Manager,7,"21.811,11","23.016,67",26.000,26.000,23.900,"4188,89"
+Spain,Barcelona,Barcelona,254,Sous Chef,7,23.660,"24.106,67","24.106,67","24.106,67","24.597,14","446,67"
+Spain,Islas Baleares,Can Picafort,257,Chef de Partie,7,21.600,21.600,"21.733,33","21.733,33","21.771,43","133,33"
+Spain,Las Palmas,Maspalomas,552,Chambermaid,7,22.000,22.000,22.430,22.430,"20.894,29",430
+Spain,Barcelona,Barcelona,10,Accounts Manager,7,22,22,"22,06","22,06","22,14","0,06"
+Spain,Las Palmas,San Bartolomé de Tirajana,668,Waiter Assistant,7,9000,9600,"13.333,33","13.333,33","12.342,86","4333,33"
+Spain,Barcelona,Viladecans,591,Receptionist,7,19.221,21.600,22.116,22.116,"19.494,86",2895
+Spain,Valencia,València,79,Hotel Director,7,16.900,20.800,21.600,21.600,"20.485,71",4700
+Spain,Barcelona,Barcelona,492,Maintenance Assistant,7,20.000,21.000,21.000,21.000,"19.171,43",1000
+Spain,Islas Baleares,Islas Baleares,221,Cook,7,18.000,19.500,"19.666,67","19.666,67","15.003,43","1666,67"
+Spain,Tarragona,Salou,551,Assistant Executive Housekeeper,7,15.960,15.960,15.960,15.960,"17.251,43",0
+Spain,Málaga,Torremolinos,591,Receptionist,7,15.600,16.800,18.000,18.000,"15.257,14",2400
+Spain,Málaga,Marbella,587,Night Auditor,7,25.000,"25.666,67","25.622,22","25.622,22","26.742,86","622,22"
+Spain,Barcelona,Barcelona,26,Administrative Assistant,7,14.400,"16.066,67","16.455,56","16.455,56","15.285,71","2055,56"
+Spain,Islas Baleares,Portals Nous,221,Cook,7,"23.283,33","24.577,78",25.200,25.200,"24.085,71","1916,67"
+Spain,Málaga,Málaga,668,Waiter Assistant,7,"16.933,33",18.000,18.000,18.000,"17.914,29","1066,67"
+Spain,Málaga,Marbella,668,Waiter Assistant,7,"21.151,33",22.000,"22.986,22","22.986,22","21.901,14","1834,89"
+Spain,Tarragona,Altafulla,226,Dishwasher,7,"13.209,6","13.209,6","13.209,6","13.209,6","13.209,6",0
+Spain,Madrid,Madrid,89,Valet Parking,7,13.608,13.608,"15.082,67","15.082,67","14.898,29","1474,67"
+Spain,Islas Baleares,Palma de Mallorca,653,Host/Hostess,7,21.600,21.600,"24.733,33","24.733,33","20.457,14","3133,33"
+Spain,Islas Baleares,Santa Eulària des Riu,552,Chambermaid,7,"22.906,67",24.000,24.000,24.000,"21.188,57","1093,33"
+Spain,Barcelona,Barcelona,593,Human Resources Intern,7,5400,5400,5400,5400,5400,0
+Spain,Mallorca,Mallorca,552,Chambermaid,7,7468,8400,8400,8400,"9060,57",932
+Spain,Zaragoza,Zaragoza,221,Cook,7,"18.347,78",20.640,"20.791,11","20.791,11",17.510,"2443,33"
+Spain,Islas Baleares,Ibiza,669,Waiter,7,"19.200,21","23.266,72",25.200,25.200,"20.228,71","5999,79"
+Spain,Málaga,Marbella,257,Chef de Partie,7,"25.195,83","26.213,33",26.880,26.880,25.340,"1684,17"
+Spain,Tarragona,Salou,218,Chef,7,9310,"19.773,33",24.080,24.080,"12.382,86",14.770
+Spain,Málaga,Benalmádena,221,Cook,7,21.600,21.600,21.900,21.900,22.200,300
+Spain,Málaga,Marbella,561,Housekeeping Staff,7,20.000,20.000,"20.111,11","20.111,11","17.291,43","111,11"
+Spain,Islas Baleares,Calviá,257,Chef de Partie,7,"12.606,67","15.303,33",21.600,21.600,"15.097,86","8993,33"
+Spain,Islas Baleares,Ibiza,652,Head Waiter,7,21.600,23.000,24.400,24.400,24.000,2800
+Spain,Málaga,Málaga,257,Chef de Partie,6,32.000,33.600,33.600,33.600,31.200,1600
+Spain,Santa Cruz de Tenerife,Adeje,26,Administrative Assistant,6,21.000,21.000,21.000,21.000,21.500,0
+Spain,Santa Cruz de Tenerife,Adeje,494,Maintenance Technician,6,"21.777,78",22.000,22.000,22.000,"21.833,33","222,22"
+Spain,Madrid,Madrid,661,Restaurant Manager,6,18.000,18.000,18.000,18.000,"28.166,67",0
+Spain,Barcelona,Barcelona,49,Revenue Manager,6,25.000,25.000,25.000,25.000,23.500,0
+Spain,Barcelona,L'Hospitalet de Llobregat,584,Hotel Receptionist,6,23.000,23.000,23.000,23.000,23.000,0
+Spain,Madrid,Alcalá de Henares,591,Receptionist,6,14.400,14.400,14.400,14.400,14.900,0
+Spain,Las Palmas,Playa Blanca,552,Chambermaid,6,"23.622,12","23.622,12","23.622,12","23.622,12","23.290,88",0
+Spain,Málaga,Málaga,589,Night Receptionist,6,25.200,27.600,27.600,27.600,"24.613,33",2400
+Spain,Las Palmas,Puerto del Carmen,552,Chambermaid,6,18.000,18.000,18.000,18.000,18.600,0
+Spain,Granada,Granada,669,Waiter,6,20.400,20.400,20.400,20.400,18.800,0
+Spain,Barcelona,Barcelona,486,Facilities Technician,6,22.000,22.000,23.000,23.000,"17.560,17",1000
+Spain,Madrid,Madrid,45,Chief Executive Officer (CEO),6,24.000,24.000,"27.666,67","27.666,67","28.666,67","3666,67"
+Spain,Santa Cruz de Tenerife,Candelaria,591,Receptionist,6,24.000,25.000,25.000,25.000,"23.666,67",1000
+Spain,Sevilla,Sevilla,653,Host/Hostess,6,18.820,19.020,19.020,19.020,"19.663,33",200
+Spain,Barcelona,Barcelona,630,Assistant Head Waiter,6,24.000,24.000,24.000,24.000,"24.583,33",0
+Spain,Granada,Granada,221,Cook,6,18.000,18.000,18.000,18.000,"17.666,67",0
+Spain,La Rioja,Logroño,552,Chambermaid,6,16.000,16.000,16.000,16.000,"17.666,67",0
+Spain,Tarragona,Cambrils,552,Chambermaid,6,15.480,15.480,15.480,15.480,"15.627,04",0
+Spain,Alicante,El Albir,552,Chambermaid,6,16.000,16.000,16.000,16.000,"16.583,33",0
+Spain,Sevilla,Sevilla,584,Hotel Receptionist,6,15.600,15.600,15.600,15.600,"16.766,67",0
+Spain,Madrid,Madrid,1,Accountant,6,"21.973,33",25.000,25.000,25.000,"22.786,67","3026,67"
+Spain,Islas Baleares,Palma de Mallorca,2,Accounting Assistant,6,24.500,25.000,25.000,25.000,"24.083,33",500
+Spain,Santa Cruz de Tenerife,Santa Cruz de Tenerife,218,Chef,6,26.000,26.000,26.000,26.000,"29.666,67",0
+Spain,Barcelona,Barcelona,166,Customer Service Agent,6,16.200,18.000,18.000,18.000,15.300,1800
+Spain,Murcia,Murcia,551,Assistant Executive Housekeeper,6,14.400,14.400,14.400,14.400,14.400,0
+Spain,Islas Baleares,Palma de Mallorca,226,Dishwasher,6,10.800,10.800,10.800,10.800,"10.970,17",0
+Spain,Barcelona,Barcelona,316,Store Sales Assistant,6,16.200,16.200,16.200,16.200,"15.916,67",0
+Spain,Barcelona,Barcelona,600,Revenue Agent,6,22.000,22.000,22.000,22.000,"20.033,33",0
+Spain,Girona,Roses,668,Waiter Assistant,6,18.000,18.000,18.000,18.000,18.000,0
+Spain,Islas Baleares,Ciutadella de Menorca,552,Chambermaid,6,"15.822,22",18.000,18.000,18.000,"14.897,33","2177,78"
+Spain,Islas Baleares,San Antonio Abad,580,Front Office Manager,6,26.000,26.000,"27.333,33","27.333,33","27.333,33","1333,33"
+Spain,Málaga,Fuengirola,669,Waiter,6,15.600,15.600,15.600,15.600,"18.966,67",0
+Spain,Girona,Lloret de Mar,552,Chambermaid,6,"17.301,33",18.000,18.000,18.000,"17.501,33","698,67"
+Spain,Islas Baleares,Palma de Mallorca,584,Hotel Receptionist,6,20.668,26.400,26.400,26.400,"19.618,67",5732
+Spain,Santa Cruz de Tenerife,Adeje,591,Receptionist,6,"17.866,67",20.400,20.400,20.400,20.000,"2533,33"
+Spain,Islas Baleares,Colonia de Sant Jordi,669,Waiter,6,24.000,24.000,24.000,24.000,23.988,0
+Spain,Sevilla,Sevilla,590,Reception Assistant,6,18.000,18.000,19.000,19.000,"18.666,67",1000
+Spain,Islas Baleares,Portocolom,669,Waiter,6,20.400,20.400,22.000,22.000,21.400,1600
+Spain,Islas Baleares,Ciutadella de Menorca,221,Cook,6,"20.666,67",22.000,22.000,22.000,"21.199,27","1333,33"
+Spain,Islas Baleares,Santanyí,669,Waiter,6,"22.303,56",24.000,24.000,24.000,"22.944,67","1696,44"
+Spain,Madrid,Madrid,79,Hotel Director,6,"33.533,33",38.400,38.400,38.400,"37.916,67","4866,67"
+Spain,Islas Baleares,Cala d'Or,552,Chambermaid,6,10.800,10.800,10.800,10.800,"15.249,33",0
+Spain,Valencia,València,668,Waiter Assistant,6,"18.786,67",20.640,20.640,20.640,17.300,"1853,33"
+Spain,A Coruña,A Coruña,286,Rental Sales Consultant,6,16.572,16.572,16.572,16.572,16.754,0
+Spain,Islas Baleares,Puigpuñent,591,Receptionist,6,20.400,20.400,20.400,20.400,20.400,0
+Spain,Las Palmas,Playa Blanca,243,Kitchen Assistant,6,72,72,72,72,"7346,52",0
+Spain,Madrid,Madrid,23,Administrative,6,25.000,25.000,25.000,25.000,"25.833,33",0
+Spain,Burgos,Burgos,221,Cook,6,"19.066,67",20.640,20.640,20.640,"18.493,47","1573,33"
+Spain,Alicante,Benidorm,438,Groups & Events Sales Manager,6,28.000,30.000,30.000,30.000,27.000,2000
+Spain,Las Palmas,Puerto del Carmen,652,Head Waiter,5,24.000,24.000,24.000,24.000,24.000,0
+Spain,Murcia,Fuente Álamo de Murcia,552,Chambermaid,5,14.400,14.400,14.400,14.400,14.400,0
+Spain,Las Palmas,Las Palmas de Gran Canaria,591,Receptionist,5,30.000,30.000,30.000,30.000,22.440,0
+Spain,Las Palmas,Las Palmas de Gran Canaria,669,Waiter,5,28.800,28.800,28.800,28.800,21.600,0
+Spain,Santa Cruz de Tenerife,Adeje,664,Restaurant Section Head,5,26.000,26.000,26.000,26.000,"20.003,6",0
+Spain,Madrid,Madrid,665,Sommelier,5,18.000,18.000,18.000,18.000,18.560,0
+Spain,Barcelona,L'Hospitalet de Llobregat,589,Night Receptionist,5,22.000,22.000,22.000,22.000,22.000,0
+Spain,Santa Cruz de Tenerife,Santa Cruz de Tenerife,221,Cook,5,18.000,18.000,18.000,18.000,"16.853,99",0
+Spain,Barcelona,Santa Susanna,591,Receptionist,5,14.400,14.400,14.400,14.400,15.840,0
+Spain,Tarragona,Tarragona,79,Hotel Director,5,40.000,40.000,40.000,40.000,36.720,0
+Spain,Islas Baleares,Ibiza,489,Maintenance Manager,5,21.600,21.600,21.600,21.600,"23.645,6",0
+Spain,Lleida,Lleida,226,Dishwasher,5,14.400,14.400,14.400,14.400,14.400,0
+Spain,Sevilla,Sevilla,572,Bellboy,5,18.000,18.000,18.000,18.000,17.280,0
+Spain,Tarragona,Tarragona,552,Chambermaid,5,18.000,18.000,18.000,18.000,18.528,0
+Spain,Islas Baleares,Can Picafort,218,Chef,5,25.200,25.200,25.200,25.200,28.320,0
+Spain,Alicante,Alicante/Alacant,580,Front Office Manager,5,21.600,21.600,21.600,21.600,21.760,0
+Spain,Girona,Lloret de Mar,634,Bar Manager,5,25.000,25.000,25.000,25.000,25.360,0
+Spain,Islas Baleares,Palma de Mallorca,254,Sous Chef,5,25.200,25.200,25.200,25.200,22.240,0
+Spain,Barcelona,Barcelona,120,Reservations Manager,5,22.000,22.000,22.000,22.000,21.910,0
+Spain,Islas Baleares,Palma de Mallorca,589,Night Receptionist,5,24.000,24.000,24.000,24.000,24.780,0
+Spain,Santa Cruz de Tenerife,Adeje,23,Administrative,5,19.000,19.000,19.000,19.000,16.403,0
+Spain,Islas Baleares,Puigpuñent,669,Waiter,5,21.600,21.600,21.600,21.600,21.600,0
+Spain,Islas Baleares,Puigpuñent,221,Cook,5,24.000,24.000,24.000,24.000,24.000,0
+Spain,Guipúzcoa,Donostia/San Sebastián,591,Receptionist,5,18.000,18.000,18.000,18.000,"21.599,4",0
+Spain,Girona,Torrent,668,Waiter Assistant,5,19.000,19.000,19.000,19.000,19.000,0
+Spain,Madrid,Madrid,664,Restaurant Section Head,5,27.000,27.000,27.000,27.000,22.300,0
+Spain,Las Palmas,San Bartolomé de Tirajana,243,Kitchen Assistant,5,19.200,19.200,19.200,19.200,19.960,0
+Spain,Islas Baleares,Alcúdia,561,Housekeeping Staff,5,16.680,16.680,16.680,16.680,16.680,0
+Spain,Navarra,Pamplona/Iruña,552,Chambermaid,5,18.000,18.000,18.000,18.000,16.280,0
+Spain,Málaga,Málaga,557,Executive Housekeeper,5,28.800,28.800,28.800,28.800,27.840,0
+Spain,Barcelona,Barcelona,570,Assistant Head of Reception,5,24.000,24.000,24.000,24.000,24.400,0
+Spain,Barcelona,Barcelona,314,Salesperson Call Center,5,18.000,18.000,18.000,18.000,18.000,0
+Spain,Pontevedra,Vigo,243,Kitchen Assistant,5,15.480,15.480,15.480,15.480,15.480,0
+Spain,Málaga,Torremolinos,221,Cook,5,21.000,21.000,21.000,21.000,19.960,0
+Spain,Barcelona,Barcelona,23,Administrative,5,16.000,16.000,16.000,16.000,15.600,0
+Spain,Tarragona,Salou,243,Kitchen Assistant,5,21.600,21.600,21.600,21.600,19.800,0
+Spain,Canillo,Soldeu,591,Receptionist,5,14.400,14.400,14.400,14.400,14.400,0
+Spain,Madrid,Coslada,591,Receptionist,5,6000,6000,6000,6000,12.800,0
+Spain,Barcelona,L'Hospitalet de Llobregat,221,Cook,5,10.000,10.000,10.000,10.000,14.800,0
+Spain,Islas Baleares,Calviá,243,Kitchen Assistant,5,23.700,23.700,23.700,23.700,23.380,0
+Spain,Castellón,Orpesa,552,Chambermaid,5,14.620,14.620,14.620,14.620,14.620,0
+Spain,Las Palmas,Yaiza,493,Maintenance Officer,5,20.400,20.400,20.400,20.400,20.160,0
+Spain,Alicante,Alicante/Alacant,494,Maintenance Technician,5,20.256,20.256,20.256,20.256,19.392,0
+Spain,Badajoz,Badajoz,584,Hotel Receptionist,5,22.000,22.000,22.000,22.000,19.200,0
+Spain,Málaga,Fuengirola,221,Cook,5,25.000,25.000,25.000,25.000,22.400,0
+Spain,Barcelona,Barcelona,665,Sommelier,5,24.000,24.000,24.000,24.000,24.200,0
+Spain,Islas Baleares,Can Pastilla,552,Chambermaid,5,19.200,19.200,19.200,19.200,"16.593,6",0
+Spain,Barcelona,Barcelona,180,GEX - Guest Experience Manager,5,35.000,35.000,35.000,35.000,30.600,0
+Spain,Islas Baleares,Can Picafort,590,Reception Assistant,5,19.200,19.200,19.200,19.200,"20.297,28",0
+Spain,Islas Baleares,Calviá,668,Waiter Assistant,5,19.952,19.952,19.952,19.952,"16.386,2",0
+Spain,Madrid,Madrid,773,Cabin Crew,5,36.000,36.000,36.000,36.000,32.400,0
+Spain,Barcelona,Barberà del Vallès,591,Receptionist,5,21.000,21.000,21.000,21.000,21.000,0
+Spain,Islas Baleares,Camp de Mar,591,Receptionist,5,24.000,24.000,24.000,24.000,19.520,0
+Spain,Málaga,Marbella,551,Assistant Executive Housekeeper,5,24.000,24.000,24.000,24.000,24.520,0
+Spain,Málaga,Marbella,572,Bellboy,5,24.000,24.000,24.000,24.000,22.200,0
+Spain,Cádiz,El Puerto de Santa María,221,Cook,5,21.600,21.600,21.600,21.600,21.600,0
+Spain,Málaga,Marbella,243,Kitchen Assistant,5,22.000,22.000,22.000,22.000,21.360,0
+Spain,Málaga,Marbella,89,Valet Parking,5,24.000,24.000,24.000,24.000,22.400,0
+Spain,Tarragona,L'Ampolla,552,Chambermaid,5,14.964,14.964,14.964,14.964,14.964,0
+Spain,Islas Baleares,Palmanova,591,Receptionist,5,18.000,18.000,18.000,18.000,16.420,0
+Spain,Madrid,San Fernando de Henares,243,Kitchen Assistant,5,20.640,20.640,20.640,20.640,20.640,0
+Spain,Girona,Lloret de Mar,221,Cook,5,"20.968,8","20.968,8","20.968,8","20.968,8","20.787,52",0
+Spain,Islas Baleares,Alcúdia,669,Waiter,5,21.600,21.600,21.600,21.600,19.880,0
+Spain,Islas Baleares,Alcúdia,664,Restaurant Section Head,5,20,20,20,20,"11.411,2",0
+Spain,Pontevedra,Sanxenxo,552,Chambermaid,5,15.264,15.264,15.264,15.264,15.264,0
+Spain,Pontevedra,Sanxenxo,572,Bellboy,5,15.480,15.480,15.480,15.480,15.480,0
+Spain,Islas Baleares,Ibiza,551,Assistant Executive Housekeeper,5,24.000,24.000,24.000,24.000,22.400,0
+Spain,Alicante,Benidorm,657,Bartender,5,"16,8","16,8","16,8","16,8","9010,08",0
+Spain,Alicante,Benidorm,494,Maintenance Technician,5,14.400,14.400,14.400,14.400,15.120,0
+Spain,Zaragoza,Zaragoza,243,Kitchen Assistant,5,20.640,20.640,20.640,20.640,20.640,0
+Spain,Islas Baleares,"Salines, Ses",221,Cook,5,24.000,24.000,24.000,24.000,24.000,0
+Spain,Islas Baleares,Ciutadella de Menorca,591,Receptionist,5,24.000,24.000,24.000,24.000,23.280,0
+Spain,Islas Baleares,Canyamel,669,Waiter,5,22.800,22.800,22.800,22.800,22.800,0
+Spain,Madrid,Madrid,697,Masseur,5,22.000,22.000,22.000,22.000,19.600,0
+Spain,Girona,Lloret de Mar,254,Sous Chef,5,18.000,18.000,18.000,18.000,18.000,0
+Spain,Islas Baleares,Ibiza,564,Laundry Attendant,5,22.000,22.000,22.000,22.000,"14.411,2",0
+Spain,Islas Baleares,Can Picafort,561,Housekeeping Staff,5,16.800,16.800,16.800,16.800,17.040,0
+Spain,Tarragona,Cambrils,221,Cook,5,20.466,20.466,20.466,20.466,"16.586,58",0
+Spain,Zaragoza,Zaragoza,669,Waiter,5,20.640,20.640,20.640,20.640,17.496,0
+Spain,Islas Baleares,Calviá,254,Sous Chef,5,21.600,21.600,21.600,21.600,22.560,0
+Spain,Islas Baleares,Playas de Muro,552,Chambermaid,5,19.200,19.200,19.200,19.200,19.440,0
+Spain,Las Palmas,Jandia,552,Chambermaid,5,6,6,6,6,4578,0
+Spain,Girona,Caldes de Malavella,221,Cook,5,30.000,30.000,30.000,30.000,25.600,0
+Spain,Sevilla,Sevilla,589,Night Receptionist,5,18.000,18.000,18.000,18.000,"17.887,3",0
+Spain,Guipúzcoa,Donostia/San Sebastián,494,Maintenance Technician,5,15.000,15.000,15.000,15.000,16.560,0
+Spain,Islas Baleares,Palma de Mallorca,767,Airport Operations Manager,5,21.600,21.600,21.600,21.600,22.400,0
+Spain,Islas Baleares,Islas Baleares,669,Waiter,5,21.600,21.600,21.600,21.600,18.720,0
+Spain,Vizcaya,Bilbao,552,Chambermaid,5,21.000,21.000,21.000,21.000,"19.058,72",0
+Spain,Islas Baleares,Ciutadella de Menorca,669,Waiter,5,24.000,24.000,24.000,24.000,23.840,0
+Spain,Islas Baleares,Cala d'Or,590,Reception Assistant,5,20.220,20.220,20.220,20.220,20.600,0
+Spain,Málaga,Marbella,577,Concierge,5,20.000,20.000,20.000,20.000,18.800,0
+Spain,Islas Baleares,Formentera,591,Receptionist,5,24.000,24.000,24.000,24.000,23.480,0
+Spain,Valencia,València,286,Rental Sales Consultant,5,16.572,16.572,16.572,16.572,"16.893,6",0
+Spain,Girona,Lloret de Mar,159,Tourist Animator,5,18.000,18.000,18.000,18.000,"19.793,76",0
+Spain,Alicante,Dehesa de Campoamor,551,Assistant Executive Housekeeper,5,15.876,15.876,15.876,15.876,15.876,0
+Spain,Islas Baleares,Palma de Mallorca,286,Rental Sales Consultant,5,18.180,18.180,18.180,18.180,18.180,0
+Spain,Valencia,València,657,Bartender,5,18.000,18.000,18.000,18.000,18.200,0
+Spain,Madrid,Madrid,471,Tour Guide,5,15.000,15.000,15.000,15.000,14.400,0
+Spain,Tarragona,Tarragona,10,Accounts Manager,5,21,21,21,21,21,0
+Spain,Mallorca,Mallorca,165,Customer Service Advisor,5,20.800,20.800,20.800,20.800,20.890,0
+Spain,Alicante,Alicante/Alacant,286,Rental Sales Consultant,5,15.780,15.780,15.780,15.780,16.740,0

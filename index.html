@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Salarial España 2025 - Sector Turístico-Hostelero</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+    <!-- NAVIGATION -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <h1>📊 Dashboard Salarial 2025</h1>
+                <p>Sector Turístico-Hostelero España</p>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#resumen" class="nav-link active">Resumen</a></li>
+                <li><a href="#posiciones" class="nav-link">Posiciones</a></li>
+                <li><a href="#geografia" class="nav-link">Geografía</a></li>
+                <li><a href="#sectores" class="nav-link">Sectores</a></li>
+                <li><a href="#explorador" class="nav-link">Explorador</a></li>
+                <li><a href="#carrera" class="nav-link">Career Path</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Informe Salarial Interactivo 2025</h2>
+            <p class="hero-subtitle">Análisis exhaustivo de 10.134 ofertas de empleo en el sector turístico-hostelero de España</p>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <span class="stat-number">10.134</span>
+                    <span class="stat-label">Ofertas Analizadas</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="stat-number">20.000€</span>
+                    <span class="stat-label">Mediana Sectorial</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="stat-number">123</span>
+                    <span class="stat-label">Posiciones Únicas</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="stat-number">76</span>
+                    <span class="stat-label">Regiones</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <!-- RESUMEN EJECUTIVO -->
+        <section id="resumen" class="section">
+            <h2 class="section-title">📌 Resumen Ejecutivo</h2>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-icon">💰</div>
+                    <div class="metric-label">Mediana Sectorial</div>
+                    <div class="metric-value">20.000€</div>
+                    <div class="metric-subtext">Salario típico bruto anual</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-icon">📊</div>
+                    <div class="metric-label">Total de Ofertas</div>
+                    <div class="metric-value">10.134</div>
+                    <div class="metric-subtext">Solo España</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-icon">📈</div>
+                    <div class="metric-label">Rango Intercuartílico</div>
+                    <div class="metric-value">16K–24K€</div>
+                    <div class="metric-subtext">50% central del mercado</div>
+                </div>
+                <div class="metric-card highlight">
+                    <div class="metric-icon">🏝️</div>
+                    <div class="metric-label">Prima Regional Máxima</div>
+                    <div class="metric-value">+10%</div>
+                    <div class="metric-subtext">Islas Baleares vs media</div>
+                </div>
+            </div>
+
+            <!-- Chart: Distribución Salarial General -->
+            <div class="chart-container">
+                <h3>Distribución Salarial General</h3>
+                <canvas id="chartDistribution"></canvas>
+            </div>
+
+            <div class="insights-box">
+                <h4>🎯 Hallazgos Clave</h4>
+                <ul>
+                    <li><strong>Brecha de Liderazgo:</strong> Posiciones directivas alcanzan 30K–40K€, un +50% respecto a roles operativos</li>
+                    <li><strong>Concentración Regional:</strong> Baleares (2.077) y Barcelona (2.079) dominan con medianas 21–22K€</li>
+                    <li><strong>Dispersión por Rol:</strong> Mismo puesto puede variar ±40% según contexto</li>
+                    <li><strong>Demanda Operativa:</strong> 3.672 ofertas (36%) en roles principales</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- POSICIONES -->
+        <section id="posiciones" class="section">
+            <h2 class="section-title">💼 Análisis de Posiciones</h2>
+
+            <!-- Chart: Top 20 Posiciones por Volumen -->
+            <div class="chart-container">
+                <h3>Top 20 Posiciones por Volumen de Ofertas</h3>
+                <canvas id="chartTopPositions"></canvas>
+            </div>
+
+            <!-- Chart: Top 15 Mejor Pagadas -->
+            <div class="chart-container">
+                <h3>Top 15 Posiciones Mejor Pagadas (Mediana)</h3>
+                <canvas id="chartBestPaid"></canvas>
+            </div>
+
+            <!-- Tabla Interactiva: Todas las Posiciones -->
+            <div class="table-container">
+                <div class="table-controls">
+                    <input type="text" id="searchPositions" placeholder="🔍 Buscar posición..." class="search-input">
+                    <select id="sortPositions" class="sort-select">
+                        <option value="n">Ordenar por: Volumen (N)</option>
+                        <option value="median">Ordenar por: Mediana</option>
+                        <option value="name">Ordenar por: Nombre</option>
+                    </select>
+                </div>
+                <div class="table-wrapper">
+                    <table id="tablePositions" class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Posición</th>
+                                <th>N</th>
+                                <th>P25</th>
+                                <th>Mediana</th>
+                                <th>P75</th>
+                                <th>P90</th>
+                                <th>IQR</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tablePositionsBody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- GEOGRAFÍA -->
+        <section id="geografia" class="section">
+            <h2 class="section-title">🗺️ Análisis Geográfico</h2>
+
+            <!-- Chart: Top 20 Regiones -->
+            <div class="chart-container">
+                <h3>Top 20 Regiones por Mediana Salarial</h3>
+                <canvas id="chartRegions"></canvas>
+            </div>
+
+            <!-- Chart: Top 15 Ciudades -->
+            <div class="chart-container">
+                <h3>Top 15 Ciudades por Mediana Salarial</h3>
+                <canvas id="chartCities"></canvas>
+            </div>
+
+            <!-- Mapa de Calor Regional -->
+            <div class="heatmap-container">
+                <h3>Mapa de Calor: Medianas por Región</h3>
+                <div id="regionalHeatmap" class="regional-grid">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- Tabla Interactiva: Regiones -->
+            <div class="table-container">
+                <div class="table-controls">
+                    <input type="text" id="searchRegions" placeholder="🔍 Buscar región..." class="search-input">
+                </div>
+                <div class="table-wrapper">
+                    <table id="tableRegions" class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Región</th>
+                                <th>N Ofertas</th>
+                                <th>Mediana</th>
+                                <th>% vs Nacional</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableRegionsBody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTORES -->
+        <section id="sectores" class="section">
+            <h2 class="section-title">🏢 Análisis por Sector y Área</h2>
+
+            <!-- Chart: Por Tipo de Empresa (Field) -->
+            <div class="chart-container">
+                <h3>Medianas por Tipo de Empresa</h3>
+                <canvas id="chartFields"></canvas>
+            </div>
+
+            <!-- Chart: Por Área Funcional -->
+            <div class="chart-container">
+                <h3>Medianas por Área Funcional</h3>
+                <canvas id="chartAreas"></canvas>
+            </div>
+
+            <!-- Tabla: Sectores Completos -->
+            <div class="table-container">
+                <h3>Todos los Tipos de Empresa (31 sectores)</h3>
+                <div class="table-wrapper">
+                    <table id="tableFields" class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Tipo de Empresa</th>
+                                <th>N</th>
+                                <th>Mediana</th>
+                                <th>P25–P75</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableFieldsBody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- EXPLORADOR DE DATOS -->
+        <section id="explorador" class="section">
+            <h2 class="section-title">🔍 Explorador de Datos Interactivo</h2>
+
+            <div class="explorer-container">
+                <div class="explorer-filters">
+                    <h3>Filtros</h3>
+                    <div class="filter-group">
+                        <label>Seleccionar Posición:</label>
+                        <select id="filterPosition" class="filter-select">
+                            <option value="">-- Todas las posiciones --</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Seleccionar Región:</label>
+                        <select id="filterRegion" class="filter-select">
+                            <option value="">-- Todas las regiones --</option>
+                        </select>
+                    </div>
+                    <button id="btnApplyFilters" class="btn-primary">Aplicar Filtros</button>
+                    <button id="btnResetFilters" class="btn-secondary">Reset</button>
+                </div>
+
+                <div class="explorer-results">
+                    <h3>Resultados</h3>
+                    <div id="explorerResults" class="results-grid">
+                        <p class="placeholder-text">Selecciona filtros para explorar los datos...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CAREER PATHWAYS -->
+        <section id="carrera" class="section">
+            <h2 class="section-title">🎯 Career Pathways: Rutas de Promoción</h2>
+
+            <div class="career-pathways">
+                <!-- Kitchen Career Path -->
+                <div class="pathway-card">
+                    <h3>🍳 Carrera en Cocina</h3>
+                    <div class="pathway-steps">
+                        <div class="pathway-step">
+                            <div class="step-title">Kitchen Assistant</div>
+                            <div class="step-salary">€19.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Cook</div>
+                            <div class="step-salary">€20.640</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Chef de Partie</div>
+                            <div class="step-salary">€24.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Sous Chef</div>
+                            <div class="step-salary">€26.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step highlight">
+                            <div class="step-title">Executive Chef</div>
+                            <div class="step-salary">€43.500</div>
+                        </div>
+                    </div>
+                    <div class="pathway-insights">
+                        <p><strong>Incremento total:</strong> +129% (€19K → €43.5K)</p>
+                        <p><strong>Brecha crítica:</strong> Sous Chef → Executive Chef (+€17.5K)</p>
+                    </div>
+                </div>
+
+                <!-- Front of House Career Path -->
+                <div class="pathway-card">
+                    <h3>🍽️ Carrera en Sala & Restaurante</h3>
+                    <div class="pathway-steps">
+                        <div class="pathway-step">
+                            <div class="step-title">Waiter Assistant</div>
+                            <div class="step-salary">€18.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Waiter</div>
+                            <div class="step-salary">€19.200</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Head Waiter</div>
+                            <div class="step-salary">€24.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step highlight">
+                            <div class="step-title">F&B Manager</div>
+                            <div class="step-salary">€30.000</div>
+                        </div>
+                    </div>
+                    <div class="pathway-insights">
+                        <p><strong>Incremento total:</strong> +67% (€18K → €30K)</p>
+                        <p><strong>Brecha crítica:</strong> Head Waiter → F&B Manager (+€6K)</p>
+                    </div>
+                </div>
+
+                <!-- Reception/Management Career Path -->
+                <div class="pathway-card">
+                    <h3>🏨 Carrera en Recepción & Management</h3>
+                    <div class="pathway-steps">
+                        <div class="pathway-step">
+                            <div class="step-title">Receptionist</div>
+                            <div class="step-salary">€20.400</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Front Office Manager</div>
+                            <div class="step-salary">€26.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Asst. Hotel Manager</div>
+                            <div class="step-salary">€30.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step">
+                            <div class="step-title">Hotel Director</div>
+                            <div class="step-salary">€30.000</div>
+                            <div class="step-arrow">→</div>
+                        </div>
+                        <div class="pathway-step highlight">
+                            <div class="step-title">COO</div>
+                            <div class="step-salary">€39.500</div>
+                        </div>
+                    </div>
+                    <div class="pathway-insights">
+                        <p><strong>Incremento total:</strong> +94% (€20.4K → €39.5K)</p>
+                        <p><strong>Brecha crítica:</strong> Hotel Director → COO (+€9.5K)</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Career Insights -->
+            <div class="insights-box">
+                <h4>💡 Insights de Carrera</h4>
+                <ul>
+                    <li><strong>Tiempo estimado por nivel:</strong> 2-3 años experiencia para cada promoción</li>
+                    <li><strong>Certificaciones clave:</strong> SERVESA, sommelier, HACCP para cocina</li>
+                    <li><strong>Movilidad regional:</strong> Considerar mudanza a Baleares/Barcelona para +10-15% en salario</li>
+                    <li><strong>Mejor ROI:</strong> Especialización en F&B o Executive roles (saltos de +€10-15K)</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- RECOMENDACIONES -->
+        <section id="recomendaciones" class="section">
+            <h2 class="section-title">🎯 Recomendaciones Estratégicas</h2>
+
+            <div class="recommendations-grid">
+                <div class="recommendation-card">
+                    <h3>💼 Para Empleadores</h3>
+                    <ul>
+                        <li>Usar <strong>P75</strong> para atraer talento operativo competitivo</li>
+                        <li>Aplicar multiplicador regional: Baleares/Canarias ×1.10-1.15</li>
+                        <li>Ofrecer beneficios no salariales: alojamiento (€200-400/mes)</li>
+                        <li>Estructurar career paths claros para retención</li>
+                    </ul>
+                </div>
+
+                <div class="recommendation-card">
+                    <h3>👨‍💼 Para Profesionales</h3>
+                    <ul>
+                        <li>Negociar en base a <strong>mediana + 10-15%</strong> con experiencia</li>
+                        <li>Considerar movilidad regional para +10% salario</li>
+                        <li>Invertir en certificaciones especializadas</li>
+                        <li>Apuntar a roles de supervisión para +20-25% incremento</li>
+                    </ul>
+                </div>
+
+                <div class="recommendation-card">
+                    <h3>📊 Para Analistas</h3>
+                    <ul>
+                        <li>Actualizar benchmarks trimestralmente</li>
+                        <li>Segmentar por región + tipo de establecimiento</li>
+                        <li>Monitorear dispersión (IQR) para detectar brechas</li>
+                        <li>Validar datos con N ≥10 para posiciones, N ≥5 para geografía</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Metodología</h4>
+                <p>Análisis basado en 10.134 ofertas de empleo publicadas en 2025 en España. Criterios: IsSalaryUsable=1, IsJobTitleUsable=1, IsOutlier=0.</p>
+            </div>
+            <div class="footer-section">
+                <h4>Métricas</h4>
+                <p>Mediana como métrica principal (resistente a valores extremos). Percentiles: P25, P50, P75, P90. IQR = P75−P25.</p>
+            </div>
+            <div class="footer-section">
+                <h4>Contacto</h4>
+                <p>© 2026 Informe Salarial Turístico-Hostelero España<br>Confidencial para uso interno</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/data-loader.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/tables.js"></script>
+    <script src="js/explorer.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
