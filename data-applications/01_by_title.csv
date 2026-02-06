@@ -1,0 +1,518 @@
+﻿TitleId;JobTitleName;N;TotalApplications;Mean;P50
+669;Waiter;2173;141943;65;43
+221;Cook;1857;82991;45;29
+591;Receptionist;1632;188288;115;91
+552;Chambermaid;1379;95245;69;40
+243;Kitchen Assistant;793;45524;57;39
+668;Waiter Assistant;674;35316;52;31
+584;Hotel Receptionist;647;51561;80;55
+494;Maintenance Technician;598;16558;28;23
+561;Housekeeping Staff;523;37827;72;36
+257;Chef de Partie;468;14409;31;22
+572;Bellboy;413;19154;46;38
+652;Head Waiter;380;12882;34;28
+590;Reception Assistant;343;25014;73;47
+226;Dishwasher;343;19603;57;38
+218;Chef;338;13229;39;34
+551;Assistant Executive Housekeeper;306;9156;30;23
+254;Sous Chef;300;8726;29;23
+580;Front Office Manager;280;13667;49;40
+657;Bartender;257;10821;42;34
+113;Travel Agent;255;11398;45;28
+630;Assistant Head Waiter;235;4807;20;17
+653;Host/Hostess;220;12746;58;36
+589;Night Receptionist;209;13153;63;51
+489;Maintenance Manager;204;4932;24;19
+119;Reservation Agent;182;11976;66;53
+587;Night Auditor;181;8103;45;39
+177;GEX - Guest Experience Assistant;178;5591;31;24
+661;Restaurant Manager;174;4048;23;19
+557;Executive Housekeeper;171;5844;34;28
+293;Sales Agent;153;4052;26;19
+492;Maintenance Assistant;145;4295;30;24
+286;Rental Sales Consultant;144;1989;14;11
+664;Restaurant Section Head;142;2697;19;15
+577;Concierge;141;7936;56;43
+79;Hotel Director;136;9037;66;71
+80;Hotel Manager;135;5845;43;28
+550;Assistant Hotel Manager;132;5129;39;31
+570;Assistant Head of Reception;132;6136;46;41
+493;Maintenance Officer;127;2623;21;18
+23;Administrative;118;5035;43;27
+166;Customer Service Agent;115;2771;24;14
+165;Customer Service Advisor;115;949;8;0
+631;Assistant Restaurant Manager;111;2404;22;17
+650;Food and Beverage Manager;109;3629;33;30
+634;Bar Manager;105;2743;26;20
+248;Pastry Chef;94;2048;22;18
+10;Accounts Manager;93;515;6;0
+593;Human Resources Intern;92;1080;12;10
+6;Accounting Intern;90;396;4;0
+181;GEX - Guest Experience Coordinator;88;3266;37;27
+628;Assistant Bar Manager;85;2238;26;16
+26;Administrative Assistant;83;4353;52;46
+647;Food and Beverage Assistant;74;2093;28;20
+301;Sales Intern;70;1104;16;14
+124;Actor;69;914;13;0
+159;Tourist Animator;69;4586;66;53
+1;Accountant;68;879;13;11
+665;Sommelier;68;1122;17;13
+715;Spa Therapist;66;1824;28;22
+486;Facilities Technician;64;989;15;13
+697;Masseur;63;1674;27;24
+302;Sales Manager;63;1285;20;18
+503;Warehouse Stock Handler;61;2412;40;29
+180;GEX - Guest Experience Manager;60;1879;31;27
+89;Valet Parking;57;2581;45;35
+130;Children's Animator;54;1806;33;25
+8;Accounting Technician;53;670;13;11
+2;Accounting Assistant;53;1039;20;16
+597;Intern in Reception;51;1080;21;19
+220;Commis Chef;50;1481;30;26
+192;Call Center Agent;50;1690;34;25
+498;Swimming Pool Maintenance;49;835;17;16
+533;Marketing Intern;49;1046;21;18
+316;Store Sales Assistant;49;2787;57;39
+632;Bakery Attendant;46;1524;33;21
+122;Activities Assistant;45;311;7;0
+471;Tour Guide;44;1158;26;20
+242;Sushiman;44;973;22;22
+761;Technical Services Assistant;44;454;10;9
+0;NULL;44;1121;25;12
+267;Commercial Manager;43;841;20;21
+228;Executive Chef;43;1462;34;29
+564;Laundry Attendant;42;1471;35;22
+436;Groups & Events Coordinator;42;1314;31;28
+611;Human Resources Coordinator;41;733;18;16
+45;Chief Executive Officer (CEO);40;1973;49;33
+615;Human Resources Technician;39;769;20;14
+300;Sales Host;39;968;25;19
+637;Barista;39;1738;45;30
+482;Electrical Maintenance Technician;38;555;15;14
+600;Revenue Agent;37;637;17;13
+438;Groups & Events Sales Manager;37;1076;29;28
+167;Customer Service Assistant;37;1135;31;30
+501;Technical Services Officer;37;746;20;19
+636;Barback;36;997;28;19
+337;Purchasing Intern;35;386;11;12
+505;Car Washer;33;814;25;22
+49;Revenue Manager;32;883;28;22
+213;Event Chef;32;1540;48;42
+473;Tourism Agent;32;1137;36;26
+560;Cleaning Manager;31;829;27;19
+251;Pizzaiolo;31;675;22;18
+690;Holistic Therapist;31;504;16;15
+43;Casino Staff;31;410;13;12
+170;Customer Service Manager;30;37;1;0
+346;Supply Department Manager;30;864;29;25
+714;Spa Receptionist;29;1223;42;30
+692;Lifesaver;29;937;32;26
+713;Spa Manager;29;910;31;32
+48;Operations Manager;28;1246;45;31
+345;Supply Department Assistant;28;635;23;16
+28;Administrative Intern;27;326;12;14
+502;Technical Services Specialist;27;438;16;13
+753;Head of Technical Services;26;409;16;16
+483;Electrician;25;312;12;14
+59;Business Development Director;25;586;23;18
+725;Security Guard;25;197;8;5
+313;Sales Assistant;25;650;26;21
+487;Gardener;25;531;21;17
+141;Entertainment Manager;24;993;41;42
+530;Marketing Assistant;24;698;29;22
+105;Business Travel Agent;24;1096;46;30
+275;Marketing and Sales Manager;24;872;36;34
+504;Painter;24;462;19;16
+247;Pastry Assistant;24;478;20;18
+-1;NULL;23;243;11;8
+7;Accounting Manager;23;152;7;0
+270;Group Sales Manager;23;578;25;19
+273;Key Account Manager;22;309;14;12
+518;Public Relations Director;22;459;21;22
+50;Operations Specialist;22;366;17;15
+120;Reservations Manager;22;674;31;29
+125;Animation Assistant;22;1242;56;53
+432;Events Sales Executive;20;499;25;28
+613;Human Resources Manager;20;352;18;18
+460;Airport Guide;20;84;4;0
+32;Amusement Park Staff;20;395;20;18
+376;Hospitality Consultant;20;477;24;16
+396;Sommelier Consultant;20;315;16;9
+142;Events Coordinator;19;599;32;26
+182;Service Manager;19;175;9;3
+114;Travel Coordinator;19;809;43;30
+484;Facilities Manager;18;200;11;12
+680;Body Treatment Specialist;18;482;27;22
+266;Commercial and Marketing Manager;18;491;27;23
+544;Social Media Manager;17;389;23;26
+88;Office Manager;17;64;4;0
+117;Travel guide;17;631;37;33
+745;Software Developer;17;86;5;4
+415;Conference & Events Trainee;17;311;18;15
+485;Facilities Assistant;17;400;24;17
+640;Cashier;17;625;37;30
+711;Spa Assistant;17;487;29;22
+198;Call Center Technician;17;132;8;6
+778;Car Driver;17;452;27;18
+55;Controller;17;462;27;27
+642;Cocktail Bar Manager;16;428;27;25
+250;Pastry Shop Manager;16;230;14;14
+696;Massage Therapist;16;547;34;30
+532;Marketing Director;16;449;28;28
+171;Customer Service Specialist;16;269;17;9
+654;Ice Cream Shop Attendant;16;825;52;26
+271;Hotel Sales Manager;16;468;29;24
+30;Administrative Technician;15;327;22;14
+538;Public Relations Assistant;15;288;19;15
+210;Assistant Baker;15;405;27;12
+150;Multifunctional Animator;15;836;56;44
+168;Customer Service Coordinator;15;267;18;9
+479;Window Cleaner;15;218;15;9
+323;Buyer;15;217;14;10
+474;Tourist Information Guide;15;515;34;25
+75;Head of Administration;15;373;25;21
+358;Food and Beverage Consultant;15;118;8;7
+127;Animation Manager;15;699;47;42
+314;Salesperson Call Center;15;180;12;14
+608;Human Resources Assistant;14;379;27;18
+29;Administrative Manager;14;178;13;13
+610;Human Resources Consultant;14;110;8;8
+111;Travel Agencies Account Manager;14;307;22;22
+567;Linen Keeper;14;275;20;14
+437;Groups & Events Manager;14;558;40;32
+755;IT Manager;14;189;14;15
+490;Air Conditioning Maintenance Technician;13;146;11;9
+335;Purchasing Coordinator;13;231;18;16
+235;Grill Chef;13;517;40;32
+47;Chief Operations Officer (COO);13;887;68;59
+172;Customer Support Assistant;13;558;43;35
+796;Rider;13;452;35;24
+439;Groups and MICE Coordinator;13;175;13;8
+201;Head of Quality;13;259;20;12
+277;MICE Sales Manager;13;271;21;18
+731;Pool Attendant;13;375;29;20
+771;Bus Driver;13;313;24;20
+200;Customer Support Technician;12;182;15;16
+707;Sauna Assistant;12;243;20;17
+207;Quality Technician;12;139;12;11
+596;Recruitment Technician;12;203;17;14
+93;Regional Director;12;295;25;17
+535;Marketing Specialist;12;200;17;16
+211;Bakery Manager;12;318;27;16
+712;Spa Coordinator;12;202;17;14
+315;Store Manager;12;352;29;14
+565;Laundry Manager;11;185;17;15
+274;Marketing and Sales Director;11;214;19;20
+686;Esthetician;11;188;17;8
+463;Driver Tour Guide;11;261;24;23
+78;Hotel Development Director;11;158;14;16
+762;Technologist brewing;11;218;20;17
+100;Warehouse Manager;11;380;35;22
+209;Baker Chef;11;117;11;3
+481;Electrical Maintenance Crew Chief;11;224;20;16
+244;Meat Cutter;11;313;28;26
+497;Building Repairer;11;178;16;15
+401;Tourist Management Consultant;10;336;34;25
+61;Finance Manager;10;161;16;16
+495;Mason;10;71;7;4
+528;Graphic Designer;10;252;25;19
+163;Fitness Animator;10;339;34;41
+510;Brand Manager;10;86;9;8
+332;Purchasing Agent;10;228;23;15
+618;Occupational Risk Prevention Technician;10;160;16;8
+104;Data Analytics Specialist;10;161;16;16
+74;Head of Accounting;10;121;12;11
+726;Watchman;10;115;12;9
+813;Van Driver;9;282;31;26
+594;Recruitment Director;9;218;24;9
+609;Human Resources Business Partner;9;237;26;17
+206;Quality Specialist;9;175;19;22
+760;Product Development Manager;9;161;18;15
+488;Gardening Assistant;9;202;22;24
+169;Customer Service Director;9;202;22;22
+67;Financial Assistant;9;153;17;11
+443;Maitre in Charge of Room and Events;9;124;14;18
+262;Area Sales Manager;9;144;16;11
+68;Financial Intern;9;82;9;7
+446;MICE Manager;9;158;18;9
+507;Advertising Manager;9;194;22;22
+94;Regional Manager;9;257;29;28
+96;Supply Chain Manager;9;347;39;22
+476;Wine Tourism Guide;9;138;15;16
+112;Travel Agency Manager;9;153;17;17
+809;Skipper;9;91;10;11
+733;IT Helpdesk Analyst;9;148;16;11
+202;Quality Assistant;8;218;27;13
+606;Head of Human Resources;8;114;14;15
+434;Events Staff;8;183;23;19
+283;Regional Sales Executive;8;105;13;15
+687;First aid attendant;8;183;23;16
+46;Chief Financial Officer (CFO);8;112;14;15
+85;Logistics Director;8;152;19;12
+616;Labor Administrative;8;287;36;25
+291;Sales & MICE Assistant;8;271;34;21
+377;Hospitality Trainer;8;70;9;8
+334;Purchasing Assistant;8;197;25;15
+5;Accounting Director;8;78;10;0
+420;Events and Banquets Director;8;224;28;31
+732;Helpdesk Analyst;7;55;8;9
+773;Cabin Crew;7;46;7;1
+44;Casino Host;7;148;21;17
+4;Personal Assistant;7;255;36;22
+531;Marketing Consultant;7;180;26;28
+512;Content Creator;7;100;14;16
+18;Accounts Receivable Executive;7;134;19;11
+123;Activities Supervisor;7;134;19;20
+746;Web Developer;7;58;8;10
+519;Public Relations and Communication Director;7;221;32;30
+440;NULL;7;324;46;40
+57;Controller Assistant;7;52;7;7
+31;Amusement Park Manager;6;73;12;13
+620;Personnel Recruitment Technician;6;77;13;10
+12;Accounts Payable Assistant;6;63;11;7
+76;Head of Finance;6;82;14;12
+534;Marketing Manager;6;168;28;26
+278;National Sales Executive;6;177;30;7
+541;Public Relations Specialist;6;133;22;18
+516;Digital Marketing Manager;6;273;46;29
+224;Dietary Chef;6;314;52;32
+718;Wellness Advisor;6;103;17;19
+199;Customer Service Technician;6;254;42;13
+617;Learning and Talent Development Specialist;6;82;14;11
+767;Airport Operations Manager;6;131;22;19
+724;Nightwatchman;6;113;19;19
+698;Nursing professionals;6;20;3;3
+176;Customer Support Specialist;6;111;19;18
+106;Custom Travel Agent;6;273;46;32
+467;Museum Guide;6;182;30;28
+42;Casino Manager;6;30;5;4
+164;Fitness Supervisor;6;17;3;3
+763;Business Intelligence Analyst;6;47;8;7
+350;Chef Consultant;6;93;16;12
+622;Recruitment Consultant;6;55;9;9
+347;Warehouse Management Technician;6;134;22;18
+95;Supplies Manager;5;34;7;4
+390;Revenue Management Consultant;5;68;14;12
+282;Partners Specialist;5;74;15;17
+128;Animation Supervisor;5;255;51;45
+614;Human Resources Specialist;5;42;8;10
+306;Sales Operations Analyst;5;68;14;8
+70;Franchise Director;5;79;16;12
+605;Employee Relations Specialist;5;92;18;14
+529;Graphic Designer Intern;5;87;17;14
+459;Adventure Tour Guide;5;75;15;13
+441;Head Waiter for Catering & Events;5;107;21;27
+204;Quality Director;5;180;36;35
+413;Catering Manager;5;138;28;11
+102;Business Intelligence Specialist;5;92;18;16
+27;Administrative Director;5;241;48;19
+736;Chief Technology Officer (CTO);5;49;10;5
+764;Air Traffic Controller;5;71;14;10
+203;Quality Department Internship;5;12;2;2
+399;Sustainable Tourism Consultant;5;59;12;17
+804;Ship Captain;5;19;4;2
+575;Camping Staff;5;102;20;20
+679;Beauty Consultant;5;102;20;16
+148;MiniClub Animator;5;170;34;26
+595;Recruitment Manager;5;45;9;9
+378;Hotel Management Consultant;5;79;16;22
+14;Accounts Payable Intern;5;60;12;7
+179;GEX - Guest Experience Director;5;168;34;33
+545;Social Media Specialist;5;79;16;8
+496;Plumber;5;33;7;7
+757;Information Technology Manager;5;62;12;12
+678;Beautician;5;47;9;11
+515;Digital Marketing Director;5;161;32;18
+184;Customer Experience Assistant;4;65;16;16
+71;Franchise Manager;4;0;0;0
+539;Public Relations Intern;4;41;10;10
+411;Assistant Events Coordinator;4;160;40;38
+22;Accounts Receivable Technician;4;49;12;11
+232;Garde Manger Chef;4;143;36;34
+563;Ironing Staff;4;73;18;19
+65;Financial Analyst;4;63;16;15
+425;Event Promoter;4;16;4;3
+461;City Tour Guide;4;59;15;17
+777;Flight Attendant;4;348;87;93
+143;Events Manager;4;214;54;59
+513;Content Marketing Manager;4;86;22;13
+333;Purchasing and Warehouse Manager;4;131;33;37
+41;Camping Manager;4;262;66;53
+99;Theme Park Staff;4;57;14;15
+40;Budgeting Specialist;4;90;23;5
+107;Luxury Travel Advisor;4;125;31;28
+549;Web Designer;4;57;14;11
+72;Franchise Supervisor;4;31;8;8
+330;Logistics and Distribution Coordinator;4;81;20;22
+509;B2B Marketing Specialist;4;42;11;12
+139;DJ;4;29;7;5
+101;Business Intelligence Manager;4;22;6;5
+716;Hair Stylist;3;23;8;6
+355;Diving Instructor;3;34;11;6
+354;Culinary Arts Instructor;3;43;14;16
+33;Billing Assistant;3;132;44;22
+741;Head of Information Technology;3;10;3;3
+676;Baby sitter;3;30;10;5
+523;eCommerce Specialist;3;57;19;18
+272;Inside Sales Representative;3;100;33;29
+370;Health and Wellness Consultant;3;16;5;4
+602;Compensation and Benefits Specialist;3;29;10;7
+269;Food service salesperson;3;136;45;34
+183;Service Specialist;3;162;54;16
+54;Collector Specialist;3;24;8;5
+214;Catering Assistant;3;15;5;2
+756;IT Manager Project;3;14;5;5
+140;Entertainment Coordinator;3;51;17;20
+691;Hydrotherapy Specialist;3;19;6;9
+658;Oenologist;3;40;13;12
+297;Sales Development Representatives (SDR);3;67;22;19
+491;Kitchen Machinery Maintenance Technician;3;32;11;11
+603;HR and Talent Director;3;38;13;3
+540;Public Relations Manager;3;78;26;29
+348;Warehouse Supervisor;3;121;40;40
+341;Stock Control Technician;3;172;57;34
+424;Event Planner;3;132;44;34
+219;Chinese Food Cook;3;38;13;14
+508;B2B Marketing Manager;3;163;54;10
+645;Coffee Shop Manager;3;105;35;46
+241;Italian Food Cook;3;47;16;15
+109;Travel Project Manager;3;56;19;24
+151;Musician;3;21;7;3
+612;Human Resources Director;3;32;11;13
+339;Purchasing Supervisor;3;45;15;0
+245;Mediterranean Food Cook;3;93;31;40
+456;Wedding Planner;3;175;58;54
+452;Sport Center Manager;3;19;6;8
+361;Food Production Consultant;3;75;25;10
+699;Nutritionist;3;17;6;8
+53;Collector;3;12;4;5
+453;Sporting Activities Manager;3;24;8;9
+255;Spanish Food Cook;3;91;30;31
+92;Recreation Manager;3;54;18;24
+623;Recruitment Specialist;2;79;40;40
+721;Art Gallery Guard;2;22;11;11
+701;Personal Trainer;2;8;4;4
+445;Meetings and Events Project Manager;2;44;22;22
+514;Copywriter;2;56;28;28
+118;Cruise Sales Agent;2;98;49;49
+472;Tour Manager;2;48;24;24
+758;Helpdesk Supervisor;2;13;7;7
+806;Ship Steward;2;126;63;63
+338;Purchasing Manager;2;77;39;39
+20;Accounts Receivable Manager;2;30;15;15
+157;Singer;2;25;13;13
+135;Dance Animator;2;52;26;26
+217;Charcuterie Chef;2;28;14;14
+188;Customer Success Assistant;2;21;11;11
+126;Animation Coordinator;2;113;57;57
+38;Budgeting Manager;2;21;11;11
+537;Public Relations and Communication Manager;2;60;30;30
+175;Customer Support Manager;2;57;29;29
+655;Ice Cream Shop Manager;2;31;16;16
+351;Chef Instructor;2;8;4;4
+749;Digital Strategy Specialist;2;31;16;16
+253;Sommelier Chef;2;17;9;9
+13;Accounts Payable Executive;2;18;9;9
+416;Events Hostess;2;90;45;45
+752;Digital Transformation Specialist;2;14;7;7
+98;Theme Park Manager;2;35;18;18
+709;Seamstress;2;49;25;25
+798;Onboard Casino Host;2;43;22;22
+735;Filmmaker;2;111;56;56
+768;Airport ramp Attendant;2;4;2;2
+675;Make-up Artist;2;60;30;30
+601;Senior Reservations Agent;2;40;20;20
+324;Food Cost Analyst;2;27;14;14
+814;Delivery;2;12;6;6
+66;Financial Assets Manager;2;29;15;15
+627;Talent Acquisition Specialist;2;32;16;16
+36;Billing Technician;2;32;16;16
+191;Customer Success Specialist;2;18;9;9
+751;Digital Transformation Manager;2;36;18;18
+722;Bodyguard;2;6;3;3
+187;Customer Experience Specialist;2;34;17;17
+173;Customer Support Coordinator;2;53;27;27
+765;Airport Attendant;2;14;7;7
+132;Clown;2;1;1;1
+702;Physiotherapist;2;16;8;8
+708;Sauna Technician;2;36;18;18
+342;Supplier Management Specialist;1;11;11;11
+329;Inventory Control Specialist;1;5;5;5
+321;Travel Sales Manager;1;7;7;7
+624;Talent Acquisition Assistant;1;78;78;78
+83;Industrial Relations Manager;1;2;2;2
+136;Dance Instructor;1;1;1;1
+451;Sound and Lighting Technician;1;11;11;11
+284;Regional Sales Manager;1;22;22;22
+357;English Teacher;1;12;12;12
+62;Finance Specialist;1;16;16;16
+328;Inventory and Stock Supervisor;1;66;66;66
+800;Onboard Hotel Manager;1;15;15;15
+259;Thai Food Cook;1;3;3;3
+770;Aviation Pilot;1;2;2;2
+447;MICE Project Manager;1;32;32;32
+52;Cinema Staff;1;189;189;189
+174;Customer Support Director;1;13;13;13
+673;Alternative Therapies Specialist;1;7;7;7
+205;Quality Manager;1;128;128;128
+116;Traveler Attention Center Agent;1;51;51;51
+400;Swimming Instructor;1;0;0;0
+803;Second Officer;1;11;11;11
+380;Sports Instructor;1;35;35;35
+792;Itinerary Planning Manager;1;10;10;10
+807;Shore Excursion Coordinator;1;15;15;15
+103;Data Analytics Manager;1;0;0;0
+155;Puppeteer;1;3;3;3
+352;Chinese (Mandarin) Teacher;1;2;2;2
+693;Lymphatic Massage Therapist;1;16;16;16
+737;Chief Legal Officer (CLO);1;5;5;5
+782;Cruise Staff;1;57;57;57
+190;Customer Success Manager;1;12;12;12
+145;Juggler;1;2;2;2
+729;Coastguard;1;12;12;12
+131;Choreographer;1;26;26;26
+146;Magician;1;1;1;1
+547;Vice President of Marketing;1;44;44;44
+129;Bachata Dancer;1;1;1;1
+470;Segway or Bicycle Tour Guide;1;19;19;19
+195;Call Center Manager;1;13;13;13
+462;Cultural Tour Guide;1;32;32;32
+626;Talent Acquisition Manager;1;14;14;14
+759;Photographer;1;27;27;27
+449;Project Manager for Events;1;18;18;18
+543;SEO Specialist;1;14;14;14
+363;Food Safety Consultant;1;17;17;17
+442;Leisure Centre Manager;1;8;8;8
+58;Cultural Centre Manager;1;25;25;25
+156;Salsa Dancer;1;0;0;0
+279;National Sales Manager;1;2;2;2
+387;Private Class Chef;1;51;51;51
+326;Hospitality Purchasing Manager;1;16;16;16
+229;Fast Food Cook;1;29;29;29
+797;Onboard Activity Coordinator;1;18;18;18
+412;Catering and Large Events Manager;1;34;34;34
+287;Rental Sales Manager;1;48;48;48
+786;Flight Operations Clerk;1;17;17;17
+246;Mexican Food Cook;1;18;18;18
+728;Beach Guard;1;9;9;9
+811;Taxi Driver;1;20;20;20
+189;Customer Success Director;1;2;2;2
+433;Events Security Staff;1;4;4;4
+742;Data Scientist;1;1;1;1
+522;eCommerce Manager;1;2;2;2
+325;Food Logistics Coordinator;1;9;9;9
+682;Chiropractor;1;1;1;1
+9;Accounts Director;1;21;21;21
+381;Italian Teacher;1;8;8;8
+344;Supply Chain Coordinator;1;20;20;20
+137;Dancer;1;16;16;16
+386;Portuguese Teacher;1;25;25;25
+677;Babysitter;1;4;4;4
+336;Purchasing Director;1;14;14;14
+343;Supply and Logistics Manager;1;8;8;8
+688;Fitness Instructor;1;2;2;2
+186;Customer Experience Manager;1;59;59;59
+719;Wellness Manager;1;118;118;118
+625;Talent Acquisition Consultant;1;4;4;4
+108;Luxury Travel Manager;1;52;52;52
+327;Inventory Analyst;1;42;42;42

@@ -1,0 +1,233 @@
+IDCountry,CountryName,IDRegion,RegionName
+0,,656,Inglaterra
+2,Albania,1848,Condado de Durrës
+5,Andorra,388,Andorra la Vieja
+5,Andorra,322,Canillo
+5,Andorra,353,Escaldes-Engordany
+5,Andorra,556,La Massana
+5,Andorra,1207,San Julián de Loria
+7,Argentina,643,Capital
+7,Argentina,414,Ciudad Autónoma de Buenos Aires
+9,Australia,1063,New South Wales
+10,Austria,675,Distrito de Feldkirchen
+10,Austria,404,Distrito de Hermagor
+10,Austria,546,Distrito de Imst
+10,Austria,674,Distrito de Innsbruck-Land
+10,Austria,678,Distrito de Kitzbühel
+10,Austria,544,Distrito de Landeck
+10,Austria,407,Distrito de Sankt Veit an der Glan
+10,Austria,545,Distrito de Spittal an der Drau
+10,Austria,395,Distrito de Villach-Land
+10,Austria,538,Distrito de Wolfsberg
+10,Austria,405,Klagenfurt
+10,Austria,2425,Linz-Land District
+10,Austria,406,Völkermarkt
+10,Austria,691,Völkermarkt District
+10,Austria,320,Wien
+14,Belgium,389,Región de Bruselas-Capital
+22,Canada,337,Québec
+25,China,1816,Sichuan
+27,Columbia,346,Bogotá
+27,Columbia,2062,Chía
+27,Columbia,519,Medellín
+32,Croatia,913,Condado de Dubrovnik-Neretva
+33,Cuba,704,La Habana
+122,Dominican Republic,1300,Higüey
+122,Dominican Republic,2241,Samaná
+48,France,400,Alta Córcega
+48,France,687,Alto Rin
+48,France,601,Auvernia-Ródano-Alpes
+48,France,778,Bajo Rin
+48,France,2366,Côte-d'Or
+48,France,318,Isla de Francia
+48,France,1545,Maine y Loira
+48,France,719,Nord
+48,France,517,Nouvelle-Aquitaine
+48,France,345,Provence-Alpes-Côte d'Azur
+3,Germany,323,Baviera
+3,Germany,331,Hamburgo
+3,Germany,401,Kreisfreie Stadt Berlin
+3,Germany,398,Kreisfreie Stadt München
+3,Germany,1086,Kreisfreie Stadt Wolfsburg
+3,Germany,662,Región de Darmstadt
+3,Germany,348,Renania del Norte-Westfalia
+3,Germany,431,Sachsen
+53,Gibraltar,620,Gibraltar
+54,Greece,363,Atenas Central
+54,Greece,2299,Kos
+54,Greece,360,Mikonos
+63,Hungary,476,Budapest
+65,Indonesia,357,Jawa Barat
+68,Ireland,325,County Cork
+68,Ireland,321,County Kerry
+68,Ireland,324,Dublín
+71,Italy,1425,Bellaria - Igea Marina
+71,Italy,1852,Carmignano
+71,Italy,1925,Provincia autonoma di Bolzano - Alto Adige
+71,Italy,313,Verona
+71,Italy,1698,Vipiteno
+79,Laos,1854,Luangprabang
+206,Maldives,1340,Malé
+92,Malta,3061,Kadoma
+92,Malta,3061,Malta
+98,Mexico,100,Aguascalientes
+98,Mexico,101,Baja California
+98,Mexico,102,Baja California Sur
+98,Mexico,104,Chiapas
+98,Mexico,105,Chihuahua
+98,Mexico,131,Ciudad de México
+98,Mexico,106,Coahuila
+98,Mexico,107,Colima
+98,Mexico,113,Estado de México
+98,Mexico,109,Guanajuato
+98,Mexico,110,Guerrero
+98,Mexico,111,Hidalgo
+98,Mexico,112,Jalisco
+98,Mexico,114,Michoacán
+98,Mexico,117,Nuevo León
+98,Mexico,118,Oaxaca
+98,Mexico,119,Puebla
+98,Mexico,120,Querétaro
+98,Mexico,121,Quintana Roo
+98,Mexico,122,San Luis Potosí
+98,Mexico,123,Sinaloa
+98,Mexico,125,Tabasco
+98,Mexico,126,Tamaulipas
+98,Mexico,128,Veracruz
+98,Mexico,129,Yucatán
+94,Morroco,689,Prefectura de Marrakech
+94,Morroco,799,Prefectura de Tánger-Arcila
+94,Morroco,796,Rabat
+60,Netherlands,533,Ameland
+60,Netherlands,384,Amsterdam
+60,Netherlands,2377,Brabante Septentrional
+60,Netherlands,1630,Dinkelland
+60,Netherlands,2309,Frisia
+60,Netherlands,2083,Gulpen-Wittem
+60,Netherlands,1839,La Haya
+60,Netherlands,2161,Leiden
+60,Netherlands,641,Maastricht
+60,Netherlands,413,Neder-Betuwe
+60,Netherlands,638,Noord-Holland
+60,Netherlands,651,Reusel-De Mierden
+60,Netherlands,385,Zaanstad
+116,Peru,409,Callao
+116,Peru,650,Gobierno Regional de Lima
+118,Portugal,150,Açores
+118,Portugal,427,Arroios
+118,Portugal,143,Aveiro
+118,Portugal,136,Beja
+118,Portugal,148,Braga
+118,Portugal,417,Cascais
+118,Portugal,140,Castelo Branco
+118,Portugal,142,Coimbra
+118,Portugal,390,Comporta
+118,Portugal,138,Évora
+118,Portugal,137,Faro
+118,Portugal,141,Guarda
+118,Portugal,133,Leiria
+118,Portugal,132,Lisboa
+118,Portugal,460,Luz
+118,Portugal,182,Madeira
+118,Portugal,139,Portalegre
+118,Portugal,147,Porto
+118,Portugal,134,Santarém
+118,Portugal,420,Santo António
+118,Portugal,445,São Gonçalo de Lagos
+118,Portugal,387,Serzedo
+118,Portugal,135,Setúbal
+118,Portugal,149,Viana do Castelo
+118,Portugal,146,Vila Real
+118,Portugal,144,Viseu
+119,Puerto Rico,1235,San Juan
+6,Saudi Arabia,1348,Al Ahsa
+214,Seychelles,1937,Distrito de Anse Royale
+214,Seychelles,2472,Mont Fleuri
+40,Spain,15,A Coruña
+40,Spain,1,Álava
+40,Spain,2,Albacete
+40,Spain,3,Alicante
+40,Spain,4,Almería
+40,Spain,33,Asturias
+40,Spain,5,Ávila
+40,Spain,6,Badajoz
+40,Spain,8,Barcelona
+40,Spain,9,Burgos
+40,Spain,10,Cáceres
+40,Spain,11,Cádiz
+40,Spain,322,Canillo
+40,Spain,39,Cantabria
+40,Spain,12,Castellón
+40,Spain,317,Cataluña
+40,Spain,13,Ciudad Real
+40,Spain,1935,Copenhague
+40,Spain,14,Córdoba
+40,Spain,17,Girona
+40,Spain,18,Granada
+40,Spain,19,Guadalajara
+40,Spain,20,Guipúzcoa
+40,Spain,21,Huelva
+40,Spain,22,Huesca
+40,Spain,7,Islas Baleares
+40,Spain,333,Islas Canarias
+40,Spain,23,Jaén
+40,Spain,26,La Rioja
+40,Spain,35,Las Palmas
+40,Spain,24,León
+40,Spain,25,Lleida
+40,Spain,27,Lugo
+40,Spain,28,Madrid
+40,Spain,29,Málaga
+40,Spain,419,Mallorca
+40,Spain,52,Melilla
+40,Spain,30,Murcia
+40,Spain,31,Navarra
+40,Spain,32,Ourense
+40,Spain,34,Palencia
+40,Spain,36,Pontevedra
+40,Spain,37,Salamanca
+40,Spain,412,San Miguel de Abona
+40,Spain,38,Santa Cruz de Tenerife
+40,Spain,40,Segovia
+40,Spain,41,Sevilla
+40,Spain,42,Soria
+40,Spain,43,Tarragona
+40,Spain,44,Teruel
+40,Spain,45,Toledo
+40,Spain,46,Valencia
+40,Spain,47,Valladolid
+40,Spain,48,Vizcaya
+40,Spain,49,Zamora
+40,Spain,50,Zaragoza
+139,Switzerland,396,Distrito de Locarno
+139,Switzerland,393,Distrito de Lugano
+139,Switzerland,399,Distrito de Maloja
+139,Switzerland,681,Distrito de Martigny
+139,Switzerland,397,Distrito de Obersimmental
+139,Switzerland,394,Distrito de Plessur
+139,Switzerland,403,Distrito de Prettigovia/Davos
+139,Switzerland,392,Distrito de Visp
+139,Switzerland,327,Fribourg
+139,Switzerland,958,Lausanne
+139,Switzerland,707,Riviera
+139,Switzerland,680,Uri
+143,Tanzania,1307,Kati
+143,Tanzania,343,Región de Zanzibar Urban/West
+140,Thailand,334,Bangkok
+140,Thailand,1853,Mueang Phuket District
+140,Thailand,1856,Mueang Surat Thani District
+165,United Arab Emirates,328,Dubai
+120,United Kingdom,380,England
+41,United States of America,1189,Condado de Middlesex
+41,United States of America,2422,Condado de Windsor
+41,United States of America,382,Florida
+41,United States of America,444,Miami-Dade County
+41,United States of America,359,New York
+41,United States of America,644,Suffolk County
+41,United States of America,1055,Virginia
+154,Venezuela,975,Maracaibo
+155,Vietnam,336,Da Nang
+155,Vietnam,1855,Hà Tĩnh
+155,Vietnam,1850,Hải Phòng
+155,Vietnam,1849,Hồ Chí Minh
+155,Vietnam,1857,Provincia de Lào Cai

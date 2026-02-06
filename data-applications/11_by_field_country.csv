@@ -1,0 +1,73 @@
+﻿FieldId;FieldName;IDCountry;CountryName;N;TotalApplications;Mean;P50
+14;Hotel Chain;40;Spain;7468;455433;61;38
+0;Not specified;40;Spain;5825;152337;26;17
+1;Independent Hotel;40;Spain;1955;138337;71;47
+10;Others;40;Spain;1058;40338;38;29
+1;Independent Hotel;118;Portugal;932;49684;53;32
+14;Hotel Chain;118;Portugal;721;34179;47;24
+2;Restaurant;40;Spain;618;32496;53;37
+0;Not specified;118;Portugal;586;11396;19;16
+17;Recruitment Agency;40;Spain;528;25130;48;31
+32;Restaurant Chain;40;Spain;391;31860;81;59
+36;Rent a car;40;Spain;389;3908;10;0
+2;Restaurant;118;Portugal;293;11940;41;25
+46;Business group;40;Spain;269;9077;34;21
+19;Travel Agency;40;Spain;268;10836;40;28
+37;Tourist apartments;40;Spain;237;22112;93;69
+14;Hotel Chain;5;Andorra;215;8624;40;29
+53;Outsourcing / externalization of services;40;Spain;189;15103;80;53
+20;Consultancy;40;Spain;169;11692;69;41
+19;Travel Agency;98;Mexico;156;2718;17;14
+37;Tourist apartments;118;Portugal;143;6270;44;24
+28;Campsite;40;Spain;121;5650;47;37
+19;Travel Agency;118;Portugal;106;5669;53;36
+7;Hostel / Pension;40;Spain;83;9807;118;93
+52;Cruises;118;Portugal;81;2156;27;20
+29;Entertainment;40;Spain;73;1368;19;0
+10;Others;118;Portugal;71;2760;39;19
+0;Not specified;98;Mexico;69;241;3;3
+32;Restaurant Chain;118;Portugal;67;4203;63;36
+53;Outsourcing / externalization of services;118;Portugal;59;1118;19;15
+33;Active Turism;40;Spain;56;3485;62;36
+26;Bar;40;Spain;50;1975;40;26
+47;Cleaning and maintenance;40;Spain;48;2924;61;30
+33;Active Turism;118;Portugal;39;1684;43;28
+27;Training;40;Spain;38;118;3;0
+12;Catering;40;Spain;36;1898;53;36
+1;Independent Hotel;5;Andorra;34;2021;59;52
+34;New Technologies/ Internet;40;Spain;34;749;22;14
+21;Tour Operators;40;Spain;29;1539;53;48
+31;Spa;40;Spain;28;1283;46;32
+48;Tourism Agency;118;Portugal;26;183;7;0
+21;Tour Operators;118;Portugal;26;1665;64;38
+25;Transport;40;Spain;25;1044;42;25
+45;Tour guide;40;Spain;23;599;26;16
+28;Campsite;118;Portugal;22;468;21;19
+17;Recruitment Agency;118;Portugal;22;809;37;30
+50;Rural Tourism / Agritourism / Hotel Rural;40;Spain;17;595;35;29
+35;Marketing agency;40;Spain;16;384;24;9
+14;Hotel Chain;98;Mexico;16;120;8;7
+45;Tour guide;118;Portugal;15;287;19;25
+29;Entertainment;118;Portugal;13;368;28;26
+47;Cleaning and maintenance;118;Portugal;13;753;58;24
+54;Collective catering;40;Spain;13;613;47;42
+46;Business group;118;Portugal;12;536;45;23
+42;Golf Courses;40;Spain;11;410;37;20
+10;Others;98;Mexico;11;55;5;4
+26;Bar;118;Portugal;10;409;41;20
+48;Tourism Agency;40;Spain;10;565;57;30
+52;Cruises;40;Spain;9;614;68;73
+30;Events & Conferences;40;Spain;9;673;75;46
+12;Catering;118;Portugal;9;357;40;37
+34;New Technologies/ Internet;118;Portugal;8;219;27;19
+54;Collective catering;118;Portugal;8;292;37;29
+49;Casinos / Leisure / amusement park;40;Spain;7;195;28;23
+40;Cellars;40;Spain;7;125;18;19
+2;Restaurant;98;Mexico;7;40;6;6
+23;Theme Park/ Leisure;40;Spain;7;647;92;14
+24;Airline;40;Spain;7;936;134;108
+20;Consultancy;118;Portugal;7;218;31;16
+21;Tour Operators;98;Mexico;6;61;10;11
+50;Turismo Rural / Agroturismo / Hotel Rural;118;Portugal;6;139;23;20
+1;Independent Hotel;98;Mexico;5;66;13;7
+7;Hostel / Pension;118;Portugal;5;546;109;118

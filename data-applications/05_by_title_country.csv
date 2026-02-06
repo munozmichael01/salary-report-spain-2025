@@ -1,0 +1,932 @@
+﻿IDCountry;CountryName;TitleId;JobTitleName;N;TotalApplications;Mean;P50
+40;Spain;669;Waiter;1784;119946;67;46
+40;Spain;221;Cook;1588;71996;45;30
+40;Spain;591;Receptionist;1342;163889;122;95
+40;Spain;552;Chambermaid;1289;89891;70;40
+40;Spain;243;Kitchen Assistant;721;41253;57;38
+40;Spain;668;Waiter Assistant;670;35250;53;31
+40;Spain;584;Hotel Receptionist;511;42595;83;58
+40;Spain;494;Maintenance Technician;507;14595;29;23
+40;Spain;257;Chef de Partie;446;13754;31;22
+40;Spain;561;Housekeeping Staff;438;30853;70;36
+118;Portugal;669;Waiter;369;20621;56;35
+40;Spain;572;Bellboy;358;17532;49;41
+40;Spain;590;Reception Assistant;336;24734;74;48
+40;Spain;226;Dishwasher;314;17835;57;39
+40;Spain;652;Head Waiter;287;10592;37;30
+40;Spain;551;Assistant Executive Housekeeper;281;8584;31;24
+118;Portugal;591;Receptionist;279;23575;85;76
+40;Spain;218;Chef;275;11347;41;37
+40;Spain;254;Sous Chef;256;7693;30;23
+118;Portugal;221;Cook;255;10367;41;25
+40;Spain;580;Front Office Manager;229;11993;52;44
+40;Spain;630;Assistant Head Waiter;197;4142;21;17
+40;Spain;589;Night Receptionist;194;12472;64;51
+40;Spain;489;Maintenance Manager;172;4480;26;20
+40;Spain;177;GEX - Guest Experience Assistant;157;5066;32;24
+40;Spain;657;Bartender;155;7410;48;42
+40;Spain;653;Host/Hostess;151;9092;60;39
+40;Spain;119;Reservation Agent;148;9517;64;52
+40;Spain;661;Restaurant Manager;147;3552;24;19
+40;Spain;286;Rental Sales Consultant;144;1989;14;11
+40;Spain;492;Maintenance Assistant;141;4255;30;24
+40;Spain;664;Restaurant Section Head;138;2483;18;15
+118;Portugal;584;Hotel Receptionist;135;8945;66;39
+40;Spain;557;Executive Housekeeper;134;4636;35;28
+40;Spain;293;Sales Agent;126;3506;28;19
+40;Spain;577;Concierge;125;7518;60;46
+40;Spain;587;Night Auditor;124;6318;51;43
+40;Spain;550;Assistant Hotel Manager;124;4943;40;31
+40;Spain;493;Maintenance Officer;123;2579;21;18
+40;Spain;79;Hotel Director;116;8139;70;73
+40;Spain;113;Travel Agent;110;6631;60;51
+40;Spain;570;Assistant Head of Reception;108;5140;48;43
+40;Spain;165;Customer Service Advisor;106;884;8;0
+98;Mexico;113;Travel Agent;97;1489;15;12
+118;Portugal;657;Bartender;97;3251;34;21
+40;Spain;593;Human Resources Intern;90;1048;12;10
+40;Spain;23;Administrative;90;3088;34;25
+40;Spain;6;Accounting Intern;89;381;4;0
+118;Portugal;494;Maintenance Technician;87;1898;22;18
+40;Spain;181;GEX - Guest Experience Coordinator;84;3127;37;28
+40;Spain;631;Assistant Restaurant Manager;84;1911;23;17
+118;Portugal;561;Housekeeping Staff;83;6920;83;40
+40;Spain;650;Food and Beverage Manager;82;2818;34;31
+40;Spain;166;Customer Service Agent;81;1953;24;13
+118;Portugal;552;Chambermaid;78;4048;52;36
+40;Spain;80;Hotel Manager;76;3495;46;28
+40;Spain;124;Actor;69;914;13;0
+40;Spain;301;Sales Intern;68;1056;16;14
+40;Spain;10;Accounts Manager;68;218;3;0
+118;Portugal;652;Head Waiter;67;1593;24;17
+40;Spain;634;Bar Manager;65;1734;27;23
+40;Spain;159;Tourist Animator;63;4455;71;59
+118;Portugal;653;Host/Hostess;63;3439;55;26
+40;Spain;26;Administrative Assistant;62;3134;51;48
+118;Portugal;218;Chef;60;1813;30;25
+40;Spain;248;Pastry Chef;59;1620;27;25
+40;Spain;1;Accountant;58;742;13;10
+40;Spain;628;Assistant Bar Manager;58;1550;27;16
+118;Portugal;587;Night Auditor;57;1785;31;22
+118;Portugal;80;Hotel Manager;56;2257;40;28
+40;Spain;180;GEX - Guest Experience Manager;56;1833;33;28
+40;Spain;89;Valet Parking;55;2537;46;36
+40;Spain;697;Masseur;55;1483;27;24
+118;Portugal;243;Kitchen Assistant;55;3544;64;39
+40;Spain;647;Food and Beverage Assistant;53;1422;27;21
+40;Spain;302;Sales Manager;53;1117;21;19
+40;Spain;130;Children's Animator;52;1766;34;25
+40;Spain;498;Swimming Pool Maintenance;49;835;17;16
+118;Portugal;580;Front Office Manager;49;1660;34;27
+118;Portugal;113;Travel Agent;48;3278;68;68
+40;Spain;597;Intern in Reception;47;991;21;19
+40;Spain;533;Marketing Intern;46;985;21;18
+40;Spain;503;Warehouse Stock Handler;46;2095;46;30
+40;Spain;192;Call Center Agent;45;1627;36;25
+40;Spain;122;Activities Assistant;44;297;7;0
+40;Spain;486;Facilities Technician;44;735;17;14
+40;Spain;2;Accounting Assistant;43;944;22;19
+40;Spain;761;Technical Services Assistant;42;416;10;9
+118;Portugal;572;Bellboy;42;972;23;19
+40;Spain;665;Sommelier;41;857;21;17
+40;Spain;220;Commis Chef;41;1281;31;27
+40;Spain;8;Accounting Technician;40;411;10;9
+40;Spain;715;Spa Therapist;39;1349;35;30
+40;Spain;611;Human Resources Coordinator;39;725;19;16
+118;Portugal;254;Sous Chef;39;980;25;21
+118;Portugal;630;Assistant Head Waiter;38;665;18;16
+40;Spain;300;Sales Host;38;967;25;20
+40;Spain;316;Store Sales Assistant;37;2351;64;42
+40;Spain;564;Laundry Attendant;37;1400;38;24
+40;Spain;600;Revenue Agent;36;598;17;13
+40;Spain;228;Executive Chef;36;1326;37;32
+118;Portugal;634;Bar Manager;36;908;25;18
+118;Portugal;557;Executive Housekeeper;34;1145;34;28
+40;Spain;337;Purchasing Intern;34;374;11;12
+40;Spain;45;Chief Executive Officer (CEO);34;1773;52;31
+40;Spain;501;Technical Services Officer;34;685;20;19
+40;Spain;471;Tour Guide;34;950;28;19
+40;Spain;438;Groups & Events Sales Manager;34;1033;30;28
+40;Spain;482;Electrical Maintenance Technician;33;486;15;13
+40;Spain;505;Car Washer;33;814;25;22
+40;Spain;242;Sushiman;33;659;20;20
+40;Spain;167;Customer Service Assistant;33;1065;32;30
+40;Spain;436;Groups & Events Coordinator;32;1089;34;32
+118;Portugal;489;Maintenance Manager;32;452;14;14
+118;Portugal;166;Customer Service Agent;31;807;26;16
+40;Spain;690;Holistic Therapist;31;504;16;15
+40;Spain;637;Barista;31;1362;44;30
+40;Spain;615;Human Resources Technician;30;453;15;13
+40;Spain;170;Customer Service Manager;30;37;1;0
+40;Spain;213;Event Chef;30;1518;51;48
+40;Spain;267;Commercial Manager;30;566;19;17
+40;Spain;43;Casino Staff;30;408;14;13
+40;Spain;49;Revenue Manager;30;846;28;24
+40;Spain;346;Supply Department Manager;28;845;30;29
+40;Spain;560;Cleaning Manager;27;736;27;19
+118;Portugal;248;Pastry Chef;27;284;11;9
+118;Portugal;226;Dishwasher;26;1462;56;34
+118;Portugal;628;Assistant Bar Manager;26;666;26;14
+118;Portugal;119;Reservation Agent;26;2103;81;88
+118;Portugal;23;Administrative;26;1849;71;55
+118;Portugal;715;Spa Therapist;26;450;17;16
+40;Spain;502;Technical Services Specialist;26;421;16;13
+40;Spain;636;Barback;26;755;29;20
+40;Spain;692;Lifesaver;26;846;33;24
+40;Spain;753;Head of Technical Services;26;409;16;16
+40;Spain;632;Bakery Attendant;25;872;35;24
+40;Spain;345;Supply Department Assistant;25;580;23;15
+5;Andorra;652;Head Waiter;25;690;28;24
+40;Spain;251;Pizzaiolo;25;566;23;20
+118;Portugal;10;Accounts Manager;25;297;12;10
+118;Portugal;631;Assistant Restaurant Manager;24;474;20;14
+118;Portugal;661;Restaurant Manager;23;472;21;19
+40;Spain;141;Entertainment Manager;23;977;42;43
+40;Spain;59;Business Development Director;23;578;25;20
+40;Spain;28;Administrative Intern;23;258;11;14
+40;Spain;504;Painter;23;461;20;17
+40;Spain;713;Spa Manager;23;788;34;34
+40;Spain;487;Gardener;22;517;24;20
+40;Spain;125;Animation Assistant;22;1242;56;53
+40;Spain;275;Marketing and Sales Manager;22;735;33;33
+118;Portugal;570;Assistant Head of Reception;22;940;43;26
+118;Portugal;177;GEX - Guest Experience Assistant;21;525;25;22
+40;Spain;48;Operations Manager;21;907;43;33
+40;Spain;7;Accounting Manager;21;104;5;0
+40;Spain;530;Marketing Assistant;21;543;26;17
+40;Spain;460;Airport Guide;20;84;4;0
+118;Portugal;632;Bakery Attendant;20;633;32;21
+118;Portugal;486;Facilities Technician;20;254;13;13
+118;Portugal;665;Sommelier;20;186;9;10
+118;Portugal;647;Food and Beverage Assistant;20;625;31;18
+118;Portugal;650;Food and Beverage Manager;20;662;33;28
+40;Spain;473;Tourism Agent;19;586;31;20
+40;Spain;483;Electrician;19;268;14;16
+40;Spain;247;Pastry Assistant;19;376;20;18
+5;Andorra;669;Waiter;18;1369;76;58
+40;Spain;484;Facilities Manager;18;200;11;12
+40;Spain;376;Hospitality Consultant;18;438;24;13
+118;Portugal;551;Assistant Executive Housekeeper;18;396;22;18
+118;Portugal;293;Sales Agent;17;355;21;19
+118;Portugal;79;Hotel Director;17;749;44;24
+40;Spain;415;Conference & Events Trainee;17;311;18;15
+40;Spain;485;Facilities Assistant;17;400;24;17
+40;Spain;518;Public Relations Director;17;363;21;22
+40;Spain;725;Security Guard;17;153;9;6
+40;Spain;32;Amusement Park Staff;17;365;21;21
+40;Spain;120;Reservations Manager;17;549;32;29
+40;Spain;273;Key Account Manager;17;222;13;7
+40;Spain;270;Group Sales Manager;16;517;32;26
+40;Spain;142;Events Coordinator;16;548;34;29
+40;Spain;182;Service Manager;16;126;8;0
+40;Spain;88;Office Manager;16;48;3;0
+40;Spain;50;Operations Specialist;16;250;16;15
+40;Spain;714;Spa Receptionist;16;621;39;27
+40;Spain;696;Massage Therapist;16;547;34;30
+40;Spain;745;Software Developer;16;85;5;4
+40;Spain;432;Events Sales Executive;16;412;26;28
+118;Portugal;26;Administrative Assistant;16;1121;70;50
+118;Portugal;313;Sales Assistant;16;506;32;29
+40;Spain;479;Window Cleaner;15;218;15;9
+40;Spain;532;Marketing Director;15;412;27;28
+40;Spain;538;Public Relations Assistant;15;288;19;15
+40;Spain;711;Spa Assistant;15;451;30;22
+40;Spain;55;Controller;15;454;30;28
+40;Spain;105;Business Travel Agent;15;865;58;58
+40;Spain;117;Travel guide;15;545;36;33
+40;Spain;210;Assistant Baker;15;405;27;12
+40;Spain;168;Customer Service Coordinator;15;267;18;9
+40;Spain;150;Multifunctional Animator;15;836;56;44
+40;Spain;266;Commercial and Marketing Manager;15;436;29;27
+40;Spain;271;Hotel Sales Manager;14;425;30;24
+40;Spain;171;Customer Service Specialist;14;151;11;1
+40;Spain;127;Animation Manager;14;689;49;43
+40;Spain;29;Administrative Manager;14;178;13;13
+5;Andorra;243;Kitchen Assistant;14;711;51;48
+40;Spain;680;Body Treatment Specialist;14;418;30;31
+40;Spain;640;Cashier;14;600;43;39
+40;Spain;610;Human Resources Consultant;14;110;8;8
+40;Spain;567;Linen Keeper;14;275;20;14
+40;Spain;358;Food and Beverage Consultant;14;101;7;7
+118;Portugal;257;Chef de Partie;14;359;26;15
+118;Portugal;267;Commercial Manager;13;275;21;22
+118;Portugal;589;Night Receptionist;13;543;42;35
+40;Spain;490;Air Conditioning Maintenance Technician;13;146;11;9
+40;Spain;544;Social Media Manager;13;328;25;27
+40;Spain;796;Rider;13;452;35;24
+5;Andorra;572;Bellboy;13;650;50;44
+40;Spain;30;Administrative Technician;13;307;24;14
+40;Spain;201;Head of Quality;13;259;20;12
+40;Spain;277;MICE Sales Manager;13;271;21;18
+40;Spain;314;Salesperson Call Center;12;158;13;15
+40;Spain;335;Purchasing Coordinator;12;213;18;15
+40;Spain;207;Quality Technician;12;139;12;11
+40;Spain;47;Chief Operations Officer (COO);12;876;73;61
+40;Spain;111;Travel Agencies Account Manager;12;287;24;24
+40;Spain;75;Head of Administration;12;251;21;21
+5;Andorra;552;Chambermaid;12;1306;109;114
+5;Andorra;221;Cook;12;616;51;42
+40;Spain;755;IT Manager;12;175;15;17
+40;Spain;642;Cocktail Bar Manager;12;371;31;30
+40;Spain;707;Sauna Assistant;12;243;20;17
+40;Spain;608;Human Resources Assistant;12;319;27;18
+118;Portugal;473;Tourism Agent;12;545;45;31
+118;Portugal;8;Accounting Technician;12;235;20;18
+118;Portugal;474;Tourist Information Guide;11;301;27;25
+118;Portugal;577;Concierge;11;195;18;16
+40;Spain;535;Marketing Specialist;11;169;15;16
+40;Spain;439;Groups and MICE Coordinator;11;168;15;12
+40;Spain;731;Pool Attendant;11;350;32;28
+40;Spain;198;Call Center Technician;11;101;9;7
+40;Spain;244;Meat Cutter;11;313;28;26
+40;Spain;235;Grill Chef;11;389;35;29
+40;Spain;163;Fitness Animator;10;339;34;41
+40;Spain;93;Regional Director;10;280;28;20
+40;Spain;104;Data Analytics Specialist;10;161;16;16
+40;Spain;778;Car Driver;10;236;24;17
+40;Spain;712;Spa Coordinator;10;184;18;16
+40;Spain;618;Occupational Risk Prevention Technician;10;160;16;8
+40;Spain;495;Mason;10;71;7;4
+40;Spain;510;Brand Manager;10;86;9;8
+40;Spain;613;Human Resources Manager;10;138;14;12
+40;Spain;596;Recruitment Technician;10;143;14;13
+118;Portugal;471;Tour Guide;10;208;21;21
+118;Portugal;503;Warehouse Stock Handler;10;224;22;21
+98;Mexico;293;Sales Agent;10;191;19;15
+118;Portugal;172;Customer Support Assistant;10;428;43;36
+118;Portugal;636;Barback;10;242;24;19
+118;Portugal;654;Ice Cream Shop Attendant;9;745;83;57
+118;Portugal;114;Travel Coordinator;9;355;39;36
+118;Portugal;615;Human Resources Technician;9;316;35;28
+118;Portugal;220;Commis Chef;9;200;22;20
+118;Portugal;316;Store Sales Assistant;9;315;35;17
+40;Spain;565;Laundry Manager;9;177;20;15
+40;Spain;594;Recruitment Director;9;218;24;9
+40;Spain;497;Building Repairer;9;154;17;19
+40;Spain;488;Gardening Assistant;9;202;22;24
+40;Spain;437;Groups & Events Manager;9;430;48;32
+40;Spain;443;Maitre in Charge of Room and Events;9;124;14;18
+40;Spain;396;Sommelier Consultant;9;222;25;21
+40;Spain;686;Esthetician;9;166;18;8
+40;Spain;74;Head of Accounting;9;110;12;11
+40;Spain;78;Hotel Development Director;9;127;14;16
+40;Spain;61;Finance Manager;9;146;16;17
+40;Spain;68;Financial Intern;9;82;9;7
+5;Andorra;591;Receptionist;9;699;78;71
+40;Spain;200;Customer Support Technician;9;116;13;12
+40;Spain;332;Purchasing Agent;9;204;23;10
+40;Spain;323;Buyer;9;151;17;10
+40;Spain;315;Store Manager;9;124;14;13
+40;Spain;274;Marketing and Sales Director;9;214;24;23
+40;Spain;202;Quality Assistant;8;218;27;13
+40;Spain;169;Customer Service Director;8;170;21;21
+40;Spain;5;Accounting Director;8;78;10;0
+5;Andorra;714;Spa Receptionist;8;555;69;80
+5;Andorra;248;Pastry Chef;8;144;18;22
+5;Andorra;257;Chef de Partie;8;296;37;37
+40;Spain;46;Chief Financial Officer (CFO);8;112;14;15
+40;Spain;114;Travel Coordinator;8;414;52;42
+40;Spain;687;First aid attendant;8;183;23;16
+40;Spain;616;Labor Administrative;8;287;36;25
+40;Spain;813;Van Driver;8;273;34;28
+40;Spain;420;Events and Banquets Director;8;224;28;31
+40;Spain;481;Electrical Maintenance Crew Chief;8;176;22;16
+40;Spain;609;Human Resources Business Partner;8;233;29;18
+40;Spain;606;Head of Human Resources;8;114;14;15
+118;Portugal;396;Sommelier Consultant;8;89;11;9
+118;Portugal;302;Sales Manager;8;152;19;6
+118;Portugal;463;Driver Tour Guide;8;246;31;29
+118;Portugal;165;Customer Service Advisor;8;65;8;0
+118;Portugal;762;Technologist brewing;8;167;21;17
+118;Portugal;637;Barista;7;308;44;18
+118;Portugal;100;Warehouse Manager;7;277;40;22
+118;Portugal;1;Accountant;7;117;17;13
+118;Portugal;476;Wine Tourism Guide;7;101;14;11
+118;Portugal;613;Human Resources Manager;7;200;29;29
+118;Portugal;590;Reception Assistant;7;280;40;21
+118;Portugal;250;Pastry Shop Manager;7;104;15;12
+118;Portugal;401;Tourist Management Consultant;7;231;33;23
+40;Spain;512;Content Creator;7;100;14;16
+40;Spain;528;Graphic Designer;7;161;23;25
+40;Spain;377;Hospitality Trainer;7;68;10;8
+98;Mexico;2;Accounting Assistant;7;49;7;3
+98;Mexico;105;Business Travel Agent;7;142;20;24
+40;Spain;732;Helpdesk Analyst;7;55;8;9
+40;Spain;733;IT Helpdesk Analyst;7;47;7;4
+40;Spain;771;Bus Driver;7;178;25;22
+40;Spain;773;Cabin Crew;7;46;7;1
+40;Spain;112;Travel Agency Manager;7;98;14;15
+40;Spain;94;Regional Manager;7;124;18;16
+40;Spain;57;Controller Assistant;7;52;7;7
+40;Spain;18;Accounts Receivable Executive;7;134;19;11
+5;Andorra;650;Food and Beverage Manager;7;149;21;29
+5;Andorra;697;Masseur;7;182;26;24
+40;Spain;123;Activities Supervisor;7;134;19;20
+40;Spain;209;Baker Chef;7;69;10;6
+40;Spain;211;Bakery Manager;7;227;32;19
+40;Spain;283;Regional Sales Executive;7;105;15;18
+40;Spain;291;Sales & MICE Assistant;7;178;25;15
+40;Spain;313;Sales Assistant;7;106;15;6
+40;Spain;334;Purchasing Assistant;7;197;28;15
+40;Spain;262;Area Sales Manager;7;117;17;11
+5;Andorra;665;Sommelier;6;75;13;12
+5;Andorra;551;Assistant Executive Housekeeper;6;169;28;29
+40;Spain;44;Casino Host;6;146;24;19
+40;Spain;96;Supply Chain Manager;6;180;30;19
+40;Spain;746;Web Developer;6;50;8;11
+40;Spain;622;Recruitment Consultant;6;55;9;9
+40;Spain;654;Ice Cream Shop Attendant;6;45;8;6
+40;Spain;698;Nursing professionals;6;20;3;3
+40;Spain;726;Watchman;6;55;9;4
+40;Spain;718;Wellness Advisor;6;103;17;19
+40;Spain;347;Warehouse Management Technician;6;134;22;18
+40;Spain;434;Events Staff;6;150;25;26
+40;Spain;446;MICE Manager;6;138;23;20
+40;Spain;531;Marketing Consultant;6;145;24;23
+40;Spain;519;Public Relations and Communication Director;6;157;26;27
+118;Portugal;242;Sushiman;6;223;37;36
+118;Portugal;228;Executive Chef;6;133;22;21
+118;Portugal;550;Assistant Hotel Manager;6;179;30;18
+118;Portugal;483;Electrician;6;44;7;6
+98;Mexico;270;Group Sales Manager;6;27;5;4
+118;Portugal;45;Chief Executive Officer (CEO);6;200;33;37
+118;Portugal;198;Call Center Technician;6;31;5;5
+118;Portugal;159;Tourist Animator;6;131;22;21
+118;Portugal;48;Operations Manager;5;304;61;31
+98;Mexico;764;Air Traffic Controller;5;71;14;10
+118;Portugal;564;Laundry Attendant;5;71;14;17
+118;Portugal;211;Bakery Manager;5;91;18;15
+118;Portugal;247;Pastry Assistant;5;102;20;15
+118;Portugal;251;Pizzaiolo;5;75;15;13
+118;Portugal;714;Spa Receptionist;5;47;9;8
+118;Portugal;725;Security Guard;5;37;7;5
+118;Portugal;771;Bus Driver;5;63;13;10
+118;Portugal;778;Car Driver;5;169;34;23
+118;Portugal;809;Skipper;5;55;11;9
+40;Spain;515;Digital Marketing Director;5;161;32;18
+40;Spain;605;Employee Relations Specialist;5;92;18;14
+40;Spain;595;Recruitment Manager;5;45;9;9
+40;Spain;575;Camping Staff;5;102;20;20
+40;Spain;496;Plumber;5;33;7;7
+40;Spain;441;Head Waiter for Catering & Events;5;107;21;27
+40;Spain;399;Sustainable Tourism Consultant;5;59;12;17
+40;Spain;350;Chef Consultant;5;92;18;14
+40;Spain;390;Revenue Management Consultant;5;68;14;12
+40;Spain;679;Beauty Consultant;5;102;20;16
+40;Spain;620;Personnel Recruitment Technician;5;76;15;14
+40;Spain;736;Chief Technology Officer (CTO);5;49;10;5
+40;Spain;757;Information Technology Manager;5;62;12;12
+40;Spain;760;Product Development Manager;5;102;20;22
+40;Spain;767;Airport Operations Manager;5;128;26;32
+40;Spain;763;Business Intelligence Analyst;5;37;7;6
+40;Spain;85;Logistics Director;5;125;25;23
+40;Spain;67;Financial Assistant;5;29;6;7
+40;Spain;102;Business Intelligence Specialist;5;92;18;16
+40;Spain;106;Custom Travel Agent;5;242;48;33
+40;Spain;27;Administrative Director;5;241;48;19
+40;Spain;31;Amusement Park Manager;5;63;13;15
+40;Spain;70;Franchise Director;5;79;16;12
+5;Andorra;577;Concierge;5;223;45;45
+5;Andorra;507;Advertising Manager;5;97;19;22
+5;Andorra;653;Host/Hostess;5;208;42;30
+40;Spain;14;Accounts Payable Intern;5;60;12;7
+40;Spain;4;Personal Assistant;5;124;25;22
+40;Spain;224;Dietary Chef;5;237;47;28
+40;Spain;250;Pastry Shop Manager;5;54;11;10
+40;Spain;203;Quality Department Internship;5;12;2;2
+40;Spain;128;Animation Supervisor;5;255;51;45
+40;Spain;143;Events Manager;4;214;54;59
+40;Spain;139;DJ;4;29;7;5
+40;Spain;164;Fitness Supervisor;4;17;4;5
+40;Spain;148;MiniClub Animator;4;144;36;25
+40;Spain;206;Quality Specialist;4;75;19;18
+40;Spain;184;Customer Experience Assistant;4;65;16;16
+40;Spain;179;GEX - Guest Experience Director;4;142;36;38
+40;Spain;176;Customer Support Specialist;4;80;20;20
+40;Spain;232;Garde Manger Chef;4;143;36;34
+40;Spain;330;Logistics and Distribution Coordinator;4;81;20;22
+40;Spain;333;Purchasing and Warehouse Manager;4;131;33;37
+40;Spain;282;Partners Specialist;4;55;14;17
+40;Spain;22;Accounts Receivable Technician;4;49;12;11
+5;Andorra;634;Bar Manager;4;101;25;21
+5;Andorra;657;Bartender;4;159;40;39
+5;Andorra;436;Groups & Events Coordinator;4;98;25;27
+5;Andorra;242;Sushiman;4;89;22;22
+5;Andorra;250;Pastry Shop Manager;4;72;18;18
+5;Andorra;206;Quality Specialist;4;76;19;21
+5;Andorra;119;Reservation Agent;4;268;67;59
+40;Spain;71;Franchise Manager;4;0;0;0
+40;Spain;72;Franchise Supervisor;4;31;8;8
+40;Spain;40;Budgeting Specialist;4;90;23;5
+40;Spain;41;Camping Manager;4;262;66;53
+40;Spain;76;Head of Finance;4;37;9;12
+40;Spain;99;Theme Park Staff;4;57;14;15
+40;Spain;100;Warehouse Manager;4;103;26;24
+40;Spain;101;Business Intelligence Manager;4;22;6;5
+40;Spain;809;Skipper;4;36;9;12
+40;Spain;724;Nightwatchman;4;75;19;22
+98;Mexico;119;Reservation Agent;4;88;22;19
+40;Spain;617;Learning and Talent Development Specialist;4;65;16;14
+40;Spain;678;Beautician;4;32;8;11
+40;Spain;413;Catering Manager;4;128;32;24
+40;Spain;425;Event Promoter;4;16;4;3
+40;Spain;474;Tourist Information Guide;4;214;54;45
+40;Spain;614;Human Resources Specialist;4;42;11;10
+40;Spain;516;Digital Marketing Manager;4;113;28;27
+40;Spain;529;Graphic Designer Intern;4;73;18;14
+40;Spain;513;Content Marketing Manager;4;86;22;13
+40;Spain;549;Web Designer;4;57;14;11
+40;Spain;545;Social Media Specialist;4;33;8;6
+40;Spain;539;Public Relations Intern;4;41;10;10
+40;Spain;541;Public Relations Specialist;4;55;14;10
+40;Spain;509;B2B Marketing Specialist;4;42;11;12
+40;Spain;534;Marketing Manager;4;103;26;26
+118;Portugal;713;Spa Manager;4;97;24;31
+118;Portugal;680;Body Treatment Specialist;4;64;16;18
+118;Portugal;642;Cocktail Bar Manager;4;57;14;11
+118;Portugal;664;Restaurant Section Head;4;214;54;33
+118;Portugal;668;Waiter Assistant;4;66;17;16
+118;Portugal;278;National Sales Executive;4;13;3;0
+118;Portugal;273;Key Account Manager;4;74;19;16
+118;Portugal;323;Buyer;4;58;15;16
+118;Portugal;597;Intern in Reception;4;89;22;21
+118;Portugal;482;Electrical Maintenance Technician;4;63;16;16
+118;Portugal;467;Museum Guide;4;110;28;28
+98;Mexico;661;Restaurant Manager;4;24;6;6
+118;Portugal;50;Operations Specialist;4;87;22;15
+118;Portugal;67;Financial Assistant;4;124;31;25
+118;Portugal;167;Customer Service Assistant;4;70;18;12
+118;Portugal;180;GEX - Guest Experience Manager;4;46;12;11
+118;Portugal;181;GEX - Guest Experience Coordinator;4;139;35;16
+118;Portugal;182;Service Manager;3;49;16;14
+118;Portugal;199;Customer Service Technician;3;243;81;112
+118;Portugal;200;Customer Support Technician;3;66;22;21
+118;Portugal;142;Events Coordinator;3;51;17;18
+118;Portugal;120;Reservations Manager;3;99;33;30
+118;Portugal;32;Amusement Park Staff;3;30;10;13
+118;Portugal;28;Administrative Intern;3;68;23;23
+118;Portugal;96;Supply Chain Manager;3;167;56;42
+118;Portugal;109;Travel Project Manager;3;56;19;24
+118;Portugal;85;Logistics Director;3;27;9;11
+118;Portugal;75;Head of Administration;3;122;41;38
+98;Mexico;613;Human Resources Manager;3;14;5;5
+98;Mexico;760;Product Development Manager;3;34;11;11
+98;Mexico;725;Security Guard;3;7;2;2
+118;Portugal;2;Accounting Assistant;3;46;15;18
+98;Mexico;243;Kitchen Assistant;3;16;5;6
+98;Mexico;436;Groups & Events Coordinator;3;42;14;9
+98;Mexico;446;MICE Manager;3;20;7;7
+118;Portugal;459;Adventure Tour Guide;3;45;15;13
+118;Portugal;481;Electrical Maintenance Crew Chief;3;48;16;13
+118;Portugal;315;Store Manager;3;228;76;14
+118;Portugal;487;Gardener;3;14;5;4
+118;Portugal;493;Maintenance Officer;3;41;14;11
+118;Portugal;518;Public Relations Director;3;64;21;23
+118;Portugal;528;Graphic Designer;3;91;30;12
+118;Portugal;533;Marketing Intern;3;61;20;20
+118;Portugal;544;Social Media Manager;3;52;17;10
+118;Portugal;345;Supply Department Assistant;3;55;18;16
+118;Portugal;436;Groups & Events Coordinator;3;85;28;30
+118;Portugal;437;Groups & Events Manager;3;92;31;37
+118;Portugal;438;Groups & Events Sales Manager;3;43;14;16
+118;Portugal;266;Commercial and Marketing Manager;3;55;18;17
+118;Portugal;726;Watchman;3;59;20;18
+118;Portugal;804;Ship Captain;3;5;2;2
+40;Spain;507;Advertising Manager;3;81;27;27
+40;Spain;602;Compensation and Benefits Specialist;3;29;10;7
+40;Spain;563;Ironing Staff;3;65;22;22
+40;Spain;463;Driver Tour Guide;3;15;5;2
+40;Spain;452;Sport Center Manager;3;19;6;8
+40;Spain;456;Wedding Planner;3;175;58;54
+40;Spain;491;Kitchen Machinery Maintenance Technician;3;32;11;11
+40;Spain;401;Tourist Management Consultant;3;105;35;26
+40;Spain;411;Assistant Events Coordinator;3;139;46;41
+40;Spain;361;Food Production Consultant;3;75;25;10
+40;Spain;355;Diving Instructor;3;34;11;6
+40;Spain;691;Hydrotherapy Specialist;3;19;6;9
+40;Spain;716;Hair Stylist;3;23;8;6
+40;Spain;658;Oenologist;3;40;13;12
+98;Mexico;95;Supplies Manager;3;9;3;3
+98;Mexico;166;Customer Service Agent;3;11;4;2
+98;Mexico;192;Call Center Agent;3;15;5;3
+98;Mexico;1;Accountant;3;20;7;8
+98;Mexico;26;Administrative Assistant;3;79;26;24
+40;Spain;756;IT Manager Project;3;14;5;5
+40;Spain;741;Head of Information Technology;3;10;3;3
+40;Spain;762;Technologist brewing;3;51;17;18
+40;Spain;92;Recreation Manager;3;54;18;24
+40;Spain;42;Casino Manager;3;16;5;4
+40;Spain;33;Billing Assistant;3;132;44;22
+40;Spain;65;Financial Analyst;3;36;12;13
+40;Spain;53;Collector;3;12;4;5
+5;Andorra;226;Dishwasher;3;306;102;144
+5;Andorra;494;Maintenance Technician;3;58;19;25
+5;Andorra;254;Sous Chef;3;42;14;11
+5;Andorra;503;Warehouse Stock Handler;3;88;29;42
+40;Spain;12;Accounts Payable Assistant;3;9;3;0
+40;Spain;306;Sales Operations Analyst;3;39;13;8
+40;Spain;297;Sales Development Representatives (SDR);3;67;22;19
+40;Spain;241;Italian Food Cook;3;47;16;15
+40;Spain;255;Spanish Food Cook;3;91;30;31
+40;Spain;272;Inside Sales Representative;3;100;33;29
+40;Spain;269;Food service salesperson;3;136;45;34
+40;Spain;183;Service Specialist;3;162;54;16
+40;Spain;199;Customer Service Technician;3;11;4;2
+40;Spain;204;Quality Director;3;120;40;56
+40;Spain;214;Catering Assistant;3;15;5;2
+40;Spain;219;Chinese Food Cook;3;38;13;14
+40;Spain;151;Musician;3;21;7;3
+40;Spain;172;Customer Support Assistant;3;130;43;21
+40;Spain;173;Customer Support Coordinator;2;53;27;27
+40;Spain;157;Singer;2;25;13;13
+40;Spain;132;Clown;2;1;1;1
+40;Spain;135;Dance Animator;2;52;26;26
+40;Spain;217;Charcuterie Chef;2;28;14;14
+40;Spain;175;Customer Support Manager;2;57;29;29
+40;Spain;191;Customer Success Specialist;2;18;9;9
+40;Spain;187;Customer Experience Specialist;2;34;17;17
+40;Spain;278;National Sales Executive;2;164;82;82
+40;Spain;245;Mediterranean Food Cook;2;82;41;41
+40;Spain;324;Food Cost Analyst;2;27;14;14
+40;Spain;338;Purchasing Manager;2;77;39;39
+40;Spain;339;Purchasing Supervisor;2;45;23;23
+40;Spain;341;Stock Control Technician;2;138;69;69
+40;Spain;13;Accounts Payable Executive;2;18;9;9
+40;Spain;20;Accounts Receivable Manager;2;30;15;15
+5;Andorra;778;Car Driver;2;47;24;24
+5;Andorra;692;Lifesaver;2;73;37;37
+5;Andorra;631;Assistant Restaurant Manager;2;7;4;4
+5;Andorra;541;Public Relations Specialist;2;78;39;39
+5;Andorra;557;Executive Housekeeper;2;41;21;21
+5;Andorra;570;Assistant Head of Reception;2;56;28;28
+5;Andorra;589;Night Receptionist;2;138;69;69
+5;Andorra;501;Technical Services Officer;2;49;25;25
+5;Andorra;518;Public Relations Director;2;32;16;16
+5;Andorra;459;Adventure Tour Guide;2;30;15;15
+5;Andorra;218;Chef;2;61;31;31
+5;Andorra;26;Administrative Assistant;2;19;10;10
+5;Andorra;79;Hotel Director;2;135;68;68
+5;Andorra;316;Store Sales Assistant;2;120;60;60
+5;Andorra;396;Sommelier Consultant;2;4;2;2
+40;Spain;54;Collector Specialist;2;8;4;4
+40;Spain;36;Billing Technician;2;32;16;16
+40;Spain;38;Budgeting Manager;2;21;11;11
+40;Spain;107;Luxury Travel Advisor;2;55;28;28
+40;Spain;118;Cruise Sales Agent;2;98;49;49
+40;Spain;777;Flight Attendant;2;276;138;138
+40;Spain;804;Ship Captain;2;14;7;7
+40;Spain;798;Onboard Casino Host;2;43;22;22
+40;Spain;758;Helpdesk Supervisor;2;13;7;7
+40;Spain;702;Physiotherapist;2;16;8;8
+40;Spain;749;Digital Strategy Specialist;2;31;16;16
+98;Mexico;42;Casino Manager;2;5;3;3
+98;Mexico;48;Operations Manager;2;35;18;18
+98;Mexico;50;Operations Specialist;2;29;15;15
+98;Mexico;59;Business Development Director;2;8;4;4
+40;Spain;814;Delivery;2;12;6;6
+98;Mexico;12;Accounts Payable Assistant;2;33;17;17
+98;Mexico;209;Baker Chef;2;2;1;1
+98;Mexico;221;Cook;2;12;6;6
+98;Mexico;114;Travel Coordinator;2;40;20;20
+98;Mexico;80;Hotel Manager;2;9;5;5
+98;Mexico;120;Reservations Manager;2;26;13;13
+40;Spain;675;Make-up Artist;2;60;30;30
+40;Spain;676;Baby sitter;2;25;13;13
+40;Spain;655;Ice Cream Shop Manager;2;31;16;16
+40;Spain;627;Talent Acquisition Specialist;2;32;16;16
+40;Spain;708;Sauna Technician;2;36;18;18
+40;Spain;709;Seamstress;2;49;25;25
+40;Spain;721;Art Gallery Guard;2;22;11;11
+40;Spain;722;Bodyguard;2;6;3;3
+40;Spain;354;Culinary Arts Instructor;2;27;14;14
+40;Spain;370;Health and Wellness Consultant;2;4;2;2
+40;Spain;378;Hotel Management Consultant;2;32;16;16
+40;Spain;424;Event Planner;2;118;59;59
+40;Spain;416;Events Hostess;2;90;45;45
+40;Spain;453;Sporting Activities Manager;2;15;8;8
+40;Spain;461;City Tour Guide;2;11;6;6
+40;Spain;467;Museum Guide;2;72;36;36
+40;Spain;472;Tour Manager;2;48;24;24
+40;Spain;476;Wine Tourism Guide;2;37;19;19
+40;Spain;603;HR and Talent Director;2;38;19;19
+40;Spain;601;Senior Reservations Agent;2;40;20;20
+40;Spain;612;Human Resources Director;2;30;15;15
+40;Spain;508;B2B Marketing Manager;2;17;9;9
+40;Spain;514;Copywriter;2;56;28;28
+40;Spain;523;eCommerce Specialist;2;39;20;20
+118;Portugal;777;Flight Attendant;2;72;36;36
+118;Portugal;751;Digital Transformation Manager;2;36;18;18
+118;Portugal;755;IT Manager;2;14;7;7
+118;Portugal;761;Technical Services Assistant;2;38;19;19
+118;Portugal;731;Pool Attendant;2;25;13;13
+118;Portugal;733;IT Helpdesk Analyst;2;101;51;51
+118;Portugal;735;Filmmaker;2;111;56;56
+118;Portugal;724;Nightwatchman;2;38;19;19
+118;Portugal;699;Nutritionist;2;8;4;4
+118;Portugal;711;Spa Assistant;2;36;18;18
+118;Portugal;712;Spa Coordinator;2;18;9;9
+118;Portugal;645;Coffee Shop Manager;2;50;25;25
+118;Portugal;271;Hotel Sales Manager;2;43;22;22
+118;Portugal;274;Marketing and Sales Director;2;0;0;0
+118;Portugal;275;Marketing and Sales Manager;2;137;69;69
+118;Portugal;262;Area Sales Manager;2;27;14;14
+118;Portugal;306;Sales Operations Analyst;2;29;15;15
+118;Portugal;301;Sales Intern;2;48;24;24
+118;Portugal;213;Event Chef;2;22;11;11
+118;Portugal;235;Grill Chef;2;128;64;64
+118;Portugal;445;Meetings and Events Project Manager;2;44;22;22
+118;Portugal;432;Events Sales Executive;2;55;28;28
+118;Portugal;434;Events Staff;2;33;17;17
+118;Portugal;346;Supply Department Manager;2;19;10;10
+118;Portugal;348;Warehouse Supervisor;2;81;41;41
+118;Portugal;376;Hospitality Consultant;2;39;20;20
+118;Portugal;560;Cleaning Manager;2;84;42;42
+118;Portugal;593;Human Resources Intern;2;32;16;16
+118;Portugal;596;Recruitment Technician;2;60;30;30
+118;Portugal;608;Human Resources Assistant;2;60;30;30
+118;Portugal;537;Public Relations and Communication Manager;2;60;30;30
+118;Portugal;540;Public Relations Manager;2;49;25;25
+118;Portugal;530;Marketing Assistant;2;151;76;76
+118;Portugal;516;Digital Marketing Manager;2;160;80;80
+118;Portugal;492;Maintenance Assistant;2;38;19;19
+118;Portugal;461;City Tour Guide;2;48;24;24
+98;Mexico;492;Maintenance Assistant;2;2;1;1
+98;Mexico;437;Groups & Events Manager;2;36;18;18
+98;Mexico;432;Events Sales Executive;2;32;16;16
+98;Mexico;503;Warehouse Stock Handler;2;5;3;3
+98;Mexico;560;Cleaning Manager;2;9;5;5
+98;Mexico;561;Housekeeping Staff;2;54;27;27
+98;Mexico;254;Sous Chef;2;11;6;6
+98;Mexico;302;Sales Manager;2;16;8;8
+98;Mexico;313;Sales Assistant;2;38;19;19
+98;Mexico;314;Salesperson Call Center;2;4;2;2
+98;Mexico;378;Hotel Management Consultant;2;47;24;24
+98;Mexico;323;Buyer;2;8;4;4
+118;Portugal;4;Personal Assistant;2;131;66;66
+118;Portugal;7;Accounting Manager;2;48;24;24
+98;Mexico;669;Waiter;2;7;4;4
+98;Mexico;111;Travel Agencies Account Manager;2;20;10;10
+98;Mexico;550;Assistant Hotel Manager;2;7;4;4
+98;Mexico;591;Receptionist;2;125;63;63
+98;Mexico;611;Human Resources Coordinator;2;8;4;4
+98;Mexico;640;Cashier;2;4;2;2
+118;Portugal;76;Head of Finance;2;45;23;23
+118;Portugal;78;Hotel Development Director;2;31;16;16
+118;Portugal;89;Valet Parking;2;44;22;22
+118;Portugal;93;Regional Director;2;15;8;8
+118;Portugal;94;Regional Manager;2;133;67;67
+118;Portugal;95;Supplies Manager;2;25;13;13
+118;Portugal;112;Travel Agency Manager;2;55;28;28
+118;Portugal;105;Business Travel Agent;2;89;45;45
+118;Portugal;49;Revenue Manager;2;37;19;19
+118;Portugal;55;Controller;2;8;4;4
+118;Portugal;117;Travel guide;2;86;43;43
+118;Portugal;164;Fitness Supervisor;2;0;0;0
+118;Portugal;204;Quality Director;2;60;30;30
+118;Portugal;192;Call Center Agent;2;48;24;24
+118;Portugal;209;Baker Chef;2;46;23;23
+118;Portugal;140;Entertainment Coordinator;2;44;22;22
+118;Portugal;176;Customer Support Specialist;2;31;16;16
+118;Portugal;188;Customer Success Assistant;1;18;18;18
+118;Portugal;179;GEX - Guest Experience Director;1;26;26;26
+118;Portugal;206;Quality Specialist;1;24;24;24
+118;Portugal;148;MiniClub Animator;1;26;26;26
+118;Portugal;169;Customer Service Director;1;32;32;32
+118;Portugal;171;Customer Service Specialist;1;99;99;99
+118;Portugal;116;Traveler Attention Center Agent;1;51;51;51
+118;Portugal;122;Activities Assistant;1;14;14;14
+118;Portugal;126;Animation Coordinator;1;3;3;3
+118;Portugal;130;Children's Animator;1;4;4;4
+118;Portugal;136;Dance Instructor;1;1;1;1
+118;Portugal;61;Finance Manager;1;15;15;15
+118;Portugal;62;Finance Specialist;1;16;16;16
+118;Portugal;65;Financial Analyst;1;27;27;27
+118;Portugal;74;Head of Accounting;1;11;11;11
+118;Portugal;54;Collector Specialist;1;16;16;16
+118;Portugal;42;Casino Manager;1;9;9;9
+118;Portugal;43;Casino Staff;1;2;2;2
+118;Portugal;30;Administrative Technician;1;0;0;0
+118;Portugal;31;Amusement Park Manager;1;10;10;10
+118;Portugal;106;Custom Travel Agent;1;31;31;31
+118;Portugal;107;Luxury Travel Advisor;1;66;66;66
+118;Portugal;98;Theme Park Manager;1;10;10;10
+118;Portugal;88;Office Manager;1;16;16;16
+98;Mexico;652;Head Waiter;1;7;7;7
+98;Mexico;653;Host/Hostess;1;7;7;7
+98;Mexico;657;Bartender;1;1;1;1
+98;Mexico;612;Human Resources Director;1;2;2;2
+98;Mexico;665;Sommelier;1;4;4;4
+98;Mexico;609;Human Resources Business Partner;1;4;4;4
+98;Mexico;551;Assistant Executive Housekeeper;1;7;7;7
+98;Mexico;557;Executive Housekeeper;1;22;22;22
+98;Mexico;617;Learning and Talent Development Specialist;1;5;5;5
+98;Mexico;620;Personnel Recruitment Technician;1;1;1;1
+98;Mexico;631;Assistant Restaurant Manager;1;12;12;12
+98;Mexico;786;Flight Operations Clerk;1;17;17;17
+98;Mexico;792;Itinerary Planning Manager;1;10;10;10
+98;Mexico;713;Spa Manager;1;3;3;3
+98;Mexico;726;Watchman;1;1;1;1
+98;Mexico;745;Software Developer;1;1;1;1
+118;Portugal;12;Accounts Payable Assistant;1;21;21;21
+118;Portugal;6;Accounting Intern;1;15;15;15
+98;Mexico;329;Inventory Control Specialist;1;5;5;5
+98;Mexico;342;Supplier Management Specialist;1;11;11;11
+98;Mexico;350;Chef Consultant;1;1;1;1
+98;Mexico;351;Chef Instructor;1;2;2;2
+98;Mexico;396;Sommelier Consultant;1;0;0;0
+98;Mexico;300;Sales Host;1;1;1;1
+98;Mexico;316;Store Sales Assistant;1;1;1;1
+98;Mexico;273;Key Account Manager;1;13;13;13
+98;Mexico;565;Laundry Manager;1;0;0;0
+98;Mexico;580;Front Office Manager;1;1;1;1
+98;Mexico;584;Hotel Receptionist;1;21;21;21
+98;Mexico;504;Painter;1;1;1;1
+98;Mexico;522;eCommerce Manager;1;2;2;2
+98;Mexico;529;Graphic Designer Intern;1;14;14;14
+98;Mexico;530;Marketing Assistant;1;4;4;4
+98;Mexico;534;Marketing Manager;1;6;6;6
+98;Mexico;544;Social Media Manager;1;9;9;9
+98;Mexico;433;Events Security Staff;1;4;4;4
+98;Mexico;439;Groups and MICE Coordinator;1;7;7;7
+98;Mexico;493;Maintenance Officer;1;3;3;3
+98;Mexico;494;Maintenance Technician;1;7;7;7
+98;Mexico;473;Tourism Agent;1;6;6;6
+98;Mexico;482;Electrical Maintenance Technician;1;6;6;6
+118;Portugal;470;Segway or Bicycle Tour Guide;1;19;19;19
+118;Portugal;507;Advertising Manager;1;16;16;16
+118;Portugal;508;B2B Marketing Manager;1;146;146;146
+118;Portugal;497;Building Repairer;1;14;14;14
+118;Portugal;501;Technical Services Officer;1;12;12;12
+118;Portugal;502;Technical Services Specialist;1;17;17;17
+118;Portugal;531;Marketing Consultant;1;35;35;35
+118;Portugal;519;Public Relations and Communication Director;1;64;64;64
+118;Portugal;523;eCommerce Specialist;1;18;18;18
+118;Portugal;534;Marketing Manager;1;59;59;59
+118;Portugal;535;Marketing Specialist;1;31;31;31
+118;Portugal;617;Learning and Talent Development Specialist;1;12;12;12
+118;Portugal;623;Recruitment Specialist;1;57;57;57
+118;Portugal;626;Talent Acquisition Manager;1;14;14;14
+118;Portugal;600;Revenue Agent;1;39;39;39
+118;Portugal;603;HR and Talent Director;1;0;0;0
+118;Portugal;614;Human Resources Specialist;1;0;0;0
+118;Portugal;563;Ironing Staff;1;8;8;8
+118;Portugal;545;Social Media Specialist;1;46;46;46
+118;Portugal;565;Laundry Manager;1;8;8;8
+118;Portugal;377;Hospitality Trainer;1;2;2;2
+118;Portugal;378;Hotel Management Consultant;1;0;0;0
+118;Portugal;386;Portuguese Teacher;1;25;25;25
+118;Portugal;354;Culinary Arts Instructor;1;16;16;16
+118;Portugal;358;Food and Beverage Consultant;1;17;17;17
+118;Portugal;370;Health and Wellness Consultant;1;12;12;12
+118;Portugal;327;Inventory Analyst;1;42;42;42
+118;Portugal;332;Purchasing Agent;1;24;24;24
+118;Portugal;334;Purchasing Assistant;1;0;0;0
+118;Portugal;335;Purchasing Coordinator;1;18;18;18
+118;Portugal;337;Purchasing Intern;1;12;12;12
+118;Portugal;339;Purchasing Supervisor;1;0;0;0
+118;Portugal;341;Stock Control Technician;1;34;34;34
+118;Portugal;343;Supply and Logistics Manager;1;8;8;8
+118;Portugal;314;Salesperson Call Center;1;18;18;18
+118;Portugal;411;Assistant Events Coordinator;1;21;21;21
+118;Portugal;413;Catering Manager;1;10;10;10
+118;Portugal;424;Event Planner;1;14;14;14
+118;Portugal;447;MICE Project Manager;1;32;32;32
+118;Portugal;451;Sound and Lighting Technician;1;11;11;11
+118;Portugal;453;Sporting Activities Manager;1;9;9;9
+118;Portugal;439;Groups and MICE Coordinator;1;0;0;0
+118;Portugal;224;Dietary Chef;1;77;77;77
+118;Portugal;253;Sommelier Chef;1;9;9;9
+118;Portugal;245;Mediterranean Food Cook;1;11;11;11
+118;Portugal;282;Partners Specialist;1;19;19;19
+118;Portugal;283;Regional Sales Executive;1;0;0;0
+118;Portugal;291;Sales & MICE Assistant;1;93;93;93
+118;Portugal;270;Group Sales Manager;1;34;34;34
+118;Portugal;640;Cashier;1;21;21;21
+118;Portugal;676;Baby sitter;1;5;5;5
+118;Portugal;678;Beautician;1;15;15;15
+118;Portugal;701;Personal Trainer;1;4;4;4
+118;Portugal;686;Esthetician;1;0;0;0
+118;Portugal;692;Lifesaver;1;18;18;18
+118;Portugal;697;Masseur;1;9;9;9
+118;Portugal;742;Data Scientist;1;1;1;1
+118;Portugal;746;Web Developer;1;8;8;8
+118;Portugal;760;Product Development Manager;1;25;25;25
+118;Portugal;752;Digital Transformation Specialist;1;11;11;11
+118;Portugal;763;Business Intelligence Analyst;1;10;10;10
+118;Portugal;765;Airport Attendant;1;6;6;6
+118;Portugal;767;Airport Operations Manager;1;3;3;3
+118;Portugal;768;Airport ramp Attendant;1;3;3;3
+118;Portugal;770;Aviation Pilot;1;2;2;2
+118;Portugal;782;Cruise Staff;1;57;57;57
+118;Portugal;797;Onboard Activity Coordinator;1;18;18;18
+118;Portugal;806;Ship Steward;1;19;19;19
+118;Portugal;813;Van Driver;1;9;9;9
+40;Spain;543;SEO Specialist;1;14;14;14
+40;Spain;540;Public Relations Manager;1;29;29;29
+40;Spain;547;Vice President of Marketing;1;44;44;44
+40;Spain;462;Cultural Tour Guide;1;32;32;32
+40;Spain;449;Project Manager for Events;1;18;18;18
+40;Spain;412;Catering and Large Events Manager;1;34;34;34
+40;Spain;400;Swimming Instructor;1;0;0;0
+40;Spain;442;Leisure Centre Manager;1;8;8;8
+40;Spain;380;Sports Instructor;1;35;35;35
+40;Spain;381;Italian Teacher;1;8;8;8
+40;Spain;387;Private Class Chef;1;51;51;51
+40;Spain;363;Food Safety Consultant;1;17;17;17
+40;Spain;357;English Teacher;1;12;12;12
+40;Spain;351;Chef Instructor;1;6;6;6
+40;Spain;352;Chinese (Mandarin) Teacher;1;2;2;2
+40;Spain;348;Warehouse Supervisor;1;40;40;40
+40;Spain;719;Wellness Manager;1;118;118;118
+40;Spain;728;Beach Guard;1;9;9;9
+40;Spain;729;Coastguard;1;12;12;12
+40;Spain;688;Fitness Instructor;1;2;2;2
+40;Spain;682;Chiropractor;1;1;1;1
+40;Spain;693;Lymphatic Massage Therapist;1;16;16;16
+40;Spain;699;Nutritionist;1;9;9;9
+40;Spain;701;Personal Trainer;1;4;4;4
+40;Spain;645;Coffee Shop Manager;1;55;55;55
+40;Spain;623;Recruitment Specialist;1;22;22;22
+40;Spain;624;Talent Acquisition Assistant;1;78;78;78
+40;Spain;625;Talent Acquisition Consultant;1;4;4;4
+40;Spain;677;Babysitter;1;4;4;4
+40;Spain;673;Alternative Therapies Specialist;1;7;7;7
+98;Mexico;127;Animation Manager;1;10;10;10
+98;Mexico;141;Entertainment Manager;1;16;16;16
+98;Mexico;165;Customer Service Advisor;1;0;0;0
+98;Mexico;107;Luxury Travel Advisor;1;4;4;4
+98;Mexico;171;Customer Service Specialist;1;19;19;19
+98;Mexico;228;Executive Chef;1;3;3;3
+98;Mexico;242;Sushiman;1;2;2;2
+98;Mexico;218;Chef;1;8;8;8
+98;Mexico;23;Administrative;1;57;57;57
+98;Mexico;8;Accounting Technician;1;24;24;24
+98;Mexico;66;Financial Assets Manager;1;0;0;0
+98;Mexico;79;Hotel Director;1;14;14;14
+98;Mexico;44;Casino Host;1;2;2;2
+98;Mexico;47;Chief Operations Officer (COO);1;11;11;11
+98;Mexico;28;Administrative Intern;1;0;0;0
+98;Mexico;30;Administrative Technician;1;20;20;20
+40;Spain;752;Digital Transformation Specialist;1;3;3;3
+40;Spain;737;Chief Legal Officer (CLO);1;5;5;5
+40;Spain;759;Photographer;1;27;27;27
+40;Spain;800;Onboard Hotel Manager;1;15;15;15
+40;Spain;803;Second Officer;1;11;11;11
+40;Spain;806;Ship Steward;1;107;107;107
+40;Spain;807;Shore Excursion Coordinator;1;15;15;15
+40;Spain;811;Taxi Driver;1;20;20;20
+40;Spain;768;Airport ramp Attendant;1;1;1;1
+40;Spain;765;Airport Attendant;1;8;8;8
+40;Spain;108;Luxury Travel Manager;1;52;52;52
+40;Spain;103;Data Analytics Manager;1;0;0;0
+40;Spain;98;Theme Park Manager;1;25;25;25
+40;Spain;83;Industrial Relations Manager;1;2;2;2
+40;Spain;58;Cultural Centre Manager;1;25;25;25
+40;Spain;52;Cinema Staff;1;189;189;189
+40;Spain;66;Financial Assets Manager;1;29;29;29
+5;Andorra;23;Administrative;1;41;41;41
+5;Andorra;251;Pizzaiolo;1;34;34;34
+5;Andorra;80;Hotel Manager;1;84;84;84
+5;Andorra;130;Children's Animator;1;36;36;36
+5;Andorra;497;Building Repairer;1;10;10;10
+5;Andorra;532;Marketing Director;1;37;37;37
+5;Andorra;580;Front Office Manager;1;13;13;13
+5;Andorra;632;Bakery Attendant;1;19;19;19
+5;Andorra;628;Assistant Bar Manager;1;22;22;22
+5;Andorra;637;Barista;1;68;68;68
+5;Andorra;647;Food and Beverage Assistant;1;46;46;46
+5;Andorra;654;Ice Cream Shop Attendant;1;35;35;35
+5;Andorra;713;Spa Manager;1;22;22;22
+5;Andorra;686;Esthetician;1;22;22;22
+5;Andorra;715;Spa Therapist;1;25;25;25
+5;Andorra;771;Bus Driver;1;72;72;72
+40;Spain;9;Accounts Director;1;21;21;21
+40;Spain;344;Supply Chain Coordinator;1;20;20;20
+40;Spain;336;Purchasing Director;1;14;14;14
+40;Spain;325;Food Logistics Coordinator;1;9;9;9
+40;Spain;326;Hospitality Purchasing Manager;1;16;16;16
+40;Spain;328;Inventory and Stock Supervisor;1;66;66;66
+40;Spain;321;Travel Sales Manager;1;7;7;7
+40;Spain;287;Rental Sales Manager;1;48;48;48
+40;Spain;284;Regional Sales Manager;1;22;22;22
+40;Spain;246;Mexican Food Cook;1;18;18;18
+40;Spain;229;Fast Food Cook;1;29;29;29
+40;Spain;279;National Sales Manager;1;2;2;2
+40;Spain;253;Sommelier Chef;1;8;8;8
+40;Spain;259;Thai Food Cook;1;3;3;3
+40;Spain;188;Customer Success Assistant;1;3;3;3
+40;Spain;189;Customer Success Director;1;2;2;2
+40;Spain;190;Customer Success Manager;1;12;12;12
+40;Spain;195;Call Center Manager;1;13;13;13
+40;Spain;186;Customer Experience Manager;1;59;59;59
+40;Spain;205;Quality Manager;1;128;128;128
+40;Spain;137;Dancer;1;16;16;16
+40;Spain;140;Entertainment Coordinator;1;7;7;7
+40;Spain;145;Juggler;1;2;2;2
+40;Spain;146;Magician;1;1;1;1
+40;Spain;129;Bachata Dancer;1;1;1;1
+40;Spain;131;Choreographer;1;26;26;26
+40;Spain;126;Animation Coordinator;1;110;110;110
+40;Spain;155;Puppeteer;1;3;3;3
+40;Spain;156;Salsa Dancer;1;0;0;0
+40;Spain;174;Customer Support Director;1;13;13;13

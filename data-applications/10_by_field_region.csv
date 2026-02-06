@@ -1,0 +1,374 @@
+﻿FieldId;FieldName;IDRegion;RegionName;N;TotalApplications;Mean;P50
+14;Hotel Chain;7;Islas Baleares;1588;80793;51;31
+14;Hotel Chain;8;Barcelona;1290;103218;80;60
+14;Hotel Chain;28;Madrid;912;80947;89;57
+0;Not specified;7;Islas Baleares;887;20402;23;15
+0;Not specified;28;Madrid;842;25992;31;20
+0;Not specified;8;Barcelona;772;29449;38;22
+14;Hotel Chain;29;Málaga;620;38418;62;43
+0;Not specified;35;Las Palmas;555;12175;22;17
+0;Not specified;38;Santa Cruz de Tenerife;553;11134;20;17
+1;Independent Hotel;7;Islas Baleares;549;39307;72;44
+14;Hotel Chain;35;Las Palmas;548;19492;36;26
+14;Hotel Chain;38;Santa Cruz de Tenerife;462;13534;29;25
+0;Not specified;29;Málaga;456;13858;30;24
+1;Independent Hotel;8;Barcelona;410;36218;88;70
+0;Not specified;3;Alicante;321;8526;27;21
+1;Independent Hotel;132;Lisboa;320;25569;80;63
+14;Hotel Chain;46;Valencia;268;30113;112;90
+14;Hotel Chain;3;Alicante;258;13184;51;30
+10;Others;7;Islas Baleares;255;9456;37;29
+14;Hotel Chain;132;Lisboa;242;15427;64;40
+14;Hotel Chain;322;Canillo;213;8373;39;29
+14;Hotel Chain;17;Girona;208;7746;37;31
+1;Independent Hotel;147;Porto;200;11288;56;40
+0;Not specified;132;Lisboa;199;5387;27;23
+14;Hotel Chain;41;Sevilla;192;16144;84;64
+2;Restaurant;8;Barcelona;185;12905;70;65
+0;Not specified;147;Porto;181;3092;17;14
+1;Independent Hotel;28;Madrid;171;18819;110;85
+14;Hotel Chain;11;Cádiz;166;7817;47;26
+0;Not specified;46;Valencia;151;4190;28;15
+10;Others;8;Barcelona;150;4713;31;28
+1;Independent Hotel;3;Alicante;149;8118;54;39
+14;Hotel Chain;147;Porto;146;10108;69;35
+0;Not specified;41;Sevilla;140;6744;48;37
+46;Business group;35;Las Palmas;138;2841;21;19
+2;Restaurant;147;Porto;128;5839;46;33
+10;Others;28;Madrid;121;6123;51;41
+0;Not specified;11;Cádiz;119;2674;22;17
+10;Others;3;Alicante;116;4513;39;31
+32;Restaurant Chain;7;Islas Baleares;115;12135;106;78
+14;Hotel Chain;43;Tarragona;109;8076;74;70
+1;Independent Hotel;29;Málaga;109;7899;72;53
+14;Hotel Chain;18;Granada;107;5656;53;30
+32;Restaurant Chain;8;Barcelona;106;8507;80;73
+14;Hotel Chain;137;Faro;105;2246;21;14
+37;Tourist apartments;8;Barcelona;105;10981;105;79
+1;Independent Hotel;38;Santa Cruz de Tenerife;103;3153;31;25
+2;Restaurant;7;Islas Baleares;100;6193;62;37
+2;Restaurant;28;Madrid;97;4868;50;34
+1;Independent Hotel;17;Girona;97;4287;44;35
+1;Independent Hotel;135;Setúbal;95;2099;22;17
+0;Not specified;18;Granada;93;2657;29;16
+17;Recruitment Agency;7;Islas Baleares;90;3863;43;28
+0;Not specified;137;Faro;89;1500;17;15
+2;Restaurant;132;Lisboa;86;5045;59;35
+0;Not specified;17;Girona;80;994;12;8
+14;Hotel Chain;48;Vizcaya;77;4164;54;46
+52;Cruises;147;Porto;76;2046;27;20
+19;Travel Agency;131;Ciudad de México;75;1769;24;21
+0;Not specified;15;A Coruña;75;1123;15;9
+10;Others;35;Las Palmas;75;3037;40;28
+10;Others;29;Málaga;73;3273;45;33
+1;Independent Hotel;137;Faro;65;2018;31;21
+36;Rent a car;8;Barcelona;65;625;10;1
+0;Not specified;30;Murcia;64;1352;21;11
+14;Hotel Chain;4;Almería;63;3577;57;47
+20;Consultancy;7;Islas Baleares;62;2966;48;32
+28;Campsite;17;Girona;62;2510;40;29
+32;Restaurant Chain;28;Madrid;61;4359;71;43
+14;Hotel Chain;419;Mallorca;60;3356;56;35
+14;Hotel Chain;30;Murcia;58;2066;36;26
+1;Independent Hotel;35;Las Palmas;58;2668;46;39
+17;Recruitment Agency;8;Barcelona;57;4250;75;67
+17;Recruitment Agency;3;Alicante;56;4654;83;54
+19;Travel Agency;28;Madrid;56;3179;57;55
+1;Independent Hotel;43;Tarragona;53;4353;82;66
+19;Travel Agency;7;Islas Baleares;52;894;17;0
+29;Entertainment;8;Barcelona;51;5;0;0
+10;Others;38;Santa Cruz de Tenerife;51;1639;32;28
+0;Not specified;20;Guipúzcoa;51;677;13;10
+19;Travel Agency;132;Lisboa;50;3561;71;49
+37;Tourist apartments;132;Lisboa;48;2290;48;31
+19;Travel Agency;8;Barcelona;47;3482;74;55
+0;Not specified;50;Zaragoza;47;561;12;1
+17;Recruitment Agency;28;Madrid;46;3245;71;40
+14;Hotel Chain;25;Lleida;46;3077;67;68
+37;Tourist apartments;147;Porto;46;3162;69;50
+46;Business group;7;Islas Baleares;45;2035;45;26
+0;Not specified;43;Tarragona;45;1713;38;10
+10;Others;17;Girona;45;1262;28;26
+53;Outsourcing / externalization of services;132;Lisboa;44;744;17;14
+14;Hotel Chain;9;Burgos;43;1223;28;21
+14;Hotel Chain;390;Comporta;42;350;8;8
+17;Recruitment Agency;17;Girona;41;1011;25;18
+20;Consultancy;29;Málaga;41;3669;89;58
+0;Not specified;21;Huelva;41;1105;27;29
+0;Not specified;48;Vizcaya;40;640;16;9
+1;Independent Hotel;25;Lleida;40;1565;39;31
+10;Others;132;Lisboa;39;2202;56;29
+0;Not specified;387;Serzedo;39;359;9;12
+32;Restaurant Chain;132;Lisboa;39;3409;87;52
+36;Rent a car;28;Madrid;39;389;10;9
+53;Outsourcing / externalization of services;8;Barcelona;38;6140;162;157
+53;Outsourcing / externalization of services;28;Madrid;37;3794;103;108
+0;Not specified;14;Córdoba;37;1265;34;26
+0;Not specified;47;Valladolid;35;481;14;6
+7;Hostel / Pension;28;Madrid;35;5707;163;131
+20;Consultancy;28;Madrid;35;4359;125;87
+17;Recruitment Agency;30;Murcia;35;839;24;16
+14;Hotel Chain;387;Serzedo;35;759;22;12
+14;Hotel Chain;20;Guipúzcoa;35;1376;39;30
+14;Hotel Chain;333;Islas Canarias;34;1125;33;25
+10;Others;333;Islas Canarias;34;602;18;13
+1;Independent Hotel;148;Braga;33;1222;37;33
+1;Independent Hotel;322;Canillo;33;1937;59;51
+0;Not specified;22;Huesca;33;167;5;3
+10;Others;41;Sevilla;32;1321;41;23
+27;Training;46;Valencia;32;1;0;0
+1;Independent Hotel;390;Comporta;31;837;27;23
+1;Independent Hotel;420;Santo António;30;416;14;14
+0;Not specified;27;Lugo;30;189;6;5
+0;Not specified;9;Burgos;30;260;9;6
+14;Hotel Chain;182;Madeira;30;487;16;16
+14;Hotel Chain;10;Cáceres;29;947;33;29
+0;Not specified;121;Quintana Roo;29;132;5;4
+36;Rent a car;7;Islas Baleares;29;883;30;15
+53;Outsourcing / externalization of services;36;Pontevedra;28;1051;38;33
+14;Hotel Chain;36;Pontevedra;28;700;25;17
+14;Hotel Chain;21;Huelva;27;991;37;30
+14;Hotel Chain;15;A Coruña;27;802;30;20
+0;Not specified;45;Toledo;27;324;12;9
+1;Independent Hotel;333;Islas Canarias;27;737;27;13
+2;Restaurant;17;Girona;26;596;23;18
+0;Not specified;10;Cáceres;26;362;14;6
+17;Recruitment Agency;46;Valencia;26;1319;51;46
+37;Tourist apartments;29;Málaga;26;2643;102;93
+32;Restaurant Chain;41;Sevilla;25;2005;80;61
+1;Independent Hotel;146;Vila Real;25;1739;70;38
+2;Restaurant;46;Valencia;25;1764;71;46
+2;Restaurant;29;Málaga;24;703;29;28
+0;Not specified;105;Chihuahua;24;55;2;2
+46;Business group;8;Barcelona;24;1394;58;31
+37;Tourist apartments;28;Madrid;24;2186;91;60
+36;Rent a car;29;Málaga;24;530;22;19
+37;Tourist apartments;137;Faro;23;336;15;14
+53;Outsourcing / externalization of services;43;Tarragona;23;1773;77;54
+48;Tourism Agency;387;Serzedo;23;0;0;0
+53;Outsourcing / externalization of services;15;A Coruña;23;576;25;17
+0;Not specified;36;Pontevedra;23;329;14;11
+2;Restaurant;41;Sevilla;23;1328;58;45
+2;Restaurant;146;Vila Real;23;15;1;0
+10;Others;46;Valencia;23;1204;52;43
+1;Independent Hotel;41;Sevilla;22;2740;125;95
+0;Not specified;150;Açores;22;335;15;14
+17;Recruitment Agency;29;Málaga;22;1185;54;43
+37;Tourist apartments;41;Sevilla;22;2058;94;77
+14;Hotel Chain;135;Setúbal;21;843;40;21
+1;Independent Hotel;18;Granada;21;1014;48;43
+0;Not specified;33;Asturias;20;214;11;5
+14;Hotel Chain;458;Avenidas Novas;20;1522;76;53
+14;Hotel Chain;37;Salamanca;20;429;21;16
+33;Active Turism;132;Lisboa;20;1133;57;54
+14;Hotel Chain;47;Valladolid;19;610;32;32
+0;Not specified;52;Melilla;19;284;15;14
+10;Others;11;Cádiz;19;848;45;32
+0;Not specified;135;Setúbal;18;210;12;13
+14;Hotel Chain;50;Zaragoza;18;860;48;34
+26;Bar;8;Barcelona;18;1076;60;59
+36;Rent a car;33;Asturias;18;32;2;0
+36;Rent a car;46;Valencia;18;87;5;1
+36;Rent a car;17;Girona;17;195;11;2
+36;Rent a car;20;Guipúzcoa;17;64;4;2
+34;New Technologies/ Internet;8;Barcelona;17;409;24;22
+46;Business group;28;Madrid;17;1027;60;45
+19;Travel Agency;35;Las Palmas;17;88;5;0
+20;Consultancy;38;Santa Cruz de Tenerife;17;361;21;18
+19;Travel Agency;147;Porto;17;1081;64;56
+17;Recruitment Agency;35;Las Palmas;17;713;42;37
+0;Not specified;40;Segovia;17;159;9;0
+0;Not specified;417;Cascais;16;211;13;11
+0;Not specified;31;Navarra;16;102;6;5
+7;Hostel / Pension;8;Barcelona;16;1399;87;46
+14;Hotel Chain;150;Açores;16;307;19;17
+17;Recruitment Agency;41;Sevilla;16;1055;66;59
+17;Recruitment Agency;43;Tarragona;16;410;26;24
+32;Restaurant Chain;147;Porto;16;601;38;33
+36;Rent a car;15;A Coruña;16;41;3;0
+36;Rent a car;3;Alicante;16;203;13;0
+37;Tourist apartments;182;Madeira;15;209;14;12
+32;Restaurant Chain;48;Vizcaya;15;788;53;43
+28;Campsite;43;Tarragona;15;1032;69;45
+14;Hotel Chain;133;Leiria;15;590;39;39
+17;Recruitment Agency;36;Pontevedra;15;215;14;13
+14;Hotel Chain;39;Cantabria;15;381;25;18
+2;Restaurant;43;Tarragona;15;765;51;57
+0;Not specified;24;León;15;233;16;13
+0;Not specified;25;Lleida;14;166;12;11
+2;Restaurant;137;Faro;14;290;21;14
+2;Restaurant;11;Cádiz;14;400;29;24
+14;Hotel Chain;27;Lugo;14;172;12;8
+17;Recruitment Agency;14;Córdoba;14;711;51;50
+28;Campsite;3;Alicante;14;490;35;38
+17;Recruitment Agency;26;La Rioja;14;226;16;16
+19;Travel Agency;113;Estado de México;14;234;17;16
+33;Active Turism;8;Barcelona;14;1242;89;55
+36;Rent a car;36;Pontevedra;14;57;4;0
+36;Rent a car;43;Tarragona;13;25;2;0
+37;Tourist apartments;46;Valencia;13;1586;122;117
+21;Tour Operators;132;Lisboa;13;949;73;34
+14;Hotel Chain;45;Toledo;13;348;27;25
+1;Independent Hotel;46;Valencia;13;1462;112;109
+1;Independent Hotel;138;Évora;13;255;20;20
+7;Hostel / Pension;14;Córdoba;13;713;55;67
+2;Restaurant;420;Santo António;13;111;9;4
+10;Others;48;Vizcaya;13;540;42;39
+0;Not specified;419;Mallorca;13;260;20;23
+0;Not specified;333;Islas Canarias;13;227;17;15
+0;Not specified;44;Teruel;12;22;2;2
+10;Others;18;Granada;12;885;74;68
+1;Independent Hotel;142;Coimbra;12;387;32;33
+1;Independent Hotel;143;Aveiro;12;590;49;47
+1;Independent Hotel;47;Valladolid;12;658;55;41
+2;Restaurant;3;Alicante;12;461;38;25
+2;Restaurant;38;Santa Cruz de Tenerife;12;555;46;42
+1;Independent Hotel;417;Cascais;12;301;25;21
+14;Hotel Chain;26;La Rioja;12;354;30;22
+14;Hotel Chain;14;Córdoba;12;647;54;36
+32;Restaurant Chain;46;Valencia;12;1364;114;118
+32;Restaurant Chain;29;Málaga;12;900;75;60
+32;Restaurant Chain;18;Granada;12;627;52;39
+19;Travel Agency;117;Nuevo León;12;136;11;10
+19;Travel Agency;112;Jalisco;12;103;9;9
+46;Business group;17;Girona;12;142;12;7
+47;Cleaning and maintenance;43;Tarragona;12;483;40;33
+33;Active Turism;35;Las Palmas;12;563;47;35
+33;Active Turism;147;Porto;11;370;34;28
+36;Rent a car;41;Sevilla;11;226;21;0
+53;Outsourcing / externalization of services;147;Porto;11;322;29;25
+53;Outsourcing / externalization of services;46;Valencia;11;587;53;53
+1;Independent Hotel;427;Arroios;11;924;84;100
+1;Independent Hotel;44;Teruel;11;434;39;38
+1;Independent Hotel;12;Castellón;11;642;58;47
+0;Not specified;37;Salamanca;11;166;15;10
+0;Not specified;4;Almería;11;371;34;14
+0;Not specified;6;Badajoz;11;120;11;4
+0;Not specified;13;Ciudad Real;10;98;10;7
+0;Not specified;23;Jaén;10;80;8;6
+1;Independent Hotel;11;Cádiz;10;504;50;38
+0;Not specified;120;Querétaro;10;26;3;3
+1;Independent Hotel;45;Toledo;10;365;37;29
+7;Hostel / Pension;20;Guipúzcoa;10;465;47;60
+21;Tour Operators;28;Madrid;10;469;47;40
+19;Travel Agency;38;Santa Cruz de Tenerife;10;271;27;26
+14;Hotel Chain;1;Álava;10;361;36;30
+14;Hotel Chain;33;Asturias;10;718;72;51
+14;Hotel Chain;121;Quintana Roo;10;63;6;6
+36;Rent a car;50;Zaragoza;10;63;6;0
+36;Rent a car;35;Las Palmas;9;146;16;11
+19;Travel Agency;43;Tarragona;9;340;38;28
+17;Recruitment Agency;132;Lisboa;9;430;48;41
+19;Travel Agency;137;Faro;9;233;26;16
+29;Entertainment;132;Lisboa;9;268;30;25
+33;Active Turism;7;Islas Baleares;9;875;97;71
+28;Campsite;29;Málaga;9;590;66;38
+0;Not specified;16;Cuenca;9;46;5;4
+0;Not specified;2;Albacete;8;45;6;3
+0;Not specified;39;Cantabria;8;27;3;0
+1;Independent Hotel;4;Almería;8;468;59;54
+1;Independent Hotel;30;Murcia;8;215;27;18
+10;Others;21;Huelva;8;225;28;32
+12;Catering;29;Málaga;8;332;42;36
+1;Independent Hotel;149;Viana do Castelo;8;171;21;20
+28;Campsite;420;Santo António;8;180;23;22
+21;Tour Operators;147;Porto;8;493;62;62
+25;Transport;28;Madrid;8;405;51;30
+28;Campsite;8;Barcelona;8;438;55;45
+26;Bar;28;Madrid;8;131;16;17
+32;Restaurant Chain;390;Comporta;8;135;17;17
+31;Spa;29;Málaga;8;304;38;31
+21;Tour Operators;8;Barcelona;8;698;87;75
+17;Recruitment Agency;419;Mallorca;8;182;23;22
+19;Travel Agency;50;Zaragoza;8;726;91;104
+14;Hotel Chain;146;Vila Real;8;735;92;77
+14;Hotel Chain;417;Cascais;8;242;30;36
+10;Others;147;Porto;8;248;31;13
+14;Hotel Chain;6;Badajoz;8;300;38;38
+14;Hotel Chain;22;Huesca;8;190;24;22
+14;Hotel Chain;24;León;8;244;31;24
+36;Rent a car;48;Vizcaya;8;39;5;0
+36;Rent a car;38;Santa Cruz de Tenerife;8;101;13;13
+53;Outsourcing / externalization of services;17;Girona;8;160;20;22
+47;Cleaning and maintenance;8;Barcelona;7;743;106;43
+50;Rural Tourism / Agritourism / Hotel Rural;7;Islas Baleares;7;360;51;39
+45;Tour guide;132;Lisboa;7;177;25;26
+37;Tourist apartments;17;Girona;7;159;23;25
+37;Tourist apartments;3;Alicante;7;343;49;34
+37;Tourist apartments;7;Islas Baleares;7;250;36;30
+34;New Technologies/ Internet;28;Madrid;7;282;40;29
+36;Rent a car;11;Cádiz;7;34;5;0
+19;Travel Agency;3;Alicante;7;102;15;0
+19;Travel Agency;419;Mallorca;7;67;10;0
+20;Consultancy;20;Guipúzcoa;7;161;23;20
+19;Travel Agency;150;Açores;7;109;16;17
+25;Transport;8;Barcelona;7;437;62;57
+1;Independent Hotel;48;Vizcaya;7;425;61;45
+1;Independent Hotel;133;Leiria;7;142;20;17
+1;Independent Hotel;134;Santarém;7;222;32;25
+1;Independent Hotel;387;Serzedo;7;242;35;35
+2;Restaurant;35;Las Palmas;7;133;19;19
+12;Catering;7;Islas Baleares;7;458;65;76
+10;Others;121;Quintana Roo;7;39;6;4
+10;Others;137;Faro;7;97;14;15
+1;Independent Hotel;22;Huesca;7;175;25;22
+0;Not specified;143;Aveiro;7;116;17;14
+0;Not specified;26;La Rioja;7;29;4;3
+0;Not specified;32;Ourense;7;75;11;13
+0;Not specified;1;Álava;6;31;5;4
+1;Independent Hotel;37;Salamanca;6;200;33;21
+12;Catering;18;Granada;6;288;48;42
+12;Catering;147;Porto;6;252;42;39
+2;Restaurant;15;A Coruña;6;105;18;13
+30;Events & Conferences;8;Barcelona;6;604;101;99
+32;Restaurant Chain;30;Murcia;6;120;20;19
+26;Bar;147;Porto;6;328;55;35
+24;Airline;28;Madrid;6;828;138;98
+19;Travel Agency;182;Madeira;6;153;26;24
+19;Travel Agency;122;San Luis Potosí;6;34;6;6
+17;Recruitment Agency;147;Porto;6;187;31;33
+17;Recruitment Agency;333;Islas Canarias;6;83;14;18
+19;Travel Agency;29;Málaga;6;163;27;19
+14;Hotel Chain;12;Castellón;6;123;21;18
+14;Hotel Chain;44;Teruel;6;98;16;17
+14;Hotel Chain;317;Cataluña;6;144;24;26
+14;Hotel Chain;142;Coimbra;6;205;34;32
+14;Hotel Chain;420;Santo António;6;54;9;4
+14;Hotel Chain;447;Santa Marinha;6;64;11;10
+17;Recruitment Agency;31;Navarra;6;221;37;39
+17;Recruitment Agency;18;Granada;6;205;34;23
+34;New Technologies/ Internet;132;Lisboa;6;208;35;23
+34;New Technologies/ Internet;17;Girona;6;2;0;0
+36;Rent a car;31;Navarra;6;3;1;0
+36;Rent a car;32;Ourense;6;0;0;0
+46;Business group;46;Valencia;6;348;58;28
+47;Cleaning and maintenance;7;Islas Baleares;6;142;24;23
+47;Cleaning and maintenance;132;Lisboa;6;589;98;22
+48;Tourism Agency;8;Barcelona;5;472;94;74
+53;Outsourcing / externalization of services;20;Guipúzcoa;5;160;32;31
+37;Tourist apartments;420;Santo António;5;37;7;4
+45;Tour guide;8;Barcelona;5;124;25;30
+33;Active Turism;38;Santa Cruz de Tenerife;5;57;11;11
+33;Active Turism;28;Madrid;5;465;93;53
+33;Active Turism;29;Málaga;5;179;36;38
+36;Rent a car;4;Almería;5;34;7;0
+17;Recruitment Agency;38;Santa Cruz de Tenerife;5;66;13;6
+17;Recruitment Agency;12;Castellón;5;111;22;25
+14;Hotel Chain;143;Aveiro;5;80;16;17
+21;Tour Operators;131;Ciudad de México;5;47;9;10
+26;Bar;3;Alicante;5;72;14;18
+29;Entertainment;17;Girona;5;741;148;195
+29;Entertainment;28;Madrid;5;136;27;2
+29;Entertainment;35;Las Palmas;5;382;76;82
+31;Spa;7;Islas Baleares;5;265;53;60
+31;Spa;8;Barcelona;5;309;62;29
+1;Independent Hotel;445;São Gonçalo de Lagos;5;103;21;18
+1;Independent Hotel;446;Carvalhal;5;210;42;27
+1;Independent Hotel;529;Distrito da Guarda;5;131;26;29
+1;Independent Hotel;144;Viseu;5;132;26;27
+10;Others;47;Valladolid;5;81;16;17
+2;Restaurant;135;Setúbal;5;54;11;13
+2;Restaurant;48;Vizcaya;5;272;54;40
+1;Independent Hotel;21;Huelva;5;142;28;20
+0;Not specified;5;Ávila;5;39;8;0
+0;Not specified;12;Castellón;5;186;37;18

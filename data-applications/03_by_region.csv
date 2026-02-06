@@ -1,0 +1,128 @@
+﻿IDRegion;RegionName;N;TotalApplications;Mean;P50
+7;Islas Baleares;3839;182045;47;27
+8;Barcelona;3438;230937;67;48
+28;Madrid;2577;169652;66;37
+29;Málaga;1467;75736;52;34
+35;Las Palmas;1449;42554;29;21
+38;Santa Cruz de Tenerife;1240;31777;26;21
+132;Lisboa;1162;68941;59;36
+3;Alicante;972;41173;42;28
+147;Porto;887;40226;45;29
+17;Girona;633;20301;32;26
+46;Valencia;626;45936;73;43
+41;Sevilla;494;34520;70;50
+11;Cádiz;349;12571;36;23
+137;Faro;323;6943;22;16
+43;Tarragona;322;19680;61;51
+18;Granada;281;13153;47;31
+322;Canillo;246;10310;42;31
+30;Murcia;182;4891;27;16
+48;Vizcaya;177;7740;44;31
+15;A Coruña;157;2885;18;12
+135;Setúbal;149;3428;23;18
+20;Guipúzcoa;133;3037;23;13
+333;Islas Canarias;127;3080;24;17
+25;Lleida;120;5264;44;33
+36;Pontevedra;120;2838;24;18
+387;Serzedo;113;1534;14;8
+419;Mallorca;111;5041;45;32
+131;Ciudad de México;103;2055;20;17
+4;Almería;101;5240;52;39
+50;Zaragoza;98;2623;27;9
+21;Huelva;93;2757;30;27
+14;Córdoba;87;3723;43;32
+390;Comporta;84;1360;16;14
+9;Burgos;83;1730;21;17
+47;Valladolid;78;1975;25;21
+420;Santo António;72;967;13;13
+146;Vila Real;65;2740;42;18
+33;Asturias;65;1412;22;12
+182;Madeira;59;939;16;15
+10;Cáceres;57;1479;26;24
+45;Toledo;55;1127;20;14
+22;Huesca;53;621;12;8
+27;Lugo;53;436;8;6
+121;Quintana Roo;50;280;6;4
+150;Açores;50;828;17;15
+37;Salamanca;48;951;20;15
+148;Braga;46;1431;31;27
+417;Cascais;45;965;21;20
+26;La Rioja;43;811;19;15
+39;Cantabria;40;718;18;12
+31;Navarra;39;567;15;9
+133;Leiria;34;898;26;17
+24;León;32;616;19;18
+12;Castellón;32;1197;37;26
+44;Teruel;31;568;18;8
+142;Coimbra;29;815;28;30
+458;Avenidas Novas;28;1978;71;41
+6;Badajoz;28;615;22;22
+40;Segovia;27;408;15;12
+105;Chihuahua;26;75;3;2
+143;Aveiro;26;812;31;19
+1;Álava;21;427;20;10
+52;Melilla;20;284;14;14
+113;Estado de México;20;258;13;11
+427;Arroios;19;1229;65;41
+23;Jaén;18;177;10;8
+32;Ourense;18;261;15;8
+138;Évora;16;299;19;20
+13;Ciudad Real;15;114;8;3
+117;Nuevo León;13;142;11;9
+112;Jalisco;13;104;8;9
+120;Querétaro;13;64;5;3
+149;Viana do Castelo;13;238;18;17
+2;Albacete;12;329;27;6
+16;Cuenca;10;62;6;5
+19;Guadalajara;10;404;40;25
+5;Ávila;9;96;11;11
+134;Santarém;9;296;33;26
+317;Cataluña;9;214;24;23
+474;Porto District;8;140;18;16
+412;San Miguel de Abona;7;102;15;15
+341;Distrito de Lisboa;6;90;15;15
+353;Escaldes-Engordany;6;308;51;41
+144;Viseu;6;164;27;29
+475;Alvalade;6;244;41;33
+460;Luz;6;83;14;18
+529;Distrito da Guarda;6;151;25;29
+445;São Gonçalo de Lagos;6;119;20;17
+447;Santa Marinha;6;64;11;10
+34;Palencia;6;58;10;6
+122;San Luis Potosí;6;34;6;6
+109;Guanajuato;5;27;5;5
+446;Carvalhal;5;210;42;27
+388;Andorra la Vieja;5;311;62;72
+338;Santarém District;4;35;9;9
+141;Guarda;4;115;29;29
+139;Portalegre;4;43;11;9
+453;São João da Madeira;4;215;54;53
+110;Guerrero;4;41;10;10
+125;Tabasco;4;66;17;18
+128;Veracruz;4;39;10;11
+101;Baja California;4;26;7;7
+42;Soria;4;81;20;21
+106;Coahuila;3;20;7;6
+129;Yucatán;3;32;11;13
+136;Beja;3;24;8;8
+145;Bragança;2;29;15;15
+326;Norte Portugal;2;17;9;9
+408;Castelo Melhor;2;24;12;12
+1935;Copenhague;2;11;6;6
+126;Tamaulipas;2;33;17;17
+119;Puebla;2;13;7;7
+111;Hidalgo;2;41;21;21
+49;Zamora;2;8;4;4
+100;Aguascalientes;1;15;15;15
+107;Colima;1;7;7;7
+102;Baja California Sur;1;1;1;1
+104;Chiapas;1;9;9;9
+118;Oaxaca;1;7;7;7
+114;Michoacán;1;5;5;5
+123;Sinaloa;1;5;5;5
+556;La Massana;1;22;22;22
+1207;San Julián de Loria;1;39;39;39
+498;Moreira;1;2;2;2
+456;Santa Maria Maior;1;61;61;61
+449;Sobrado;1;26;26;26
+140;Castelo Branco;1;11;11;11

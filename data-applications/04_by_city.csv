@@ -1,0 +1,1013 @@
+﻿IDCity;CityName;IDRegion;RegionName;N;TotalApplications;Mean;P50
+882;Barcelona;8;Barcelona;2932;207707;71;52
+4359;Madrid;28;Madrid;2340;160269;68;39
+11470;Lisboa;132;Lisboa;1050;63216;60;36
+837;Palma de Mallorca;7;Islas Baleares;756;54417;72;42
+32641;Oporto;147;Porto;703;33764;48;31
+815;Ibiza;7;Islas Baleares;569;24506;43;22
+4526;Málaga;29;Málaga;558;33396;60;38
+29812;València;46;Valencia;531;41672;78;47
+4528;Marbella;29;Málaga;507;19055;38;28
+5697;Adeje;38;Santa Cruz de Tenerife;498;10023;20;16
+6155;Sevilla;41;Sevilla;443;32370;73;54
+168;Benidorm;3;Alicante;432;17896;41;30
+5735;Santa Cruz de Tenerife;38;Santa Cruz de Tenerife;346;10907;32;26
+152;Alicante/Alacant;3;Alicante;289;15629;54;35
+5272;Yaiza;35;Las Palmas;282;5847;21;19
+29717;Las Palmas de Gran Canaria;35;Las Palmas;220;10537;48;31
+5266;Tías;35;Las Palmas;204;3897;19;17
+2749;Granada;18;Granada;183;10434;57;40
+29815;Calviá;7;Islas Baleares;182;7806;43;31
+30153;San Jorge de ses Salines;7;Islas Baleares;170;2758;16;11
+7492;Bilbao;48;Vizcaya;149;7380;50;39
+29681;Canillo;322;Canillo;148;6019;41;29
+29690;Costa Adeje;38;Santa Cruz de Tenerife;147;4502;31;24
+797;Alcúdia;7;Islas Baleares;145;5840;40;31
+2543;Lloret de Mar;17;Girona;136;6006;44;34
+29935;San Juan Bautista;7;Islas Baleares;134;2303;17;14
+29694;Islas Baleares;7;Islas Baleares;125;6164;49;19
+5702;Arona;38;Santa Cruz de Tenerife;121;2868;24;20
+31458;Vila Nova de Gaia;387;Serzedo;113;1534;14;8
+3162;Donostia/San Sebastián;20;Guipúzcoa;110;2663;24;14
+6488;Salou;43;Tarragona;105;8128;77;67
+851;Santa Eulària des Riu;7;Islas Baleares;103;5218;51;28
+4549;Torremolinos;29;Málaga;100;6284;63;48
+29805;Soldeu;322;Canillo;98;4291;44;32
+29810;Ciudad de México;131;Ciudad de México;98;1931;20;17
+1778;Cádiz;11;Cádiz;93;3317;36;25
+2151;A Coruña;15;A Coruña;91;1735;19;10
+30175;Fuerteventura;35;Las Palmas;86;2377;28;22
+1782;Conil de la Frontera;11;Cádiz;85;1893;22;17
+29784;Comporta;390;Comporta;84;1360;16;14
+29985;Mallorca;419;Mallorca;83;3527;42;31
+2067;Córdoba;14;Córdoba;83;3712;45;36
+8116;Zaragoza;50;Zaragoza;81;2476;31;9
+6502;Tarragona;43;Tarragona;79;4703;60;54
+2527;Girona;17;Girona;79;2202;28;20
+29950;Can Picafort;7;Islas Baleares;78;3681;47;38
+4484;Benalmádena;29;Málaga;77;4500;58;38
+29851;L'Hospitalet de Llobregat;8;Barcelona;75;5981;80;69
+5254;Pájara;35;Las Palmas;74;1713;23;18
+29858;Menorca;7;Islas Baleares;72;1702;24;16
+4513;Fuengirola;29;Málaga;70;5018;72;54
+4391;Pozuelo de Alarcón;28;Madrid;70;1417;20;15
+5258;San Bartolomé de Tirajana;35;Las Palmas;68;3181;47;35
+1221;Burgos;9;Burgos;68;1390;20;17
+811;Ciutadella de Menorca;7;Islas Baleares;67;4823;72;51
+4510;Estepona;29;Málaga;66;4065;62;40
+29831;San Antonio Abad;7;Islas Baleares;66;2368;36;22
+156;Altea;3;Alicante;65;856;13;10
+827;Llucmajor;7;Islas Baleares;64;2027;32;23
+11604;Quarteira;137;Faro;64;1095;17;15
+29828;Playa Blanca;35;Las Palmas;63;1891;30;22
+29947;Alvor;137;Faro;63;670;11;11
+4591;Murcia;30;Murcia;63;1529;24;12
+29830;Lanzarote;35;Las Palmas;62;1711;28;21
+29873;Colonia de Sant Jordi;7;Islas Baleares;61;2497;41;17
+2199;Santiago de Compostela;15;A Coruña;61;1086;18;13
+821;Formentera;7;Islas Baleares;60;4244;71;42
+30026;Palmanova;7;Islas Baleares;60;3893;65;42
+11591;Albufeira;137;Faro;59;1389;24;17
+11784;Porto;147;Porto;59;2179;37;26
+29687;Cala d'Or;7;Islas Baleares;57;2144;38;25
+29912;Maspalomas;35;Las Palmas;56;1749;31;24
+1780;Chiclana de la Frontera;11;Cádiz;56;925;17;8
+3921;Lleida;25;Lleida;56;2831;51;43
+2784;Monachil;18;Granada;55;741;13;10
+5330;Vigo;36;Pontevedra;55;1725;31;24
+6937;Toledo;45;Toledo;53;1126;21;15
+187;Calp;3;Alicante;53;1301;25;21
+2643;Tossa de Mar;17;Girona;51;1349;26;18
+2603;Sant Feliu de Guíxols;17;Girona;50;1426;29;28
+3260;Huelva;21;Huelva;49;1537;31;29
+356;Roquetas de Mar;4;Almería;48;2645;55;41
+7418;Valladolid;47;Valladolid;48;1093;23;21
+1581;Cáceres;10;Cáceres;45;1291;29;26
+5591;Salamanca;37;Salamanca;44;914;21;16
+29677;Portals Nous;7;Islas Baleares;44;1920;44;37
+4241;Lugo;27;Lugo;43;344;8;6
+5251;Mogán;35;Las Palmas;42;1011;24;21
+847;Sant Josep de sa Talaia;7;Islas Baleares;41;1654;40;28
+29856;La Manga;30;Murcia;41;972;24;16
+29813;Playas de Muro;7;Islas Baleares;40;1420;36;23
+29701;Puerto del Carmen;35;Las Palmas;40;1332;33;31
+29698;Can Pastilla;7;Islas Baleares;40;2207;55;45
+11597;Faro;137;Faro;39;1325;34;20
+29977;Tenerife;333;Islas Canarias;39;1211;31;20
+5253;Oliva, La;35;Las Palmas;39;1024;26;20
+5315;Pontevedra;36;Pontevedra;39;679;17;12
+5715;Guía de Isora;38;Santa Cruz de Tenerife;39;687;18;16
+854;Santanyí;7;Islas Baleares;38;1595;42;34
+1799;San Roque;11;Cádiz;38;2789;73;54
+29826;Cascaes;417;Cascais;38;783;21;19
+29743;Cales de Mallorca;7;Islas Baleares;38;1051;28;18
+11831;Lagoa;150;Açores;38;642;17;15
+29695;Cancún;121;Quintana Roo;36;162;5;4
+29841;Melides;135;Setúbal;36;875;24;19
+11548;Alcochete;135;Setúbal;36;690;19;16
+29883;Portocolom;7;Islas Baleares;35;1602;46;31
+29897;Corralejo;35;Las Palmas;33;612;19;13
+29849;Puigpuñent;7;Islas Baleares;33;2340;71;57
+1131;Sitges;8;Barcelona;33;1238;38;28
+1127;Santa Susanna;8;Barcelona;32;1155;36;33
+6390;Cambrils;43;Tarragona;32;2385;75;74
+5262;Teguise;35;Las Palmas;32;981;31;27
+29844;Camp de Mar;7;Islas Baleares;32;893;28;22
+11786;Póvoa de Varzim;147;Porto;32;543;17;14
+11609;Tavira;137;Faro;32;983;31;22
+1054;Sabadell;8;Barcelona;31;969;31;21
+11603;Portimão;137;Faro;30;831;28;18
+29953;Caniçal;182;Madeira;30;487;16;16
+29860;Peguera;7;Islas Baleares;29;1377;47;29
+30258;Alcalá;333;Islas Canarias;29;460;16;12
+4285;Alcalá de Henares;28;Madrid;29;1276;44;32
+4817;Pamplona/Iruña;31;Navarra;29;485;17;10
+31801;Lisbon;458;Avenidas Novas;28;1978;71;41
+11769;Vila Real;146;Vila Real;28;93;3;0
+11804;Braga;148;Braga;28;923;33;26
+11854;Funchal;182;Madeira;28;450;16;13
+29886;Canyamel;7;Islas Baleares;27;1095;41;30
+31190;Arroios;146;Vila Real;27;2447;91;52
+30168;Jandia;35;Las Palmas;27;626;23;24
+292;Almería;4;Almería;27;1162;43;26
+898;Calella;8;Barcelona;26;1060;41;34
+5724;Puerto de la Cruz;38;Santa Cruz de Tenerife;26;1140;44;35
+11468;Estoril;132;Lisboa;26;1223;47;31
+8334;Chihuahua;105;Chihuahua;26;75;3;2
+30261;Playa de Fañabé;333;Islas Canarias;26;354;14;13
+31926;El Albir;3;Alicante;25;718;29;21
+29724;El Puerto de Santa María;11;Cádiz;25;1399;56;37
+1069;Sant Cugat del Vallès;8;Barcelona;25;1124;45;42
+876;Badalona;8;Barcelona;24;1565;65;66
+796;Alaró;7;Islas Baleares;24;691;29;24
+3679;León;24;León;24;511;21;20
+6062;Aguadulce;41;Sevilla;24;709;30;24
+29718;Puerto de Alcudia;7;Islas Baleares;24;840;35;28
+11773;Vila Nova de Gaia;147;Porto;24;709;30;28
+34130;Arenal d'en Castell;7;Islas Baleares;24;340;14;7
+29688;Morro Jable;35;Las Palmas;23;637;28;25
+29877;El Prat de Llobregat;8;Barcelona;23;1051;46;41
+29900;Cala Rajada;7;Islas Baleares;23;346;15;12
+29734;Carvalhal;135;Setúbal;23;443;19;19
+4577;Cartagena;30;Murcia;23;754;33;23
+4127;Logroño;26;La Rioja;23;480;21;11
+2483;Caldes de Malavella;17;Girona;23;549;24;18
+3240;Cartaya;21;Huelva;22;550;25;18
+34503;Playa de Migjorn;7;Islas Baleares;22;1275;58;30
+30060;Illes Balears;419;Mallorca;21;1108;53;34
+2496;Castell-Platja d'Aro;17;Girona;21;564;27;24
+644;Badajoz;6;Badajoz;21;446;21;23
+858;Sóller;7;Islas Baleares;21;591;28;20
+963;Granollers;8;Barcelona;20;436;22;23
+828;Manacor;7;Islas Baleares;20;417;21;24
+839;Pobla, Sa;7;Islas Baleares;20;1105;55;39
+2495;Castelló d'Empúries;17;Girona;20;695;35;30
+3940;Naut Aran;25;Lleida;20;634;32;30
+3400;Huesca;22;Huesca;20;225;11;7
+4993;Gijón;33;Asturias;20;523;26;13
+4482;Benahavís;29;Málaga;20;486;24;24
+5826;Santander;39;Cantabria;20;475;24;8
+6027;Segovia;40;Segovia;20;341;17;15
+5012;Oviedo;33;Asturias;20;254;13;1
+8119;Melilla;52;Melilla;20;284;14;14
+29914;Magaluf;7;Islas Baleares;20;998;50;31
+29730;Puerto de Mazarrón;30;Murcia;20;671;34;30
+30243;L'Escala;17;Girona;19;225;12;11
+35291;Lisbon;427;Arroios;19;1229;65;41
+11475;Odivelas;132;Lisboa;19;1096;58;50
+11559;Grândola;135;Setúbal;19;257;14;11
+6475;Reus;43;Tarragona;19;771;41;28
+4286;Alcobendas;28;Madrid;19;828;44;23
+46;Vitoria-Gasteiz;1;Álava;18;359;20;9
+1030;Pineda de Mar;8;Barcelona;18;887;49;49
+32902;Sant Tomàs;7;Islas Baleares;18;575;32;25
+30194;Coímbra;142;Coimbra;18;505;28;32
+29842;Estartit;17;Girona;18;761;42;35
+30101;Cala Sant Vicenç;7;Islas Baleares;17;842;50;31
+31645;s'Argamassa;7;Islas Baleares;17;498;29;27
+32565;Dehesa de Campoamor;3;Alicante;17;1237;73;48
+5324;Sanxenxo;36;Pontevedra;17;299;18;13
+4928;Ourense;32;Ourense;17;248;15;4
+830;Maó-Mahón;7;Islas Baleares;16;1413;88;46
+799;Andratx;7;Islas Baleares;16;344;22;13
+4110;Haro;26;La Rioja;16;262;16;17
+2514;Figueres;17;Girona;16;402;25;13
+2473;Blanes;17;Girona;16;507;32;20
+2595;Roses;17;Girona;16;1009;63;46
+32426;Estrela;132;Lisboa;16;1063;66;37
+30308;Baqueira;25;Lleida;16;1012;63;53
+30190;Cala Millor;7;Islas Baleares;15;356;24;18
+2688;Almuñécar;18;Granada;15;380;25;9
+835;Montuïri;7;Islas Baleares;15;979;65;61
+149;Alfàs del Pi, l';3;Alicante;15;328;22;20
+201;Dénia;3;Alicante;15;764;51;41
+7148;Oliva;46;Valencia;15;750;50;35
+4527;Manilva;29;Málaga;14;713;51;43
+4287;Alcorcón;28;Madrid;14;443;32;30
+2638;Torrent;17;Girona;14;514;37;38
+29855;Santa Ponsa;7;Islas Baleares;14;794;57;58
+29749;Puerto de Pollensa;7;Islas Baleares;14;216;15;18
+36058;Torrent;17;Girona;14;558;40;34
+33282;Foz do Douro;147;Porto;13;273;21;17
+29920;ses Illetes;7;Islas Baleares;13;1411;109;104
+11780;Matosinhos;147;Porto;13;433;33;21
+30038;Playa del Carmen;121;Quintana Roo;13;80;6;5
+1980;Ciudad Real;13;Ciudad Real;13;98;8;3
+5722;Paso, El;38;Santa Cruz de Tenerife;13;334;26;21
+6362;Altafulla;43;Tarragona;13;594;46;43
+7397;Tiedra;47;Valladolid;13;255;20;21
+9906;Querétaro;120;Querétaro;13;64;5;3
+9068;Monterrey;117;Nuevo León;12;139;12;10
+11513;Nazaré;133;Leiria;12;381;32;33
+4529;Mijas;29;Málaga;12;428;36;30
+1786;Jerez de la Frontera;11;Cádiz;12;777;65;65
+3345;Benasque;22;Huesca;12;119;10;8
+820;Ferreries;7;Islas Baleares;12;672;56;39
+1142;Terrassa;8;Barcelona;12;668;56;46
+30189;Port de Sóller;7;Islas Baleares;12;449;37;33
+30282;Sierra Nevada;18;Granada;12;659;55;45
+30417;Son Bou;7;Islas Baleares;12;337;28;26
+11815;Vila Verde;148;Braga;12;377;31;38
+11701;Espinho;143;Aveiro;12;196;16;17
+11615;Évora;138;Évora;12;240;20;23
+29893;Es Pujols;7;Islas Baleares;12;436;36;36
+32916;Cala Murada;7;Islas Baleares;12;481;40;33
+38651;Santa Eulalia del Río;7;Islas Baleares;11;710;65;76
+29881;Costa Calma;35;Las Palmas;11;388;35;39
+30378;Los Realejos;333;Islas Canarias;11;628;57;47
+30456;Cala Galdana;7;Islas Baleares;11;280;25;16
+31617;Sotogrande;11;Cádiz;11;384;35;25
+30218;Puerto de Santiago;333;Islas Canarias;11;275;25;23
+218;Jávea/Xàbia;3;Alicante;11;367;33;28
+2672;Vilobí d'Onyar;17;Girona;11;145;13;12
+2563;Palamós;17;Girona;11;274;25;18
+4411;San Sebastián de los Reyes;28;Madrid;11;853;78;43
+5730;San Cristóbal de La Laguna;38;Santa Cruz de Tenerife;11;222;20;13
+5243;Arrecife;35;Las Palmas;11;199;18;20
+11569;Sesimbra;135;Setúbal;11;422;38;26
+11490;Sintra;132;Lisboa;11;589;54;31
+6724;Teruel;44;Teruel;11;336;31;14
+8841;Naucalpan de Juárez;113;Estado de México;10;160;16;16
+5707;Candelaria;38;Santa Cruz de Tenerife;10;357;36;28
+2624;Santa Cristina d'Aro;17;Girona;10;107;11;2
+2523;Garrigàs;17;Girona;10;46;5;4
+1572;Berrocalejo;10;Cáceres;10;18;2;1
+1343;Miranda de Ebro;9;Burgos;10;322;32;19
+3390;Fraga;22;Huesca;10;72;7;1
+203;Elche/Elx;3;Alicante;10;263;26;10
+198;Crevillent;3;Alicante;10;646;65;70
+859;Son Servera;7;Islas Baleares;10;640;64;52
+30192;L'Hospitalet de l'Infant;43;Tarragona;10;352;35;28
+30122;Puerto Nous;7;Islas Baleares;10;251;25;20
+31192;Orpesa;12;Castellón;10;187;19;18
+30330;Son Xoriguer;7;Islas Baleares;10;203;20;20
+30374;Campanhã;147;Porto;10;1147;115;109
+29864;Porto Cristo;7;Islas Baleares;10;528;53;45
+32721;Barri de Porta;46;Valencia;10;136;14;11
+33399;Santa Susana;17;Girona;10;380;38;30
+33392;Sagres;420;Santo António;9;127;14;15
+33087;Playa Barca;35;Las Palmas;9;334;37;33
+32603;El Arenal;7;Islas Baleares;9;252;28;21
+11599;Lagos;137;Faro;9;129;14;20
+11822;Viana do Castelo;149;Viana do Castelo;9;130;14;15
+30619;Cullera;46;Valencia;9;469;52;56
+30856;El Toro;7;Islas Baleares;9;89;10;9
+31633;Lluchmayor;7;Islas Baleares;9;334;37;24
+30086;Gran Canaria;35;Las Palmas;9;551;61;54
+30224;Somosaguas;28;Madrid;9;1441;160;137
+881;Barberà del Vallès;8;Barcelona;9;325;36;46
+920;Castelldefels;8;Barcelona;9;627;70;68
+938;Cornellà de Llobregat;8;Barcelona;9;457;51;37
+1168;Vilanova i la Geltrú;8;Barcelona;9;218;24;20
+977;Malgrat de Mar;8;Barcelona;9;316;35;21
+3524;Carolina, La;23;Jaén;9;125;14;11
+2950;Guadalajara;19;Guadalajara;9;391;43;26
+1846;Castellón de la Plana;12;Castellón;9;383;43;27
+2466;Begur;17;Girona;9;458;51;30
+2583;Puigcerdà;17;Girona;9;50;6;4
+5256;Puerto del Rosario;35;Las Palmas;9;192;21;16
+4407;San Fernando de Henares;28;Madrid;9;134;15;0
+4476;Archidona;29;Málaga;9;515;57;43
+4457;Villaviciosa de Odón;28;Madrid;9;232;26;25
+4569;Alhama de Murcia;30;Murcia;9;163;18;16
+6985;Alberic;46;Valencia;9;85;9;5
+7126;Manises;46;Valencia;9;519;58;21
+7342;Olmedo;47;Valladolid;8;410;51;32
+7535;Loiu;48;Vizcaya;8;0;0;0
+11463;Carcavelos;132;Lisboa;8;264;33;33
+11570;Setúbal;135;Setúbal;8;419;52;27
+4845;Tudela;31;Navarra;8;63;8;6
+6101;Dos Hermanas;41;Sevilla;8;613;77;71
+1781;Chipiona;11;Cádiz;8;673;84;99
+980;Manresa;8;Barcelona;8;64;8;0
+1161;Viladecans;8;Barcelona;8;1010;126;104
+860;Valldemossa;7;Islas Baleares;8;333;42;22
+843;Salines, Ses;7;Islas Baleares;8;303;38;23
+30166;Pinhão;420;Santo António;8;21;3;0
+30100;L'Ampolla;43;Tarragona;8;222;28;30
+30044;Artá;7;Islas Baleares;8;451;56;41
+30615;Empuriabrava;17;Girona;8;300;38;23
+30454;Playa de San Agustin;35;Las Palmas;8;230;29;30
+29700;El Maresme;317;Cataluña;8;200;25;26
+11779;Lavra;147;Porto;8;146;18;17
+11674;Coimbra;142;Coimbra;8;246;31;31
+29934;Cala Llonga;7;Islas Baleares;8;114;14;17
+29901;Playa de la Américas;38;Santa Cruz de Tenerife;7;160;23;17
+11708;Ovar;143;Aveiro;7;347;50;31
+11835;Ponta Delgada;150;Açores;7;97;14;17
+30114;Pla de l'Ermita;25;Lleida;7;403;58;36
+30185;Portinatx;7;Islas Baleares;7;270;39;20
+30187;La Garriga;8;Barcelona;7;106;15;14
+32425;Cascais;417;Cascais;7;182;26;31
+32413;Platges de Fornells;7;Islas Baleares;7;1139;163;120
+32767;Son Vida;419;Mallorca;7;406;58;33
+840;Pollença;7;Islas Baleares;7;549;78;78
+1060;Sant Andreu de la Barca;8;Barcelona;7;291;42;40
+989;Mataró;8;Barcelona;7;135;19;9
+3166;Elgoibar;20;Guipúzcoa;7;78;11;12
+4989;Corvera de Asturias;33;Asturias;7;188;27;27
+11544;Tomar;134;Santarém;7;222;32;25
+6402;Creixell;43;Tarragona;7;322;46;44
+8652;Zapopan;112;Jalisco;6;44;7;7
+9934;San Luis Potosí;122;San Luis Potosí;6;34;6;6
+5797;Noja;39;Cantabria;6;62;10;12
+4430;Tres Cantos;28;Madrid;6;87;15;15
+4331;Coslada;28;Madrid;6;781;130;102
+3704;Ponferrada;24;León;6;84;14;7
+1889;Peníscola/Peñíscola;12;Castellón;6;340;57;52
+2638;Torrent;46;Valencia;6;135;23;15
+996;Montcada i Reixac;8;Barcelona;6;116;19;19
+1022;Palafolls;8;Barcelona;6;111;19;16
+1027;Parets del Vallès;8;Barcelona;6;36;6;7
+1085;Sant Just Desvern;8;Barcelona;6;294;49;32
+834;Es Migjorn Gran;7;Islas Baleares;6;672;112;110
+849;Sant Lluís;7;Islas Baleares;6;308;51;32
+76;Caudete;2;Albacete;6;39;7;3
+32454;Almancil;420;Santo António;6;69;12;13
+33730;Carvoeiro;420;Santo António;6;56;9;10
+36470;Bizkaia;48;Vizcaya;6;187;31;30
+34513;La Alcaidesa;11;Cádiz;6;114;19;15
+35403;El Priorato;43;Tarragona;6;116;19;18
+30009;Sant Antoni de Portmany;445;São Gonçalo de Lagos;6;119;20;17
+31504;Lisbon;475;Alvalade;6;244;41;33
+11809;Guimarães;148;Braga;6;131;22;16
+11763;Peso da Régua;146;Vila Real;6;119;20;18
+11695;Aveiro;143;Aveiro;6;253;42;54
+29925;Luz;460;Luz;6;83;14;18
+29738;Escaldes-Engordany;353;Escaldes-Engordany;6;308;51;41
+29809;Andalucía;4;Almería;6;296;49;41
+29839;Vila Nova de Cacela;137;Faro;6;89;15;18
+29782;Andorra la Vella;388;Andorra la Vieja;5;311;62;72
+29971;Guia;137;Faro;5;83;17;18
+11794;Santo Tirso;147;Porto;5;150;30;31
+30539;Sant Jordi;7;Islas Baleares;5;89;18;17
+30442;Puerto Rico;35;Las Palmas;5;66;13;16
+30452;Golf del Sur;412;San Miguel de Abona;5;74;15;15
+30070;Albernoa;420;Santo António;5;24;5;3
+30111;Montaña Roja;35;Las Palmas;5;252;50;55
+30205;Castell-llebre;25;Lleida;5;53;11;11
+30283;Fuente Álamo de Murcia;30;Murcia;5;253;51;38
+30278;La Herradura;18;Granada;5;251;50;43
+30245;Esquinzo;35;Las Palmas;5;221;44;34
+35013;Santiago del Monte;33;Asturias;5;8;2;1
+37280;Municipio de Manresa;17;Girona;5;37;7;0
+38046;Beret;25;Lleida;5;166;33;31
+38483;Majorca;7;Islas Baleares;5;354;71;76
+33596;Tróia Peninsula;446;Carvalhal;5;210;42;27
+34316;Porto;447;Santa Marinha;5;49;10;10
+33259;Reguengos de Monsaraz;420;Santo António;5;70;14;14
+123;San Pedro;29;Málaga;5;354;71;46
+54;Albacete;2;Albacete;5;243;49;18
+823;Inca;7;Islas Baleares;5;51;10;11
+836;Muro;7;Islas Baleares;5;259;52;42
+819;Felanitx;7;Islas Baleares;5;235;47;41
+992;Molins de Rei;8;Barcelona;5;224;45;35
+993;Mollet del Vallès;8;Barcelona;5;298;60;50
+2640;Torroella de Montgrí;17;Girona;5;386;77;107
+2593;Riudellots de la Selva;17;Girona;5;144;29;26
+2539;Llanars;17;Girona;5;141;28;20
+3261;Isla Cristina;21;Huelva;5;105;21;18
+4236;Guitiriz;27;Lugo;5;17;3;3
+4400;Rivas-Vaciamadrid;28;Madrid;5;330;66;49
+4566;Alcázares, Los;30;Murcia;5;175;35;20
+5732;San Miguel de Abona;38;Santa Cruz de Tenerife;5;124;25;16
+6078;Bormujos;41;Sevilla;5;204;41;44
+11514;Óbidos;133;Leiria;5;95;19;17
+11451;Algés;132;Lisboa;5;130;26;25
+7466;Abanto y Ciérvana-Abanto Zierbena;48;Vizcaya;5;41;8;4
+7314;Laguna de Duero;47;Valladolid;5;81;16;17
+8027;Pina de Ebro;50;Zaragoza;4;7;2;2
+7008;Almussafes;46;Valencia;4;304;76;78
+6443;Mont-roig del Camp;43;Tarragona;4;201;50;51
+6668;Monreal del Campo;44;Teruel;4;8;2;2
+6508;Torroja del Priorat;43;Tarragona;4;112;28;29
+6546;Alcañiz;44;Teruel;4;19;5;0
+11467;Ericeira;132;Lisboa;4;100;25;24
+11503;Caldas da Rainha;133;Leiria;4;77;19;24
+11571;Sines;135;Setúbal;4;19;5;0
+8130;Miguel Hidalgo;131;Ciudad de México;4;96;24;24
+8149;Tijuana;101;Baja California;4;26;7;7
+6123;Mairena del Aljarafe;41;Sevilla;4;290;73;64
+5733;San Sebastián de la Gomera;38;Santa Cruz de Tenerife;4;164;41;36
+5140;Palencia;34;Palencia;4;50;13;12
+4542;Ronda;29;Málaga;4;88;22;27
+4550;Torrox;29;Málaga;4;65;16;18
+4500;Casares;29;Málaga;4;88;22;23
+4585;Lorca;30;Murcia;4;137;34;29
+4404;Rozas de Madrid, Las;28;Madrid;4;481;120;88
+4423;Torrejón de Ardoz;28;Madrid;4;220;55;57
+4345;Getafe;28;Madrid;4;95;24;20
+3456;Sallent de Gállego;22;Huesca;4;109;27;26
+3548;Jaén;23;Jaén;4;8;2;2
+4302;Boadilla del Monte;28;Madrid;4;32;8;4
+2244;Belinchón;16;Cuenca;4;27;7;5
+2278;Castillejo de Iniesta;16;Cuenca;4;13;3;3
+1785;Grazalema;11;Cádiz;4;49;12;13
+987;Masquefa;8;Barcelona;4;272;68;52
+1049;Roca del Vallès, La;8;Barcelona;4;66;17;7
+1051;Rubí;8;Barcelona;4;207;52;44
+1126;Santa Perpètua de Mogoda;8;Barcelona;4;22;6;4
+1074;Sant Feliu de Llobregat;8;Barcelona;4;125;31;30
+1170;Vilassar de Mar;8;Barcelona;4;202;51;49
+942;Esplugues de Llobregat;8;Barcelona;4;62;16;20
+918;Castellbisbal;8;Barcelona;4;46;12;13
+801;Artà;7;Islas Baleares;4;247;62;61
+175;Benimantell;3;Alicante;4;211;53;24
+395;Ávila;5;Ávila;4;56;14;14
+34398;Las Bayas;3;Alicante;4;28;7;8
+32434;Portopetro;7;Islas Baleares;4;651;163;203
+38412;Sierra de la Estrella;529;Distrito da Guarda;4;120;30;30
+37239;Altea Hills;3;Alicante;4;78;20;20
+36621;Playa de Esquinzo;35;Las Palmas;4;161;40;34
+36252;Sa Riera;17;Girona;4;140;35;28
+36270;Cales Piques;7;Islas Baleares;4;84;21;23
+35902;Tecámac de Felipe Villanueva;113;Estado de México;4;48;12;4
+34602;Ramalde;147;Porto;4;120;30;21
+30131;Maia;147;Porto;4;270;68;33
+30053;Vizcaya;48;Vizcaya;4;105;26;18
+30371;Santa Maria de Belém;132;Lisboa;4;203;51;54
+30351;La Pineda;43;Tarragona;4;516;129;136
+30493;San Isidro;333;Islas Canarias;4;81;20;21
+30523;Torre del Mar;29;Málaga;4;169;42;42
+31538;Faro;420;Santo António;4;55;14;13
+30935;Bendinat;7;Islas Baleares;4;98;25;20
+11739;Viseu;144;Viseu;4;101;25;25
+11664;Manteigas;141;Guarda;4;115;29;29
+11557;Costa de Caparica;135;Setúbal;4;184;46;35
+11598;Lagoa (Algarve);137;Faro;4;42;11;10
+11636;Montargil;139;Portalegre;4;43;11;9
+11605;Sagres (Vila do Bispo);137;Faro;4;97;24;25
+30005;São João da Madeira;453;São João da Madeira;4;215;54;53
+29850;Matalascañas;21;Huelva;4;101;25;23
+29859;Fatima;133;Leiria;3;36;12;13
+11625;Vila Viçosa;138;Évora;3;42;14;12
+11676;Figueira da Foz;142;Coimbra;3;64;21;20
+11820;Ponte de Lima;149;Viana do Castelo;3;76;25;25
+31385;Sant Antoni de Calonge;17;Girona;3;93;31;32
+32110;União de freguesias de São Miguel de Souto e Mosteirô;420;Santo António;3;33;11;12
+30584;Poblado de Sancti Petri;11;Cádiz;3;72;24;30
+30375;Arguineguín;35;Las Palmas;3;186;62;73
+30065;Costa de la Calma;7;Islas Baleares;3;319;106;139
+30246;Es Canar;7;Islas Baleares;3;96;32;18
+30250;Cala Pi;7;Islas Baleares;3;130;43;28
+30329;Llafranc;17;Girona;3;51;17;17
+30222;Bonmont Terres Noves;43;Tarragona;3;197;66;77
+30236;Cabo Verde;35;Las Palmas;3;163;54;54
+30204;Comarruga;43;Tarragona;3;97;32;30
+30210;Playas de Vera;4;Almería;3;158;53;39
+35444;Distrito de Coimbra;420;Santo António;3;68;23;23
+33218;La Duquesa;11;Cádiz;3;64;21;20
+33513;Playa de Gandía;46;Valencia;3;218;73;69
+33416;Villahermosa;125;Tabasco;3;51;17;20
+343;Níjar;4;Almería;3;89;30;27
+802;Banyalbufar;7;Islas Baleares;3;77;26;34
+713;Mérida;6;Badajoz;3;106;35;23
+846;Sant Joan de Labritja;7;Islas Baleares;3;240;80;25
+848;Sant Llorenç des Cardassar;7;Islas Baleares;3;161;54;61
+2546;Maçanet de la Selva;17;Girona;3;16;5;5
+2655;Vidrà;17;Girona;3;44;15;15
+3279;Punta Umbría;21;Huelva;3;104;35;20
+2776;Loja;18;Granada;3;135;45;31
+3224;Almonte;21;Huelva;3;152;51;54
+3167;Errenteria;20;Guipúzcoa;3;138;46;38
+3177;Hondarribia;20;Guipúzcoa;3;14;5;2
+4354;Leganés;28;Madrid;3;72;24;22
+4325;Collado Villalba;28;Madrid;3;29;10;0
+4338;Fuenlabrada;28;Madrid;3;0;0;0
+5720;Matanza de Acentejo, La;38;Santa Cruz de Tenerife;3;116;39;37
+6100;Cuervo de Sevilla, El;41;Sevilla;3;97;32;32
+6001;Real Sitio de San Ildefonso;40;Segovia;3;0;0;0
+8651;Guadalajara;112;Jalisco;3;20;7;9
+8453;León;109;Guanajuato;3;7;2;1
+10233;Veracruz;128;Veracruz;3;25;8;10
+10414;Mérida;129;Yucatán;3;32;11;13
+11564;Porto Covo;135;Setúbal;3;45;15;13
+11508;Leiria;133;Leiria;3;204;68;96
+11511;Marinha Grande;133;Leiria;3;40;13;13
+11493;Torres Vedras;132;Lisboa;3;139;46;24
+11469;Linda-a-Velha;132;Lisboa;3;92;31;24
+6632;Fuentespalda;44;Teruel;3;42;14;9
+6515;Valls;43;Tarragona;3;324;108;75
+6669;Monroyo;44;Teruel;3;25;8;8
+7129;Massalavés;46;Valencia;3;26;9;10
+7056;Canet d'En Berenguer;46;Valencia;3;97;32;31
+7172;Puig de Santa Maria, el;46;Valencia;3;21;7;8
+7891;Calatayud;50;Zaragoza;3;48;16;11
+7391;Sardón de Duero;47;Valladolid;3;132;44;28
+8038;Puebla de Alfindén, La;50;Zaragoza;2;34;17;17
+7094;Font de la Figuera, la;46;Valencia;2;16;8;8
+7099;Gandia;46;Valencia;2;24;12;12
+7136;Mislata;46;Valencia;2;217;109;109
+6542;Albarracín;44;Teruel;2;28;14;14
+7052;Burjassot;46;Valencia;2;265;133;133
+6673;Mora de Rubielos;44;Teruel;2;85;43;43
+6517;Vendrell, El;43;Tarragona;2;62;31;31
+6483;Roda de Berà;43;Tarragona;2;32;16;16
+6438;Montblanc;43;Tarragona;2;13;7;7
+6399;Constantí;43;Tarragona;2;53;27;27
+6369;Arnes;43;Tarragona;2;14;7;7
+6310;Soria;42;Soria;2;70;35;35
+11519;Porto de Mós;133;Leiria;2;41;21;21
+10132;Tampico;126;Tamaulipas;2;33;17;17
+8731;Puerto Vallarta;112;Jalisco;2;27;14;14
+8840;Atizapán de Zaragoza;113;Estado de México;2;27;14;14
+8486;Chilpancingo de los Bravo;110;Guerrero;2;26;13;13
+8567;Pachuca de Soto;111;Hidalgo;2;41;21;21
+8177;Monclova;106;Coahuila;2;11;6;6
+8065;Sobradiel;50;Zaragoza;2;12;6;6
+5775;Comillas;39;Cantabria;2;24;12;12
+6036;Torrecaballeros;40;Segovia;2;51;26;26
+6076;Benacazón;41;Sevilla;2;129;65;65
+6102;Écija;41;Sevilla;2;7;4;4
+5802;Piélagos;39;Cantabria;2;21;11;11
+5737;Santiago del Teide;38;Santa Cruz de Tenerife;2;20;10;10
+5745;Valle Gran Rey;38;Santa Cruz de Tenerife;2;17;9;9
+4973;Avilés;33;Asturias;2;15;8;8
+5275;Baiona;36;Pontevedra;2;0;0;0
+4294;Arganda del Rey;28;Madrid;2;3;2;2
+4389;Pinto;28;Madrid;2;69;35;35
+4371;Móstoles;28;Madrid;2;155;78;78
+4408;San Lorenzo de El Escorial;28;Madrid;2;26;13;13
+4427;Torrelodones;28;Madrid;2;135;68;68
+4452;Villanueva de la Cañada;28;Madrid;2;5;3;3
+4466;Alhaurín de la Torre;29;Málaga;2;105;53;53
+4599;Torre-Pacheco;30;Murcia;2;40;20;20
+4534;Nerja;29;Málaga;2;59;30;30
+4563;Águilas;30;Murcia;2;37;19;19
+2673;Vilopriu;17;Girona;2;30;15;15
+3198;Oñati;20;Guipúzcoa;2;73;37;37
+3283;San Juan del Puerto;21;Huelva;2;46;23;23
+3348;Bielsa;22;Huesca;2;41;21;21
+4028;Vielha e Mijaran;25;Lleida;2;10;5;5
+4050;Alfaro;26;La Rioja;2;24;12;12
+4269;Sarria;27;Lugo;2;10;5;5
+3405;Jaca;22;Huesca;2;11;6;6
+4019;Tremp;25;Lleida;2;22;11;11
+2652;Vall-llobrega;17;Girona;2;75;38;38
+2568;Pals;17;Girona;2;84;42;42
+2482;Cadaqués;17;Girona;2;54;27;27
+1835;Benicasim/Benicàssim;12;Castellón;2;47;24;24
+1323;Lerma;9;Burgos;2;0;0;0
+2286;Cuenca;16;Cuenca;2;22;11;11
+2096;Pedro Abad;14;Córdoba;2;11;6;6
+2099;Posadas;14;Córdoba;2;0;0;0
+865;Alella;8;Barcelona;2;40;20;20
+896;Caldes de Montbui;8;Barcelona;2;100;50;50
+1159;Vic;8;Barcelona;2;14;7;7
+1141;Teià;8;Barcelona;2;12;6;6
+1082;Sant Joan Despí;8;Barcelona;2;167;84;84
+1102;Sant Quirze del Vallès;8;Barcelona;2;32;16;16
+934;Collbató;8;Barcelona;2;36;18;18
+833;Mercadal, Es;7;Islas Baleares;2;36;18;18
+274;Vall de Laguar, la;3;Alicante;2;109;55;55
+710;Medellín;6;Badajoz;2;31;16;16
+378;Vera;4;Almería;2;64;32;32
+808;Campos;7;Islas Baleares;2;111;56;56
+800;Ariany;7;Islas Baleares;2;10;5;5
+352;Pulpí;4;Almería;2;50;25;25
+396;Barco de Ávila, El;5;Ávila;2;0;0;0
+188;Campello, el;3;Alicante;2;156;78;78
+33485;Gafanha da Boa Hora;420;Santo António;2;55;28;28
+32896;Cala Morell;7;Islas Baleares;2;269;135;135
+33640;Son Castelló;7;Islas Baleares;2;61;31;31
+33818;La Lanzada;36;Pontevedra;2;34;17;17
+32188;Maia;474;Porto District;2;22;11;11
+32704;Alcântara;132;Lisboa;2;179;90;90
+33131;Buenavista;333;Islas Canarias;2;25;13;13
+35726;Torreauzo;20;Guipúzcoa;2;54;27;27
+35258;La Savina;7;Islas Baleares;2;110;55;55
+37478;Castillo de Bendinat;7;Islas Baleares;2;62;31;31
+38602;Toledo;5;Ávila;2;39;20;20
+39274;Lisbonne;132;Lisboa;2;97;49;49
+30220;Lajares;35;Las Palmas;2;168;84;84
+30228;Cancelada;29;Málaga;2;65;33;33
+30280;Torrenova;7;Islas Baleares;2;46;23;23
+30289;Font de Sa Cala;7;Islas Baleares;2;39;20;20
+30293;Roldán;30;Murcia;2;49;25;25
+30301;Puebla de Farnals;46;Valencia;2;105;53;53
+30108;Castellón;12;Castellón;2;43;22;22
+30102;Atalaya Isdabe;29;Málaga;2;158;79;79
+30064;Rotes Velles;7;Islas Baleares;2;176;88;88
+30112;Santa Gertrudis de Fruitera;7;Islas Baleares;2;20;10;10
+30157;Formigal;22;Huesca;2;25;13;13
+30171;Zahara de los Atunes;11;Cádiz;2;0;0;0
+30353;Cala Bona;7;Islas Baleares;2;0;0;0
+30360;Calella de Palafrugell;17;Girona;2;95;48;48
+30343;Rio Tinto;147;Porto;2;102;51;51
+30606;Beato;132;Lisboa;2;293;147;147
+30614;Amor;338;Santarém District;2;17;9;9
+30455;Los Llanos;333;Islas Canarias;2;0;0;0
+31982;Amarilla Golf;412;San Miguel de Abona;2;28;14;14
+31590;Copenhague;1935;Copenhague;2;11;6;6
+31387;Paranhos;147;Porto;2;136;68;68
+29724;El Puerto de Santa María;4;Almería;2;179;90;90
+11841;Santo Antão (Calheta);150;Açores;2;29;15;15
+11719;Lamego;144;Viseu;2;63;32;32
+11741;Alfândega da Fé;145;Bragança;2;29;15;15
+11761;Mondim de Basto;146;Vila Real;2;42;21;21
+11610;Vila Real de Santo António;137;Faro;2;39;20;20
+11595;Altura (Castro Marim);137;Faro;2;25;13;13
+11602;Olhão;137;Faro;2;60;30;30
+29807;Castelo Melhor;408;Castelo Melhor;2;24;12;12
+29744;Urbanización Novo Santi Petri;4;Almería;2;118;59;59
+29747;Islantilla;4;Almería;2;49;25;25
+29829;Las Gaviotas;35;Las Palmas;2;25;13;13
+29903;Costa del Silencio;38;Santa Cruz de Tenerife;2;37;19;19
+29887;Eja;147;Porto;2;127;64;64
+29885;Maliaño;39;Cantabria;1;29;29;29
+29991;Fátima;338;Santarém District;1;12;12;12
+29973;Sa Coma;7;Islas Baleares;1;46;46;46
+29976;Famões;132;Lisboa;1;97;97;97
+29894;Cala en Bosc;7;Islas Baleares;1;61;61;61
+29942;El Bajo Ampurdán;17;Girona;1;27;27;27
+29956;Mazagón;21;Huelva;1;70;70;70
+29968;La Jonquera;17;Girona;1;40;40;40
+29742;Bajo Llobregat;317;Cataluña;1;14;14;14
+29861;San José;7;Islas Baleares;1;11;11;11
+29854;Pêra;137;Faro;1;19;19;19
+11608;Silves;137;Faro;1;67;67;67
+11645;Fundão;140;Castelo Branco;1;11;11;11
+11617;Mora;138;Évora;1;17;17;17
+11770;Amarante;147;Porto;1;13;13;13
+11754;Alijó;146;Vila Real;1;17;17;17
+11757;Chaves;146;Vila Real;1;22;22;22
+11707;Oliveira do Bairro;143;Aveiro;1;16;16;16
+11884;Trofa;147;Porto;1;3;3;3
+11838;Ribeira Grande;150;Açores;1;21;21;21
+11816;Arcos de Valdevez;149;Viana do Castelo;1;32;32;32
+11795;São Mamede de Infesta;147;Porto;1;46;46;46
+11801;Vila do Conde;147;Porto;1;16;16;16
+11793;Marco de Canaveses;147;Porto;1;2;2;2
+11775;Ermesinde;147;Porto;1;47;47;47
+31401;Bellaterra;8;Barcelona;1;32;32;32
+31454;Cholula de Rivadavia;119;Puebla;1;2;2;2
+31548;Santarem;134;Santarém;1;43;43;43
+31487;La Cala del Moral;29;Málaga;1;14;14;14
+30941;Xilxes;12;Castellón;1;54;54;54
+30952;Corró d'Avall;8;Barcelona;1;21;21;21
+30957;El Rompido;21;Huelva;1;52;52;52
+30960;Vieira de Leiria;420;Santo António;1;19;19;19
+30970;Port d'Andratx;7;Islas Baleares;1;76;76;76
+30992;Ferrel;420;Santo António;1;48;48;48
+30869;La Ràpita;43;Tarragona;1;37;37;37
+30927;El Altet;3;Alicante;1;49;49;49
+30928;Montequinto;41;Sevilla;1;76;76;76
+31616;Rivabellosa;1;Álava;1;31;31;31
+31620;Salema;420;Santo António;1;4;4;4
+31705;União das freguesias de Massamá e Monte Abraão;341;Distrito de Lisboa;1;18;18;18
+32095;Foz do Arelho;420;Santo António;1;20;20;20
+32131;El Golfo;35;Las Palmas;1;16;16;16
+32180;Sobrado;449;Sobrado;1;26;26;26
+31931;Tafira Alta;35;Las Palmas;1;28;28;28
+31813;Pinoso;3;Alicante;1;40;40;40
+30487;Casal de Cambra;132;Lisboa;1;15;15;15
+30563;Santa Maria da Feira;420;Santo António;1;8;8;8
+30595;Valongo;326;Norte Portugal;1;17;17;17
+30751;Talavera de la Reina;45;Toledo;1;0;0;0
+30772;Salir do Porto;420;Santo António;1;34;34;34
+30854;La Lajita;35;Las Palmas;1;6;6;6
+30345;Platja de Palma;7;Islas Baleares;1;10;10;10
+30342;Vilarinho dos Freires;529;Distrito da Guarda;1;11;11;11
+30445;Canelas;326;Norte Portugal;1;0;0;0
+30381;Saifores;43;Tarragona;1;90;90;90
+30425;S.Teotónio;420;Santo António;1;15;15;15
+30182;Binibeca;7;Islas Baleares;1;8;8;8
+30183;Acapulco de Juárez;110;Guerrero;1;7;7;7
+30156;Salnés;36;Pontevedra;1;41;41;41
+30138;San Miguel de Balansat;7;Islas Baleares;1;0;0;0
+30143;Calla Vinyes;7;Islas Baleares;1;16;16;16
+30019;Bahía de Palma;447;Santa Marinha;1;15;15;15
+30030;Alfredo V. Bonfil;121;Quintana Roo;1;38;38;38
+30103;Playa Puerto Banús;29;Málaga;1;5;5;5
+30096;La Massana;556;La Massana;1;22;22;22
+30265;Castillo de Aro;17;Girona;1;0;0;0
+30266;Cieza;30;Murcia;1;11;11;11
+30260;Gipuzkoa;20;Guipúzcoa;1;2;2;2
+30231;Cala de Sant Vicent;7;Islas Baleares;1;80;80;80
+30207;Lomo Quiebre;35;Las Palmas;1;20;20;20
+30196;Los Cristianos;333;Islas Canarias;1;16;16;16
+38533;Romeral;3;Alicante;1;14;14;14
+37801;Avellá;43;Tarragona;1;54;54;54
+37808;Playa de las Américas;333;Islas Canarias;1;0;0;0
+38962;Guimaraes;474;Porto District;1;30;30;30
+38965;Valência;46;Valencia;1;194;194;194
+39030;Platja de Daimús;46;Valencia;1;53;53;53
+37285;San Martín Azcatepec;113;Estado de México;1;6;6;6
+36645;Tocha;420;Santo António;1;17;17;17
+36744;Troncones;110;Guerrero;1;8;8;8
+36820;Ferreiros de Tendais;474;Porto District;1;13;13;13
+37031;Albaredo;27;Lugo;1;52;52;52
+37192;Metepec;113;Estado de México;1;1;1;1
+36313;Montnegre;17;Girona;1;64;64;64
+35308;Cabeça Boa;529;Distrito da Guarda;1;20;20;20
+36479;Lodares;42;Soria;1;4;4;4
+36506;El Portús;30;Murcia;1;21;21;21
+36521;Melgaço;420;Santo António;1;30;30;30
+36525;Praia de Mira;420;Santo António;1;31;31;31
+36599;Doña Maria;18;Granada;1;58;58;58
+36614;Rio Douro;420;Santo António;1;20;20;20
+35805;Urbanización Ría del Pas;39;Cantabria;1;13;13;13
+35827;Boavista dos Pinheiros;420;Santo António;1;19;19;19
+35834;Caín de Valdeón;33;Asturias;1;15;15;15
+35052;Penha Garcia;420;Santo António;1;9;9;9
+35154;Playa de Almadraba;18;Granada;1;265;265;265
+34581;Alvados;338;Santarém District;1;6;6;6
+35919;Orbaneja del Castillo;39;Cantabria;1;14;14;14
+35933;Las Arenas;39;Cantabria;1;32;32;32
+35990;Elvas;420;Santo António;1;11;11;11
+35991;Bajouca;420;Santo António;1;18;18;18
+36042;Ancede;474;Porto District;1;28;28;28
+36121;Escaladei;43;Tarragona;1;101;101;101
+36126;São Teotónio;420;Santo António;1;15;15;15
+36128;Guecho;48;Vizcaya;1;0;0;0
+36178;Itziar;20;Guipúzcoa;1;0;0;0
+35462;Azóia;341;Distrito de Lisboa;1;12;12;12
+35468;Touguinhó;474;Porto District;1;0;0;0
+35519;Santa María;15;A Coruña;1;0;0;0
+35613;Serantes;27;Lugo;1;12;12;12
+35686;Quintanal;33;Asturias;1;1;1;1
+35720;Rodellar;22;Huesca;1;19;19;19
+34642;San José del Cabo;102;Baja California Sur;1;1;1;1
+34658;Can Serra;8;Barcelona;1;23;23;23
+34752;Playa de Mogan;35;Las Palmas;1;39;39;39
+34755;Fenais da Luz;150;Açores;1;15;15;15
+34822;Estela;474;Porto District;1;18;18;18
+34900;Valdosende;420;Santo António;1;28;28;28
+34970;Cala Domingos;7;Islas Baleares;1;13;13;13
+35001;Gerês;420;Santo António;1;12;12;12
+33206;Marrachí;7;Islas Baleares;1;28;28;28
+33106;Azueira;341;Distrito de Lisboa;1;3;3;3
+33124;La Palma;30;Murcia;1;37;37;37
+32774;São Cosme;474;Porto District;1;29;29;29
+32825;Gradil;341;Distrito de Lisboa;1;19;19;19
+32830;Taliarte;35;Las Palmas;1;1;1;1
+32858;El Cotillo;35;Las Palmas;1;56;56;56
+32927;Aneto;25;Lleida;1;14;14;14
+32957;Silveira;341;Distrito de Lisboa;1;34;34;34
+32969;Isla Canela;21;Huelva;1;14;14;14
+32977;Playa de la Calera;333;Islas Canarias;1;30;30;30
+33007;Olival;420;Santo António;1;10;10;10
+33034;Moraira;3;Alicante;1;12;12;12
+33058;Arriondas, Parres;33;Asturias;1;32;32;32
+33083;Maia;498;Moreira;1;2;2;2
+32687;Barranco de Vinamar;35;Las Palmas;1;60;60;60
+32574;Campo de Gibraltar;11;Cádiz;1;67;67;67
+32201;San Julián de Loria;1207;San Julián de Loria;1;39;39;39
+32263;Sigüeiro;15;A Coruña;1;6;6;6
+32422;Ribamar;341;Distrito de Lisboa;1;4;4;4
+32443;Valencia;46;Valencia;1;160;160;160
+32448;La Marina Alta;3;Alicante;1;48;48;48
+33839;Roda de Bará;43;Tarragona;1;61;61;61
+34031;La Santa;35;Las Palmas;1;12;12;12
+34128;Castro de Ribeiras de Lea;27;Lugo;1;1;1;1
+33685;Valle de Lago;33;Asturias;1;53;53;53
+33599;San Nicolás de los Garza;117;Nuevo León;1;3;3;3
+34413;Cóbreces;39;Cantabria;1;6;6;6
+34367;San Miguel;150;Açores;1;24;24;24
+34396;Platja de Son Xoriguer;7;Islas Baleares;1;14;14;14
+34209;Marinhas;420;Santo António;1;17;17;17
+34254;Santa Ana Tlapaltitlán;113;Estado de México;1;14;14;14
+34304;Faial;182;Madeira;1;2;2;2
+33429;Randa;7;Islas Baleares;1;38;38;38
+33436;Vallès Oriental;8;Barcelona;1;9;9;9
+33463;El Alquián;18;Granada;1;3;3;3
+33242;São Vicente;456;Santa Maria Maior;1;61;61;61
+33248;El Palmar;30;Murcia;1;20;20;20
+33251;Carrús;3;Alicante;1;97;97;97
+33263;Vallès Occidental;8;Barcelona;1;30;30;30
+33307;Sesimbra (Castelo);420;Santo António;1;4;4;4
+33322;Cantabria;39;Cantabria;1;16;16;16
+194;Catral;3;Alicante;1;29;29;29
+167;Benidoleig;3;Alicante;1;20;20;20
+14;Bernedo;1;Álava;1;8;8;8
+34;Moreda de Álava/Moreda Araba;1;Álava;1;29;29;29
+133;Villarrobledo;2;Albacete;1;47;47;47
+147;Alcoy/Alcoi;3;Alicante;1;23;23;23
+445;Fresnedilla;5;Ávila;1;1;1;1
+640;Almendralejo;6;Badajoz;1;20;20;20
+214;Guardamar del Segura;3;Alicante;1;46;46;46
+229;Novelda;3;Alicante;1;24;24;24
+234;Orihuela;3;Alicante;1;25;25;25
+260;Sant Joan d'Alacant;3;Alicante;1;98;98;98
+261;Santa Pola;3;Alicante;1;61;61;61
+310;Carboneras;4;Almería;1;117;117;117
+317;Ejido, El;4;Almería;1;225;225;225
+329;Huércal-Overa;4;Almería;1;9;9;9
+340;Mojácar;4;Almería;1;79;79;79
+814;Deià;7;Islas Baleares;1;0;0;0
+809;Capdepera;7;Islas Baleares;1;12;12;12
+785;Villanueva de la Serena;6;Badajoz;1;12;12;12
+795;Alaior;7;Islas Baleares;1;19;19;19
+822;Fornalutx;7;Islas Baleares;1;38;38;38
+982;Martorell;8;Barcelona;1;25;25;25
+1013;Olesa de Montserrat;8;Barcelona;1;11;11;11
+1056;Saldes;8;Barcelona;1;49;49;49
+1029;Piera;8;Barcelona;1;28;28;28
+1034;Polinyà;8;Barcelona;1;4;4;4
+1124;Santa Maria de Palautordera;8;Barcelona;1;12;12;12
+1061;Sant Andreu de Llavaneres;8;Barcelona;1;67;67;67
+1163;Vilafranca del Penedès;8;Barcelona;1;58;58;58
+1166;Vilanova del Camí;8;Barcelona;1;28;28;28
+885;Berga;8;Barcelona;1;15;15;15
+903;Canet de Mar;8;Barcelona;1;67;67;67
+909;Cardedeu;8;Barcelona;1;38;38;38
+910;Cardona;8;Barcelona;1;0;0;0
+932;Cerdanyola del Vallès;8;Barcelona;1;14;14;14
+964;Gualba;8;Barcelona;1;47;47;47
+965;Guardiola de Berguedà;8;Barcelona;1;140;140;140
+969;Igualada;8;Barcelona;1;7;7;7
+975;Llinars del Vallès;8;Barcelona;1;68;68;68
+868;Arenys de Mar;8;Barcelona;1;23;23;23
+864;Aiguafreda;8;Barcelona;1;249;249;249
+856;Sencelles;7;Islas Baleares;1;24;24;24
+852;Santa Margalida;7;Islas Baleares;1;80;80;80
+2140;Carballo;15;A Coruña;1;25;25;25
+2143;Carral;15;A Coruña;1;0;0;0
+1920;Torreblanca;12;Castellón;1;117;117;117
+1874;Lucena del Cid;12;Castellón;1;26;26;26
+2002;Miguelturra;13;Ciudad Real;1;13;13;13
+2016;Puerto Lápice;13;Ciudad Real;1;3;3;3
+2187;Pino, O;15;A Coruña;1;33;33;33
+1335;Melgar de Fernamental;9;Burgos;1;8;8;8
+1769;Algeciras;11;Cádiz;1;41;41;41
+1774;Benalup-Casas Viejas;11;Cádiz;1;7;7;7
+1395;Quintanapalla;9;Burgos;1;0;0;0
+1459;Tardajos;9;Burgos;1;10;10;10
+1559;Aldeanueva del Camino;10;Cáceres;1;141;141;141
+1563;Almaraz;10;Cáceres;1;29;29;29
+2484;Calonge;17;Girona;1;13;13;13
+2521;Fornells de la Selva;17;Girona;1;12;12;12
+2559;Olot;17;Girona;1;19;19;19
+2562;Palafrugell;17;Girona;1;34;34;34
+2545;Maçanet de Cabrenys;17;Girona;1;21;21;21
+2529;Gualta;17;Girona;1;66;66;66
+2594;Riumors;17;Girona;1;11;11;11
+2588;Ribes de Freser;17;Girona;1;14;14;14
+2589;Riells i Viabrea;17;Girona;1;19;19;19
+2566;Palau-saverdera;17;Girona;1;0;0;0
+2618;Sant Miquel de Campmajor;17;Girona;1;28;28;28
+2622;Sant Pere Pescador;17;Girona;1;16;16;16
+4020;Vall de Boí, La;25;Lleida;1;20;20;20
+3963;Ponts;25;Lleida;1;6;6;6
+3994;Solsona;25;Lleida;1;50;50;50
+4002;Tàrrega;25;Lleida;1;0;0;0
+3574;Santa Elena;23;Jaén;1;19;19;19
+3588;Úbeda;23;Jaén;1;1;1;1
+3617;Boñar;24;León;1;0;0;0
+3626;Cacabelos;24;León;1;21;21;21
+3850;Bell-lloc d'Urgell;25;Lleida;1;32;32;32
+3915;Les;25;Lleida;1;11;11;11
+4141;Navarrete;26;La Rioja;1;19;19;19
+4072;Briñas;26;La Rioja;1;26;26;26
+4303;Boalo, El;28;Madrid;1;1;1;1
+4312;Camarma de Esteruelas;28;Madrid;1;0;0;0
+4318;Cercedilla;28;Madrid;1;1;1;1
+4321;Chinchón;28;Madrid;1;28;28;28
+4289;Algete;28;Madrid;1;10;10;10
+3245;Cortegana;21;Huelva;1;15;15;15
+3250;Encinasola;21;Huelva;1;11;11;11
+3505;Andújar;23;Jaén;1;1;1;1
+3510;Baeza;23;Jaén;1;9;9;9
+3511;Bailén;23;Jaén;1;14;14;14
+2751;Guadix;18;Granada;1;23;23;23
+2764;Iznalloz;18;Granada;1;37;37;37
+2795;Ogíjares;18;Granada;1;42;42;42
+2812;Pulianas;18;Granada;1;117;117;117
+2843;Zújar;18;Granada;1;8;8;8
+2863;Almonacid de Zorita;19;Guadalajara;1;13;13;13
+3181;Irun;20;Guipúzcoa;1;1;1;1
+3147;Arrasate/Mondragón;20;Guipúzcoa;1;7;7;7
+3149;Astigarraga;20;Guipúzcoa;1;2;2;2
+3154;Beasain;20;Guipúzcoa;1;5;5;5
+4565;Alcantarilla;30;Murcia;1;8;8;8
+4553;Vélez-Málaga;29;Málaga;1;102;102;102
+4541;Riogordo;29;Málaga;1;4;4;4
+4501;Coín;29;Málaga;1;0;0;0
+4818;Peralta/Azkoien;31;Navarra;1;12;12;12
+4596;San Javier;30;Murcia;1;14;14;14
+4853;Urdazubi/Urdax;31;Navarra;1;7;7;7
+4933;Peroxa, A;32;Ourense;1;13;13;13
+5004;Llanes;33;Asturias;1;12;12;12
+5007;Muros de Nalón;33;Asturias;1;56;56;56
+5008;Nava;33;Asturias;1;11;11;11
+4441;Valdilecha;28;Madrid;1;39;39;39
+4425;Torrejón de Velasco;28;Madrid;1;1;1;1
+4417;Sevilla la Nueva;28;Madrid;1;13;13;13
+4372;Navacerrada;28;Madrid;1;39;39;39
+4397;Rascafría;28;Madrid;1;44;44;44
+4360;Majadahonda;28;Madrid;1;16;16;16
+4364;Miraflores de la Sierra;28;Madrid;1;30;30;30
+4369;Moralzarzal;28;Madrid;1;17;17;17
+5286;Covelo;36;Pontevedra;1;18;18;18
+5267;Tinajo;35;Las Palmas;1;16;16;16
+5332;Vilaboa;36;Pontevedra;1;17;17;17
+5334;Vilanova de Arousa;36;Pontevedra;1;0;0;0
+5410;Carbajosa de la Sagrada;37;Salamanca;1;15;15;15
+5316;Porriño, O;36;Pontevedra;1;25;25;25
+5705;Breña Baja;38;Santa Cruz de Tenerife;1;0;0;0
+5598;San Martín del Castañar;37;Salamanca;1;17;17;17
+5638;Topas;37;Salamanca;1;0;0;0
+5689;Vilvestre;37;Salamanca;1;5;5;5
+4990;Cudillero;33;Asturias;1;37;37;37
+5019;Pravia;33;Asturias;1;145;145;145
+5034;Siero;33;Asturias;1;0;0;0
+5041;Tineo;33;Asturias;1;62;62;62
+5054;Ampudia;34;Palencia;1;6;6;6
+5089;Cervera de Pisuerga;34;Palencia;1;2;2;2
+5259;Santa Brígida;35;Las Palmas;1;32;32;32
+5260;Santa Lucía de Tirajana;35;Las Palmas;1;6;6;6
+5756;Arnuero;39;Cantabria;1;16;16;16
+5758;Astillero, El;39;Cantabria;1;3;3;3
+5721;Orotava, La;38;Santa Cruz de Tenerife;1;15;15;15
+5710;Fuencaliente de la Palma;38;Santa Cruz de Tenerife;1;35;35;35
+5711;Garachico;38;Santa Cruz de Tenerife;1;49;49;49
+6065;Alcalá de Guadaíra;41;Sevilla;1;7;7;7
+5835;Suances;39;Cantabria;1;7;7;7
+5837;Torrelavega;39;Cantabria;1;0;0;0
+5971;Mozoncillo;40;Segovia;1;4;4;4
+5992;Pedraza;40;Segovia;1;12;12;12
+8094;Valpalmas;50;Zaragoza;1;0;0;0
+8106;Villanueva de Gállego;50;Zaragoza;1;8;8;8
+8122;Benito Juárez;131;Ciudad de México;1;28;28;28
+8168;Saltillo;106;Coahuila;1;9;9;9
+8136;Aguascalientes;100;Aguascalientes;1;15;15;15
+8206;Colima;107;Colima;1;7;7;7
+8216;Tuxtla Gutiérrez;104;Chiapas;1;9;9;9
+8440;Guanajuato;109;Guanajuato;1;15;15;15
+8446;Irapuato;109;Guanajuato;1;5;5;5
+8662;San Pedro Tlaquepaque;112;Jalisco;1;4;4;4
+8663;Tlajomulco de Zúñiga;112;Jalisco;1;9;9;9
+8881;Texcoco;113;Estado de México;1;2;2;2
+8902;Morelia;114;Michoacán;1;5;5;5
+9119;Oaxaca de Juárez;118;Oaxaca;1;7;7;7
+9689;Puebla;119;Puebla;1;11;11;11
+10407;Coatzacoalcos;128;Veracruz;1;14;14;14
+9992;Culiacán;123;Sinaloa;1;5;5;5
+10082;Centro;125;Tabasco;1;15;15;15
+11523;Almeirim;134;Santarém;1;31;31;31
+11547;Alcácer do Sal;135;Setúbal;1;8;8;8
+11551;Almada;135;Setúbal;1;27;27;27
+11554;Barreiro;135;Setúbal;1;21;21;21
+11565;Quinta do Anjo;135;Setúbal;1;9;9;9
+11562;Palmela;135;Setúbal;1;9;9;9
+11579;Beja;136;Beja;1;4;4;4
+11580;Castro Verde;136;Beja;1;12;12;12
+11581;Cuba;136;Beja;1;8;8;8
+11471;Loures;132;Lisboa;1;28;28;28
+11455;Amadora;132;Lisboa;1;30;30;30
+11458;Barcarena;132;Lisboa;1;39;39;39
+11500;Batalha;133;Leiria;1;17;17;17
+11502;Bombarral;133;Leiria;1;7;7;7
+11481;Póvoa de Santa Iria;132;Lisboa;1;14;14;14
+11485;Sacavém;132;Lisboa;1;34;34;34
+6352;Albiol, L';43;Tarragona;1;0;0;0
+6159;Utrera;41;Sevilla;1;18;18;18
+6263;Medinaceli;42;Soria;1;7;7;7
+6388;Calafell;43;Tarragona;1;0;0;0
+6363;Ametlla de Mar, L';43;Tarragona;1;63;63;63
+6464;Pont d'Armentera, El;43;Tarragona;1;0;0;0
+6526;Vila-seca;43;Tarragona;1;19;19;19
+6509;Tortosa;43;Tarragona;1;5;5;5
+6507;Torredembarra;43;Tarragona;1;36;36;36
+6702;Puebla de Valverde, La;44;Teruel;1;8;8;8
+6990;Alcàsser;46;Valencia;1;110;110;110
+6761;Villarluengo;44;Teruel;1;17;17;17
+6788;Bargas;45;Toledo;1;1;1;1
+7044;Bétera;46;Valencia;1;91;91;91
+7046;Bocairent;46;Valencia;1;43;43;43
+7174;Quart de Poblet;46;Valencia;1;108;108;108
+7185;Riba-roja de Túria;46;Valencia;1;2;2;2
+7193;San Antonio de Benagéber;46;Valencia;1;42;42;42
+7210;Tavernes de la Valldigna;46;Valencia;1;0;0;0
+7363;Quintanilla de Onésimo;47;Valladolid;1;4;4;4
+7164;Pobla de Farnals, la;46;Valencia;1;74;74;74
+8049;Sádaba;50;Zaragoza;1;9;9;9
+7939;Gallur;50;Zaragoza;1;7;7;7
+7984;Mequinenza;50;Zaragoza;1;17;17;17
+7471;Arakaldo;48;Vizcaya;1;0;0;0
+7544;Mundaka;48;Vizcaya;1;0;0;0
+7555;Plentzia;48;Vizcaya;1;12;12;12
+7558;Sestao;48;Vizcaya;1;15;15;15
+7728;Puebla de Sanabria;49;Zamora;1;0;0;0
+7824;Zamora;49;Zamora;1;8;8;8
+7883;Bujaraloz;50;Zaragoza;1;5;5;5

@@ -1,0 +1,35 @@
+﻿FieldId;FieldName;N;TotalApplications;Mean;P50
+14;Hotel Chain;8420;498355;59;36
+0;Not specified;6480;163974;25;17
+1;Independent Hotel;2926;190108;65;41
+10;Others;1140;43153;38;28
+2;Restaurant;920;44646;49;33
+17;Recruitment Agency;550;25938;47;30
+19;Travel Agency;530;19223;36;24
+32;Restaurant Chain;458;36063;79;54
+36;Rent a car;390;3922;10;0
+37;Tourist apartments;381;28385;75;45
+46;Business group;283;9636;34;21
+53;Outsourcing / externalization of services;251;16321;65;35
+20;Consultancy;177;11919;67;39
+28;Campsite;143;6118;43;32
+33;Active Turism;95;5169;54;36
+52;Cruises;90;2770;31;21
+7;Hostel / Pension;88;10353;118;96
+29;Entertainment;86;1736;20;0
+21;Tour Operators;61;3265;54;34
+47;Cleaning and maintenance;61;3677;60;30
+26;Bar;60;2384;40;25
+12;Catering;45;2255;50;36
+34;New Technologies/ Internet;42;968;23;16
+27;Training;39;143;4;0
+45;Tour guide;38;886;23;21
+48;Tourism Agency;36;748;21;0
+25;Transport;30;1114;37;23
+31;Spa;29;1322;46;32
+54;Collective catering;21;905;43;36
+50;Rural Tourism / Agritourism / Hotel Rural;17;595;35;29
+35;Marketing agency;17;403;24;15
+42;Golf Courses;11;410;37;20
+30;Events & Conferences;11;738;67;46
+24;Airline;10;1087;109;88

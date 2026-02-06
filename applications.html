@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reporte de Competencia Laboral 2025 | Inscripciones por Segmento</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/applications.css">
+
+    <!-- Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+    <!-- Leaflet Map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+</head>
+<body>
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay active">
+        <div class="loading-spinner"></div>
+        <p>Cargando datos de competencia...</p>
+    </div>
+
+    <!-- Error Container -->
+    <div id="error-container" style="display:none"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <span class="brand-icon">📊</span>
+                <span class="brand-text">Reporte de Inscripciones 2025</span>
+            </div>
+            <div class="nav-links">
+                <a href="#resumen" class="nav-link active">Resumen</a>
+                <a href="#explorador" class="nav-link">Explorador</a>
+                <a href="#posiciones" class="nav-link">Posiciones</a>
+                <a href="#geografia" class="nav-link">Geografía</a>
+                <a href="#sectores" class="nav-link">Sectores</a>
+                <a href="#comparador" class="nav-link">Comparador</a>
+            </div>
+            <div class="nav-actions">
+                <a href="index.html" class="nav-btn">📈 Ver Salarios</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="resumen">
+        <div class="hero-content">
+            <h1>Análisis de Competencia en el Mercado Laboral</h1>
+            <p class="hero-subtitle">
+                Descubre cuántas inscripciones reciben las ofertas de empleo por puesto, ubicación y sector.
+                Datos basados en ofertas publicadas en 2025.
+            </p>
+        </div>
+    </header>
+
+    <!-- Summary Metrics -->
+    <section class="section summary-section">
+        <div class="container">
+            <div class="metrics-grid">
+                <div class="metric-card" id="metric-offers"></div>
+                <div class="metric-card" id="metric-applications"></div>
+                <div class="metric-card highlight" id="metric-median"></div>
+                <div class="metric-card" id="metric-mean"></div>
+            </div>
+
+            <div class="summary-explanation">
+                <div class="explanation-box">
+                    <h3>📖 ¿Cómo interpretar estos datos?</h3>
+                    <div class="explanation-content">
+                        <div class="explanation-item">
+                            <strong>Mediana:</strong>
+                            <span>El valor típico de inscripciones por oferta. La mitad de las ofertas reciben menos, y la mitad más.</span>
+                        </div>
+                        <div class="explanation-item">
+                            <strong>Media:</strong>
+                            <span>El promedio de inscripciones. Puede verse afectado por valores extremos.</span>
+                        </div>
+                        <div class="explanation-item">
+                            <strong>Índice de Competencia (IC):</strong>
+                            <span>Compara un segmento con la media global. IC > 1.4 indica alta competencia.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Explorer -->
+    <section class="section explorer-section" id="explorador">
+        <div class="container">
+            <div class="section-header">
+                <h2>🗺️ Explorador Interactivo</h2>
+                <p>Navega por países, regiones y ciudades. Filtra por puesto o sector.</p>
+            </div>
+
+            <!-- Filters -->
+            <div class="filters-bar">
+                <div class="filter-group">
+                    <label for="filter-title">Puesto</label>
+                    <select id="filter-title" class="filter-select"></select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-field">Sector</label>
+                    <select id="filter-field" class="filter-select"></select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-country">País</label>
+                    <select id="filter-country" class="filter-select"></select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-min-n">Mínimo ofertas</label>
+                    <select id="filter-min-n" class="filter-select"></select>
+                </div>
+                <button id="clear-filters" class="btn btn-secondary">Limpiar filtros</button>
+            </div>
+
+            <!-- Active Filters -->
+            <div id="active-filters" class="active-filters">
+                <span class="no-filters">Sin filtros activos</span>
+            </div>
+
+            <!-- View Toggle + Breadcrumb -->
+            <div class="explorer-controls">
+                <div id="location-breadcrumb" class="location-breadcrumb">
+                    <span class="breadcrumb-home">Global</span>
+                </div>
+                <div class="view-toggle">
+                    <button id="view-bars" class="view-btn active" title="Vista de Barras">
+                        <span>📊</span> Barras
+                    </button>
+                    <button id="view-map" class="view-btn" title="Vista de Mapa">
+                        <span>🗺️</span> Mapa
+                    </button>
+                </div>
+            </div>
+
+            <!-- Explorer Content -->
+            <div class="explorer-grid">
+                <!-- Chart/Map Container -->
+                <div class="explorer-map">
+                    <!-- Bar Chart View (default) -->
+                    <div id="map-container" class="map-container"></div>
+                    <!-- Leaflet Map View (hidden by default) -->
+                    <div id="leaflet-map-container" class="leaflet-map-container" style="display:none">
+                        <div id="leaflet-map" class="leaflet-map"></div>
+                    </div>
+                </div>
+
+                <!-- Insights Panel -->
+                <div class="explorer-insights">
+                    <h3>💡 Insights del Segmento</h3>
+                    <div id="insights-panel" class="insights-panel">
+                        <p class="no-insights">Selecciona un segmento para ver insights</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Positions Section -->
+    <section class="section positions-section" id="posiciones">
+        <div class="container">
+            <div class="section-header">
+                <h2>💼 Análisis por Puesto</h2>
+                <p>Competencia por inscripciones en cada tipo de puesto</p>
+            </div>
+
+            <div class="charts-row">
+                <div class="chart-container">
+                    <h3>🔥 Puestos con Mayor Competencia</h3>
+                    <p class="chart-subtitle">Más inscripciones por oferta = más difícil conseguir el puesto</p>
+                    <div class="chart-wrapper">
+                        <canvas id="chart-top-competition"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <h3>📋 Puestos con Más Ofertas</h3>
+                    <p class="chart-subtitle">Sectores con mayor volumen de vacantes</p>
+                    <div class="chart-wrapper">
+                        <canvas id="chart-top-volume"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-section">
+                <h3>📑 Tabla Completa de Puestos <span id="titles-filter-badge" class="filter-context-badge" style="display:none"></span></h3>
+                <div id="titles-table" class="table-container"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Geography Section -->
+    <section class="section geography-section" id="geografia">
+        <div class="container">
+            <div class="section-header">
+                <h2>📍 Análisis Geográfico</h2>
+                <p>Delivery de candidatos por ubicación: regiones y ciudades</p>
+                <div id="geo-filter-indicator" class="geo-filter-indicator" style="display:none">
+                    <span class="filter-icon">🔍</span>
+                    <span id="geo-filter-text">Mostrando datos filtrados</span>
+                    <button id="geo-clear-filter" class="btn-clear-filter">✕ Quitar filtro</button>
+                </div>
+            </div>
+
+            <div class="geo-tables-grid">
+                <div class="table-section">
+                    <h3>🗺️ Por Región <span id="regions-filter-badge" class="filter-context-badge" style="display:none"></span></h3>
+                    <div id="regions-table" class="table-container"></div>
+                </div>
+                <div class="table-section">
+                    <h3>🏙️ Por Ciudad <span id="cities-filter-badge" class="filter-context-badge" style="display:none"></span></h3>
+                    <div id="cities-table" class="table-container"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sectors Section -->
+    <section class="section sectors-section" id="sectores">
+        <div class="container">
+            <div class="section-header">
+                <h2>🏢 Análisis por Sector</h2>
+                <p>Competencia según tipo de empresa</p>
+            </div>
+
+            <div class="chart-container">
+                <h3>Competencia por Tipo de Empresa</h3>
+                <div class="chart-wrapper chart-wrapper-tall">
+                    <canvas id="chart-fields"></canvas>
+                </div>
+            </div>
+
+            <div class="table-section">
+                <h3>📑 Tabla de Sectores</h3>
+                <div id="fields-table" class="table-container"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Comparison Section -->
+    <section class="section comparison-section" id="comparador">
+        <div class="container">
+            <div class="section-header">
+                <h2>⚖️ Comparador de Segmentos</h2>
+                <p>Compara el delivery de candidatos entre segmentos del mismo tipo</p>
+            </div>
+
+            <div class="comparison-controls">
+                <div class="compare-type-group">
+                    <label>Tipo de Segmento</label>
+                    <select id="compare-type" class="filter-select compare-type-select">
+                        <option value="">Selecciona tipo...</option>
+                        <option value="title">Puesto de Trabajo</option>
+                        <option value="country">País</option>
+                        <option value="region">Región</option>
+                        <option value="city">Ciudad</option>
+                        <option value="field">Sector</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="comparison-values-controls" id="comparison-values" style="display:none;">
+                <div class="compare-select-group">
+                    <label id="compare-label-1">Valor 1</label>
+                    <select id="compare-segment-1" class="filter-select compare-select"></select>
+                </div>
+                <div class="compare-vs">VS</div>
+                <div class="compare-select-group">
+                    <label id="compare-label-2">Valor 2</label>
+                    <select id="compare-segment-2" class="filter-select compare-select"></select>
+                </div>
+            </div>
+
+            <div class="comparison-results">
+                <div id="comparison-table" class="comparison-table-container"></div>
+                <div id="comparison-insights" class="comparison-insights"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Methodology Section -->
+    <section class="section methodology-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>📚 Metodología</h2>
+            </div>
+
+            <div class="methodology-grid">
+                <div class="methodology-card">
+                    <h4>📊 Fuente de Datos</h4>
+                    <p>Inscripciones a ofertas de empleo publicadas en 2025. Se analizaron todas las inscripciones recibidas durante el periodo activo de cada oferta.</p>
+                </div>
+                <div class="methodology-card">
+                    <h4>📐 Métrica Principal</h4>
+                    <p>La <strong>mediana</strong> de inscripciones por oferta es la métrica clave. Representa el valor típico, menos afectado por extremos que la media.</p>
+                </div>
+                <div class="methodology-card">
+                    <h4>🎯 Índice de Competencia</h4>
+                    <p>IC = Mediana del segmento / Mediana global. Un IC > 1.4 indica mercado saturado; IC < 0.7 indica oportunidad.</p>
+                </div>
+                <div class="methodology-card">
+                    <h4>⚠️ Filtros Aplicados</h4>
+                    <p>Solo se incluyen segmentos con mínimo 5-10 ofertas para garantizar significancia estadística.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <span>📊 Reporte de Competencia Laboral 2025</span>
+                </div>
+                <div class="footer-links">
+                    <a href="index.html">Ver Reporte Salarial</a>
+                    <span class="footer-separator">|</span>
+                    <span>Datos actualizados: 2025</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Detail Modal -->
+    <div id="detail-modal" class="modal"></div>
+
+    <!-- Scripts -->
+    <script src="js/applications-data-loader.js"></script>
+    <script src="js/applications-insights.js"></script>
+    <script src="js/applications-map.js"></script>
+    <script src="js/applications-leaflet-map.js"></script>
+    <script src="js/applications-tables.js"></script>
+    <script src="js/applications-main.js"></script>
+
+    <!-- Populate Comparison Selects -->
+    <script>
+        // After dashboard is initialized, populate comparison selects
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(() => {
+                const dataLoader = window.applicationsDataLoader;
+                if (!dataLoader || !dataLoader.isLoaded) return;
+
+                const titles = dataLoader.getTop(dataLoader.data.titles, 'n', 50);
+                const options = titles.map(t => `<option value="${t.id}">${t.name}</option>`).join('');
+
+                document.getElementById('compare-segment-1').innerHTML =
+                    '<option value="">Selecciona un puesto</option>' + options;
+                document.getElementById('compare-segment-2').innerHTML =
+                    '<option value="">Selecciona un puesto</option>' + options;
+            }, 2000);
+        });
+    </script>
+</body>
+</html>
