@@ -221,11 +221,19 @@ class ApplicationsDashboard {
             this.updateComparison();
         });
 
-        // Navigation
+        // Navigation - only handle internal anchor links
         document.querySelectorAll('.nav-link').forEach(link => {
             link.addEventListener('click', (e) => {
+                const href = link.getAttribute('href');
+
+                // Only handle internal anchor links (starting with #)
+                // Allow external page links to navigate normally
+                if (!href || !href.startsWith('#')) {
+                    return; // Let the browser handle normal navigation
+                }
+
                 e.preventDefault();
-                const target = document.querySelector(link.getAttribute('href'));
+                const target = document.querySelector(href);
                 if (target) {
                     target.scrollIntoView({ behavior: 'smooth' });
                 }

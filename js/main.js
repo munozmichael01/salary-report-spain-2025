@@ -41,6 +41,14 @@ class Dashboard {
 
         navLinks.forEach(link => {
             link.addEventListener('click', (e) => {
+                const targetId = link.getAttribute('href');
+
+                // Only handle internal anchor links (starting with #)
+                // Allow external page links to navigate normally
+                if (!targetId || !targetId.startsWith('#')) {
+                    return; // Let the browser handle normal navigation
+                }
+
                 e.preventDefault();
 
                 // Update active state
@@ -48,7 +56,6 @@ class Dashboard {
                 link.classList.add('active');
 
                 // Smooth scroll to section
-                const targetId = link.getAttribute('href');
                 const targetSection = document.querySelector(targetId);
 
                 if (targetSection) {
